@@ -1,0 +1,6818 @@
+<?xml version="1.0"?>
+<LocalizedData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" language="English" languageCode="en">
+  <Item id="menu_start_game">
+        새 게임
+    </Item>
+  <Item id="menu_exit_game">
+        나가기
+    </Item>
+  <Item id="menu_credits">
+        제작진
+    </Item>
+  <Item id="menu_continue_game">
+        계속하기
+    </Item>
+  <Item id="menu_achievements">
+        업적
+    </Item>
+  <Item id="hero_necropolis">
+        영웅의 묘지
+    </Item>
+  <Item id="best_heroes">
+        최고의 영웅들
+    </Item>
+  <Item id="menu_settings">
+        설정
+    </Item>
+  <Item id="menu_controls">
+        조작키
+    </Item>
+  <Item id="menu_resolution">
+        해상도
+    </Item>
+  <Item id="menu_vertical_sync">
+        수직 동기화
+    </Item>
+  <Item id="menu_in_window">
+        창 모드
+    </Item>
+  <Item id="menu_quality">
+        그래픽 품질
+    </Item>
+  <Item id="menu_anti_aliasing">
+        안티앨리어싱
+    </Item>
+  <Item id="menu_goto_main_menu">
+        메인 메뉴로 이동
+    </Item>
+  <Item id="menu_back">
+        메뉴로 돌아가기
+    </Item>
+  <Item id="menu_go_back">
+        뒤로
+    </Item>
+  <Item id="menu_choose">
+        선택
+    </Item>
+  <Item id="menu_go_to_dungeon">
+        던전으로
+    </Item>
+  <Item id="menu_pause">
+        * 일시 정지 *
+    </Item>
+  <Item id="scene_loading">
+        로딩 중
+    </Item>
+  <Item id="loot_action">
+        획득
+    </Item>
+  <Item id="loot_all_action">
+        모두 획득
+    </Item>
+  <Item id="ui_read_note">
+        읽기
+    </Item>
+  <Item id="ui_character_tied">
+        피로
+    </Item>
+  <Item id="ui_hero_selection">
+        영웅 선택
+    </Item>
+  <Item id="ui_level_completion_story">
+        당신은 잊혀진 던전 {0}층의 어둠과 위험을 헤쳐 나갔습니다.
+    </Item>
+  <Item id="ui_level_completion_normal">
+        당신은 저주받은 던전 {0}층의 어둠과 위험을 헤쳐 나갔습니다.
+    </Item>
+  <Item id="ui_level_completion_nightmare">
+        당신은 악몽의 던전 {0}층의 죽음과 공포를 헤쳐 나갔습니다.
+    </Item>
+  <Item id="dialog_change">
+        변경
+    </Item>
+  <Item id="dialog_close">
+        닫기
+    </Item>
+  <Item id="dialog_cancel">
+        취소
+    </Item>
+  <Item id="dialog_yes">
+        예
+    </Item>
+  <Item id="dialog_no">
+        아니요
+    </Item>
+  <Item id="dialog_not_now">
+        나중에
+    </Item>
+  <Item id="dialog_continue">
+        계속
+    </Item>
+  <Item id="dialog_use_item">
+        사용
+    </Item>
+  <Item id="dialog_eqipped_label">
+        * 사용 중 *
+    </Item>
+  <Item id="dialog_items_found">
+        발견함
+    </Item>
+  <Item id="dialog_read">
+        읽기
+    </Item>
+  <Item id="corpse_search_for_loot">
+        시체 뒤지기
+    </Item>
+  <Item id="corpse_browse_cloth">
+        방어구 살펴보기
+    </Item>
+  <Item id="inventory_title">
+        소지품
+    </Item>
+  <Item id="inventory_unequip_button">
+        해제
+    </Item>
+  <Item id="inventory_drop_button">
+        버리기
+    </Item>
+  <Item id="picklock_open">
+        열기
+    </Item>
+  <Item id="lock_open_with_key">
+        열쇠 사용
+    </Item>
+  <Item id="lock_open_with_picklock">
+        락픽 사용
+    </Item>
+  <Item id="lock_open_with_crowbar">
+        쇠지렛대 사용
+    </Item>
+  <Item id="lock_open_with_crowbar_question">
+        쇠지렛대를 사용하시겠습니까?
+    </Item>
+  <Item id="lock_open_crack">
+        부수기
+    </Item>
+  <Item id="lock_door_locked">
+        문이 잠겨 있습니다
+    </Item>
+  <Item id="player_specs">
+        캐릭터
+    </Item>
+  <Item id="item_quality_very_bad">
+        최악
+    </Item>
+  <Item id="item_quality_bad">
+        하급
+    </Item>
+  <Item id="item_quality_good">
+        상급
+    </Item>
+  <Item id="item_quality_excellent">
+        최상급
+    </Item>
+  <Item id="item_twohand">
+        양손
+    </Item>
+  <Item id="item_onehand">
+        한손
+    </Item>
+  <Item id="shield_heavy">
+        대형 방패
+    </Item>
+  <Item id="shield_medium">
+        중형 방패
+    </Item>
+  <Item id="shield_light">
+        소형 방패
+    </Item>
+  <Item id="screen_1_title">
+        다르그로스
+    </Item>
+  <Item id="screen_1_desc">
+        *다르그로스.* 이곳은 어둠과 수수께끼에 휩싸여 있다. 수 세기 동안 이곳에서 흘린 피에 관한 음울한 전설들이 전해져 왔다.
+
+        바닥을 알 수 없는 지하 세계. 노인들은 우리보다 훨씬 이전에 이곳에 강대한 문명이 살았다고 말한다. 이제 이곳은 어둠과 끔찍한 피조물들의 소굴이 되었다 — 우리 세상과는 이질적이며, 그만큼이나 오래된 곳.
+    </Item>
+  <Item id="screen_2_title">
+        저주받은 주둔지
+    </Item>
+  <Item id="screen_2_desc">
+        *저주받은 주둔지*는 밤낮으로 위험한 던전을 지킨다.
+
+        추방자, 쓰레기, 범죄자 — 온갖 오합지졸이 죄를 씻기 위해 이곳으로 보내진다. 사람들은 이 버림받은 곳으로 보내지느니 차라리 교수대에서 죽는 편이 낫다고 말한다.
+    </Item>
+  <Item id="level">
+        레벨
+    </Item>
+  <Item id="level1_desc">
+        다르그로스의 관문
+    </Item>
+  <Item id="level2_desc">
+        경비대의 보루
+    </Item>
+  <Item id="level4_desc">
+        대도서관
+    </Item>
+  <Item id="info_investigate">
+        * 조사하기 *
+    </Item>
+  <Item id="info_transition">
+        * 구멍으로 들어가기 *
+    </Item>
+  <Item id="info_transition_rope">
+        * 심연으로 내려가기 *
+    </Item>
+  <Item id="info_door_open">
+        * 문 열기 *
+    </Item>
+  <Item id="info_door_close">
+        * 문 닫기 *
+    </Item>
+  <Item id="info_goto_next_level">
+        * 아래층으로 내려가기 *
+    </Item>
+  <Item id="info_sleeping_place">
+        * 휴식 *
+    </Item>
+  <Item id="info_activate_object">
+        * 작동시키기 *
+    </Item>
+  <Item id="info_activate_lamp">
+        * 불 켜기 *
+    </Item>
+  <Item id="info_activate_switch">
+        * 스위치 누르기 *
+    </Item>
+  <Item id="info_rope_up">
+        * 밧줄 타고 올라가기 *
+    </Item>
+  <Item id="info_rope_down">
+        * 밧줄 타고 내려가기 *
+    </Item>
+  <Item id="secret_place_found">
+        비밀 통로다!
+    </Item>
+  <Item id="ui_locked">
+        잠김
+    </Item>
+  <Item id="ui_loot_exist">
+        전리품 있음
+    </Item>
+  <Item id="ui_unique_loot_exist">
+        귀중한 전리품
+    </Item>
+  <Item id="ui_needs_item">
+        아이템 필요
+    </Item>
+  <Item id="ui_needs_key">
+        열쇠 필요
+    </Item>
+  <Item id="ui_needs_item_rope">
+        밧줄 필요
+    </Item>
+  <Item id="ui_grill_not_investigated">
+        아직 탐색하지 않은 구멍
+    </Item>
+  <Item id="ui_rope_not_investigated">
+        아직 탐색하지 않은 심연
+    </Item>
+  <Item id="ui_next_level_question">
+        던전의 더 깊은 곳으로 나아가시겠습니까?
+    </Item>
+  <Item id="ui_lamp_adds_success">
+        * 랜턴 불빛이 부상을 방지하는 데 도움을 줍니다 *
+    </Item>
+  <Item id="ui_needs_lamp_for_success">
+        * 이곳을 더 안전하게 탐험하려면 랜턴을 찾으십시오 *
+    </Item>
+  <Item id="ui_is_overloaded">
+        * 장비가 무겁습니다 *
+    </Item>
+  <Item id="lock_opened_with_key">
+        맞는 열쇠다!
+    </Item>
+  <Item id="lock_opened_with_picklock_easy">
+        어린애 장난이군!
+    </Item>
+  <Item id="lock_opened_with_picklock_medium">
+        락픽과 재빠른 손놀림의 승리다!
+    </Item>
+  <Item id="lock_opened_with_picklock_heavy">
+        달인에게도 벅찬 상대였어!
+    </Item>
+  <Item id="lock_failed_crowbar">
+        쉽게 열리지 않는다...
+    </Item>
+  <Item id="string_58">
+        단단히 걸렸다! 이제 열 수 없다...
+    </Item>
+  <Item id="lock_ask_to_open_with_picklock">
+        락픽으로 열기를 시도하시겠습니까?
+    </Item>
+  <Item id="lock_class1">
+        자물쇠가 꽤 단순해 보입니다.
+        구조가 복잡하지 않아 충분히 다룰 수 있을 것입니다.
+    </Item>
+  <Item id="lock_class2">
+        가장 단순한 자물쇠는 아니지만, 아마 열 수 있을 것입니다.
+    </Item>
+  <Item id="lock_class3">
+        견고한 구조를 가진 자물쇠입니다.
+        여는 데 꽤 애를 먹을 것입니다.
+    </Item>
+  <Item id="lock_class4">
+        이 자물쇠의 복잡한 구조 중 일부는 처음 보는 것입니다. 열 수 있을 가능성은 희박합니다.
+    </Item>
+  <Item id="lock_class5">
+        끔찍하게 복잡한 자물쇠입니다.
+        이런 자물쇠는 마주해 본 적도 없습니다. 당신의 기술로는 역부족일 것입니다.
+    </Item>
+  <Item id="lock_crowbar_class1">
+        쇠지렛대로 살짝만 비틀어도 장치가 쉽게 부서질 것입니다.
+    </Item>
+  <Item id="lock_crowbar_class2">
+        특별할 건 없습니다. 아마 부술 수 있을 것입니다.
+    </Item>
+  <Item id="lock_crowbar_class3">
+        꽤 견고한 자물쇠입니다. 당신의 기술로 충분할 수도 있지만, 성공할지는 장담할 수 없습니다.
+    </Item>
+  <Item id="lock_crowbar_class4">
+        매우 튼튼한 자물쇠입니다. 강제로 열려면 상당한 힘이 필요하며, 성공 확률은 낮습니다.
+    </Item>
+  <Item id="lock_crowbar_class5">
+        자물쇠가 유난히 튼튼해 보입니다. 이 장치를 부술 수 있을 것 같지 않습니다.
+    </Item>
+  <Item id="lock_picklock_count">
+        남은 락픽: {0}
+    </Item>
+  <Item id="weapon_repair_sharpening">
+        무기 연마
+    </Item>
+  <Item id="weapon_repair_completed">
+        무기 수리 완료
+    </Item>
+  <Item id="weapon_repair_completed_partly">
+        무기 부분 수리됨
+    </Item>
+  <Item id="armor_repair_completed">
+        방어구 수리 완료
+    </Item>
+  <Item id="armor_repair_completed_partly">
+        방어구 부분 수리됨
+    </Item>
+  <Item id="weapon_repair_grindstone_required">
+        숫돌 필요
+    </Item>
+  <Item id="armor_repair_kit_required">
+        장비 수리 도구 필요
+    </Item>
+  <Item id="trap_crafting">
+        함정 제작
+    </Item>
+  <Item id="trap_crafting_question">
+        함정을 제작하시겠습니까?
+    </Item>
+  <Item id="trap_crafting_create">
+        제작
+    </Item>
+  <Item id="trap_added_to_inventory">
+        소지품에 함정 추가됨
+    </Item>
+  <Item id="trap_class1">
+        이 함정의 작동 방식은 꽤 단순하다. 쉽게 해제할 수 있을 것이다.
+    </Item>
+  <Item id="trap_class2">
+        보기만큼 단순한 함정은 아니다. 하지만 아마 해제할 수 있을 것이다.
+    </Item>
+  <Item id="trap_class3">
+        이 함정의 복잡한 작동 방식 중 일부는 처음 보는 것이다. 조심해야 한다.
+    </Item>
+  <Item id="trap_class4">
+        심각한 부상을 입힐 수 있는 위험한 함정이다. 해제하려면 각별한 주의가 필요하다.
+    </Item>
+  <Item id="trap_class5">
+        매우 복잡하고 치명적인 함정이다. 섣불리 해제하려다간 목숨을 잃을 수도 있다.
+    </Item>
+  <Item id="trap_try_deactivate">
+        해제
+    </Item>
+  <Item id="trap_deactivate_question">
+        해제를 시도하시겠습니까?
+    </Item>
+  <Item id="grill_class1">
+        돌벽에 난 이 구멍은 꽤 안전해 보인다. 쉽게 지나갈 수 있겠지만, 반대편에 무엇이 도사리고 있을지는 알 수 없다.
+    </Item>
+  <Item id="grill_class2">
+        돌벽의 구멍을 살펴보니 안쪽에 부서진 돌들이 보인다. 당신의 민첩성과 통찰력이라면 다치지 않고 통과할 수 있을 것이다.
+    </Item>
+  <Item id="grill_class3">
+        날카로운 돌 파편과 빽빽한 거미줄 때문에 통로가 위험해 보인다. 하지만 당신의 민첩성과 통찰력이라면 다치지 않고 기어 나갈 수 있을지도 모른다.
+    </Item>
+  <Item id="grill_class4">
+        돌벽에 난 어두운 구멍에는 부서진 돌, 오래된 뼈, 끈적한 거미줄이 가득하다. 다치지 않고 기어 나갈 가능성은 희박하다.
+    </Item>
+  <Item id="grill_class5">
+        통로는 어둡고 위험해 보인다. 굶주린 나병 쥐들이 날카로운 돌과 고대의 뼈 사이를 쏘다닌다. 안으로 기어들어 가려면 그만한 이유가 있어야 할 것이다.
+    </Item>
+  <Item id="grill_transition_question">
+        이 구멍으로 들어가시겠습니까?
+    </Item>
+  <Item id="grill_transition_name">
+        벽에 난 구멍
+    </Item>
+  <Item id="grill_try_transition">
+        기어가기
+    </Item>
+  <Item id="transition_success_secret">
+        비밀의 장소다!
+    </Item>
+  <Item id="grill_transition_fail">
+        이 빌어먹을 구멍에서 상처를 입고 말았다.
+    </Item>
+  <Item id="rope_class1">
+        바닥에 난 어두운 구멍을 살피며 아래쪽 벽의 윤곽을 가늠해 본다. 밧줄이 있으면 쉽게 내려갈 수 있을 것이다.
+    </Item>
+  <Item id="rope_class2">
+        어두운 구멍 안을 들여다보니 날카로운 돌 턱이 몇 군데 보인다. 당신의 민첩성과 근력이라면 다치지 않고 내려갈 수 있을 것이다.
+    </Item>
+  <Item id="rope_class3">
+        오래된 돌들의 들쭉날쭉한 모서리가 위험해 보인다. 하지만 당신의 민첩성과 근력이라면 무사히 내려갈 수 있을지도 모른다 (50/50).
+    </Item>
+  <Item id="rope_class4">
+        아래의 어둠 속에서 무언가를 보려고 애써 보지만 헛수고다. 내려가는 것은 위험해 보인다.
+    </Item>
+  <Item id="rope_class5">
+        바닥의 갈라진 틈은 깊고 위험해 보인다. 오래된 석판 파편들이 당신의 몸을 갈가리 찢어 놓을 수도 있다. 내려가려면 그만한 이유가 있어야 할 것이다.
+    </Item>
+  <Item id="rope_transition_question">
+        밧줄을 타고 미지의 심연으로 내려가시겠습니까?
+    </Item>
+  <Item id="rope_transition_name">
+        바닥에 난 구멍
+    </Item>
+  <Item id="rope_transition_success">
+        미지의 장소다. 주위를 둘러보는 것이 좋겠다.
+    </Item>
+  <Item id="rope_try_transition">
+        밧줄 타고 내려가기
+    </Item>
+  <Item id="sleeping_asking">
+        휴식을 취하시겠습니까?
+    </Item>
+  <Item id="sleeping_impossible">
+        여기서 쉬는 것은 위험하다. 근처 어딘가에서 괴물들의 소리가 들린다!
+    </Item>
+  <Item id="sleeping_safe">
+        이곳에서는 안전하게 휴식하며 체력을 회복할 수 있다.
+    </Item>
+  <Item id="sleeping_danger_high">
+        휴식하기에 좋은 장소가 아니다. 사방에서 끔찍한 피조물들의 소리가 들려온다.
+    </Item>
+  <Item id="sleeping_danger_mid">
+        여기서 휴식을 시도해 볼 수는 있겠지만, 어둠 속에 끔찍한 피조물들이 도사리고 있을지도 모른다.
+    </Item>
+  <Item id="sleeping_danger_low">
+        이곳에서는 꽤 안전하게 쉴 수 있다. 하지만 방심은 금물이다... 이 저주받은 곳에서는 무슨 일이든 일어날 수 있다.
+    </Item>
+  <Item id="sleeping_close_doors">
+        * 안전하게 자려면 문을 닫으십시오 *
+    </Item>
+  <Item id="sleeping_good_rest">
+        몸 상태가 훨씬 좋아졌다!
+    </Item>
+  <Item id="sleeping_usual_rest">
+        몸 상태가 조금 나아졌다.
+    </Item>
+  <Item id="sleeping_night_invade">
+        빌어먹을 괴물 녀석! 도무지 쉴 수가 없었다.
+    </Item>
+  <Item id="sleeping_rest_nightmare">
+        악몽이...
+    </Item>
+  <Item id="sleeping_rest">
+        야영지
+    </Item>
+  <Item id="sleeping_rest_actions">
+        당신은 문이 잠긴 방에 숨어 있으며, 이곳이라면 방해받지 않을 것 같다.
+        마음 편히 쉴 수 있다.
+    </Item>
+  <Item id="sleeping_end_rest">
+        휴식 마치기
+    </Item>
+  <Item id="sleeping_traps_crafting">
+        함정 제작
+    </Item>
+  <Item id="sleeping_poison_crafting">
+        독약 제작
+    </Item>
+  <Item id="sleeping_rest_journal">
+        일지
+    </Item>
+  <Item id="AltarConsole_description">
+        작고 둥근 홈이 파여 있다. 분명 여기에 무언가를 놓아야 할 것이다.
+    </Item>
+  <Item id="AltarConsole_activated">
+        수수께끼의 장치 일부를 작동시켰다.
+    </Item>
+  <Item id="AltarDoor_description">
+        문은 굳게 닫혀 있다. 중앙에 작은 삼각형 홈이 있다.
+    </Item>
+  <Item id="EngineerDoor_description">
+        문은 굳게 닫혀 있다. 중앙에 작은 원반 모양의 홈이 있다.
+    </Item>
+  <Item id="message_dead_story">
+        잊혀진 던전에서 죽음을 맞이했습니다.
+    </Item>
+  <Item id="message_dead_normal">
+        저주받은 던전에서 죽음을 맞이했습니다.
+    </Item>
+  <Item id="message_dead_nightmare">
+        악몽의 던전에서 죽음을 맞이했습니다.
+    </Item>
+  <Item id="message_dead_from_creatures">
+        다르그로스의 흉측한 괴물들과 싸우다 목숨을 잃었습니다. 이제 끔찍한 피조물들이 당신의 살점을 뜯어먹고, 뼈는 먼지로 변할 것입니다...
+    </Item>
+  <Item id="message_dead_from_abyss">
+        발을 헛디뎌 캄캄한 심연으로 떨어졌습니다. 다르그로스의 알 수 없는 깊은 곳에서, 어둠이 당신의 유해를 영원히 삼켜 버렸습니다...
+    </Item>
+  <Item id="message_dead_from_traps">
+        다르그로스의 치명적인 함정에 목숨을 잃었습니다. 이제 당신의 살점은 흉측한 피조물들의 먹이가 되고 뼈는 한 줌의 먼지로 바뀔 것입니다...
+    </Item>
+  <Item id="message_dead_from_injures">
+        상처가 치명적이었습니다. 당신은 피를 흘리며 죽었습니다. 이제 끔찍한 피조물들이 당신의 살점을 뜯어먹고, 뼈는 먼지로 변할 것입니다...
+    </Item>
+  <Item id="message_dead_from_poison">
+        지독한 독이 당신을 안에서부터 무너뜨렸습니다. 남은 것은 다르그로스와 그 끔찍한 피조물들이 집어삼킬 것입니다...
+    </Item>
+  <Item id="message_dead_from_creatures_short">
+        다르그로스의 괴물들과 싸우다 사망
+    </Item>
+  <Item id="message_dead_from_abyss_short">
+        캄캄한 심연으로 추락
+    </Item>
+  <Item id="message_dead_from_traps_short">
+        다르그로스의 치명적인 함정으로 사망
+    </Item>
+  <Item id="message_dead_from_injures_short">
+        치명상으로 인한 과다 출혈로 사망
+    </Item>
+  <Item id="message_dead_from_poison_short">
+        정체불명의 맹독으로 사망
+    </Item>
+  <Item id="strength">
+        근력
+    </Item>
+  <Item id="dexterity">
+        민첩성
+    </Item>
+  <Item id="perception">
+        통찰력
+    </Item>
+  <Item id="constitution">
+        체질
+    </Item>
+  <Item id="will">
+        의지력
+    </Item>
+  <Item id="health">
+        체력
+    </Item>
+  <Item id="recovery">
+        회복력
+    </Item>
+  <Item id="stamina">
+        스태미나
+    </Item>
+  <Item id="accuracy">
+        명중률
+    </Item>
+  <Item id="dodge">
+        회피율
+    </Item>
+  <Item id="damage">
+        피해량
+    </Item>
+  <Item id="visionRange">
+        시야
+    </Item>
+  <Item id="defense">
+        방어력
+    </Item>
+  <Item id="defense_by_weapon">
+        무기 방어력
+    </Item>
+  <Item id="speed">
+        기동성
+    </Item>
+  <Item id="noiseless">
+        은신
+    </Item>
+  <Item id="equipment_weight">
+        장비 무게
+    </Item>
+  <Item id="dexterity_class_1">
+        형편없는 민첩성
+    </Item>
+  <Item id="dexterity_class_2">
+        낮은 민첩성
+    </Item>
+  <Item id="dexterity_class_3">
+        보통 민첩성
+    </Item>
+  <Item id="dexterity_class_4">
+        높은 민첩성
+    </Item>
+  <Item id="dexterity_class_5">
+        뛰어난 민첩성
+    </Item>
+  <Item id="strength_class_1">
+        형편없는 근력
+    </Item>
+  <Item id="strength_class_2">
+        낮은 근력
+    </Item>
+  <Item id="strength_class_3">
+        보통 근력
+    </Item>
+  <Item id="strength_class_4">
+        높은 근력
+    </Item>
+  <Item id="strength_class_5">
+        뛰어난 근력
+    </Item>
+  <Item id="perception_class_1">
+        형편없는 통찰력
+    </Item>
+  <Item id="perception_class_2">
+        낮은 통찰력
+    </Item>
+  <Item id="perception_class_3">
+        보통 통찰력
+    </Item>
+  <Item id="perception_class_4">
+        높은 통찰력
+    </Item>
+  <Item id="perception_class_5">
+        뛰어난 통찰력
+    </Item>
+  <Item id="chance_class_1">
+        매우 낮은 확률
+    </Item>
+  <Item id="chance_class_2">
+        낮은 확률
+    </Item>
+  <Item id="chance_class_3">
+        보통 확률
+    </Item>
+  <Item id="chance_class_4">
+        높은 확률
+    </Item>
+  <Item id="chance_class_5">
+        매우 높은 확률
+    </Item>
+  <Item id="traps_skill_class_1">
+        형편없는 함정 기술
+    </Item>
+  <Item id="traps_skill_class_2">
+        낮은 함정 기술
+    </Item>
+  <Item id="traps_skill_class_3">
+        보통 함정 기술
+    </Item>
+  <Item id="traps_skill_class_4">
+        높은 함정 기술
+    </Item>
+  <Item id="traps_skill_class_5">
+        뛰어난 함정 기술
+    </Item>
+  <Item id="attack_type_light">
+        가벼운 타격
+    </Item>
+  <Item id="attack_type_normal">
+        타격
+    </Item>
+  <Item id="attack_type_critical">
+        치명타
+    </Item>
+  <Item id="weapon_skill_swords">
+        검
+    </Item>
+  <Item id="weapon_skill_axes">
+        도끼
+    </Item>
+  <Item id="weapon_skill_hammers">
+        해머
+    </Item>
+  <Item id="weapon_skill_daggers">
+        단검
+    </Item>
+  <Item id="weapon_skill_shooter">
+        석궁
+    </Item>
+  <Item id="weapon_skill_sticks">
+        몽둥이
+    </Item>
+  <Item id="armor_skill_heavy">
+        중갑
+    </Item>
+  <Item id="armor_skill_medium">
+        평갑
+    </Item>
+  <Item id="armor_skill_light">
+        경갑
+    </Item>
+  <Item id="shields_skill">
+        방패
+    </Item>
+  <Item id="know_picklocks">
+        자물쇠 따기
+    </Item>
+  <Item id="know_craft">
+        제작
+    </Item>
+  <Item id="know_repair">
+        장비 수리
+    </Item>
+  <Item id="know_alchemy">
+        연금술
+    </Item>
+  <Item id="know_healing">
+        치유
+    </Item>
+  <Item id="know_traps">
+        함정
+    </Item>
+  <Item id="know_crowbar">
+        쇠지렛대 사용
+    </Item>
+  <Item id="perk_warrior_will">
+        전투의 광기
+    </Item>
+  <Item id="perk_weapon_poisoner">
+        독 부여
+    </Item>
+  <Item id="perk_weapon_ripper">
+        난도질
+    </Item>
+  <Item id="perk_backstab">
+        배후 공격
+    </Item>
+  <Item id="perk_weaponSharpener">
+        숙련된 연마
+    </Item>
+  <Item id="weapon_sword_1hand">
+        검
+    </Item>
+  <Item id="weapon_sword_2hand">
+        양손 검
+    </Item>
+  <Item id="weapon_axe_1hand">
+        도끼
+    </Item>
+  <Item id="weapon_axe_2hand">
+        양손 도끼
+    </Item>
+  <Item id="weapon_hammer_1hand">
+        해머
+    </Item>
+  <Item id="weapon_hammers_2hand">
+        양손 해머
+    </Item>
+  <Item id="weapon_dagger">
+        단검
+    </Item>
+  <Item id="weapon_shooter">
+        석궁
+    </Item>
+  <Item id="armor_heavy">
+        중갑
+    </Item>
+  <Item id="armor_medium">
+        평갑
+    </Item>
+  <Item id="armor_light">
+        경갑
+    </Item>
+  <Item id="gamemode_story">
+        잊혀진 던전
+    </Item>
+  <Item id="gamemode_normal">
+        저주받은 던전
+    </Item>
+  <Item id="gamemode_normal_desc">
+        어두운 던전으로 들어가 고대인들의 위대한 수수께끼를 밝혀내고, 수많은 위험한 피조물들과 맞서십시오.
+    </Item>
+  <Item id="gamemode_nightmare">
+        악몽의 던전
+    </Item>
+  <Item id="gamemode_nightmare_desc">
+        음산한 던전에서 살아남아 고대 심연의 공포를 뚫고 나아가십시오. 당신의 악몽과 마주하십시오 — 그리고 이곳에 영원히 남으십시오.
+    </Item>
+  <Item id="player_blacksmith">
+        대장장이
+    </Item>
+  <Item id="player_blacksmith_desc">
+        용광로의 열기와 쇠가 울리는 소리는 영원히 당신과 함께한다. 당신은 불 속에서 태어났고, 불 속에서 죽을 것이다. 두 손에는 화상 흉터가 가득하지만, 이제는 신경조차 쓰지 않는다.
+
+        당신의 아버지도 대장장이였고, 할아버지도, 그 윗대도 그러했다. 때가 되자 가문의 대장간은 당신의 것이 되었다.
+    </Item>
+  <Item id="player_blacksmith_desc_second">
+        *대장장이.* 어느 날, 불운한 실수로 젊은 남작이 목숨을 잃었다 — 당신이 편자를 박은 말에서 떨어진 것이다. 당신은 이곳 저주받은 주둔지에서 복무하라는 선고를 받았다. 그곳에서 병사들을 위해 무기와 방어구를 벼렸고, 전투 해머를 다루는 법을 익혔다.
+
+        아내는 아이를 낳다 세상을 떠났고, 어린 딸은 집에 남겨졌다. 딸의 얼굴을 본 지도 여러 해가 지났다. 그리고 이제 당신은 절망적인 어둠 속으로 더욱 깊이 내려간다...
+    </Item>
+  <Item id="player_warrior">
+        전사
+    </Item>
+  <Item id="player_warrior_desc">
+        당신은 용맹한 제국군의 용감한 병사이자, 왕국의 수호자이며 기둥이었다. 전투에서는 언제나 맨 앞줄에 섰다.
+
+        쾌활한 성격 덕분에 모두에게 사랑받았고, 그 덕에 고단한 군 생활도 조금은 견딜 만했다.
+    </Item>
+  <Item id="player_warrior_desc_second">
+        *전사.* 당신은 군대의 훈련에 익숙했지만, 술 한잔이나 가벼운 유흥은 결코 마다하지 않았다. 그 때문에 벌을 받아 이곳 저주받은 주둔지로 보내졌다. 빌어먹을 술!
+
+        주둔지는 당신에게 군대에서 보낸 자랑스러운 시절을 떠올리게 했다. 하지만 이제 당신은 칠흑 같은 어둠 속에 완전히 홀로 남았고, 이곳에서는 전우들도 당신을 도울 수 없다...
+    </Item>
+  <Item id="player_hunter">
+        사냥꾼
+    </Item>
+  <Item id="player_hunter_desc">
+        새의 울음소리, 나무의 속삭임, 땅 위의 발자국 — 당신은 숲을 알고, 숲도 당신을 안다. 숲은 언제나 공정하다. 죽음처럼.
+
+        어릴 적부터 석궁 쏘는 법을 배웠고, 날카로운 눈 덕분에 뛰어난 사냥꾼이 되었다. 숲은 당신에게 함정 놓는 법도 가르쳐 주었다.
+    </Item>
+  <Item id="player_hunter_desc_second">
+        *사냥꾼.* 당신은 언제나 정의를 좇았고, 마침내 그것을 찾았다. 콧대 높은 귀족 놈이 실수로 왕실의 사슴을 죽이고는 그 죄를 당신에게 뒤집어씌운 것이다.
+        그 잔인한 운명의 장난으로 당신은 이곳 저주받은 주둔지에 오게 되었고, 젊은 아내는 홀로 남겨졌다.
+
+        복무하는 동안 당신은 삶의 정의에 대해 곱씹을 시간이 충분했다. 이제 당신은 다시 사냥에 나서지만, 이번에는 한 번의 실수가 곧 죽음이다...
+    </Item>
+  <Item id="player_monk">
+        수도사
+    </Item>
+  <Item id="player_monk_desc">
+        당신은 어린 시절부터 네 개의 탑 사원의 수련생으로 자랐다. 오랜 수련은 당신에게 전투의 기술, 지식에 대한 갈망, 그리고 신성한 가르침을 새겨 넣었다. 주먹과 책, 그리고 신앙.
+
+        무엇보다 당신은 연금술과 주변 세계에 대한 탐구에서 두각을 나타냈다.
+    </Item>
+  <Item id="player_monk_desc_second">
+        *수도사.* 어느 날, 당신의 사원은 몇몇 귀족들의 눈 밖에 나 예고 없이 습격을 받았다. 사랑하던 스승은 당신의 품에서 숨을 거두었고, 다른 수도사들 대부분이 학살당했으며, 당신은 이곳 저주받은 주둔지로 추방되었다. 이곳에서 당신은 사서의 조수가 되었다.
+
+        그 모든 세월 동안 당신은 쉼 없이 기도했고 결코 희망을 잃지 않았다. 하지만 이제 구원자는 이 꿰뚫을 수 없는 어둠 속에 당신을 영원히 버렸다...
+    </Item>
+  <Item id="player_thief">
+        도적
+    </Item>
+  <Item id="player_thief_desc">
+        한때 당신은 왕국 최고의 도둑, '그림자의 대가'라 불렸다. 어둠 속에 녹아들고, 유령처럼 잠입하며, 금지된 곳에 숨어드는 법을 알고 있다.
+
+        사람들은 어둠이 당신을 낳았다고 말하지만, 당신은 진실을 안다 — 당신을 키운 건 거리였다. 고아로 자란 당신은 살아남기 위해 도둑의 기술을 배워야만 했다.
+    </Item>
+  <Item id="player_thief_desc_second">
+        *도적.* '그림자의 대가'라 해도 운이 다할 때가 있다. 그 불운한 밤, 당신은 고귀한 공작의 저택에서 희귀한 보석을 훔치다 붙잡혔고, 그 벌로 이곳 저주받은 주둔지로 보내졌다.
+
+        이곳에서는 당신의 재능을 쓸 일이 없었지만, 이제 그것을 떠올릴 때가 왔다. 조심하라. 어떤 그림자는 어둠 속으로 영원히 사라지기도 하니...
+    </Item>
+  <Item id="environment_plate_1">
+        수수께끼의 문자로 뒤덮인 고대 석판. 그 의미는 이 기이하고 어두운 장소의 옛 주인들과 함께 영원히 사라진 듯하다.
+    </Item>
+  <Item id="environment_plate_2">
+        부식된 금속판. 기묘한 기호들을 해독하려 애써 보지만, 번번이 실패한다.
+    </Item>
+  <Item id="environment_plate_3">
+        세월에 얼룩진 금속 석판은 바랜 문자들로 뒤덮여 있다. 인간의 땅에 알려진 그 어떤 언어와도 다르다.
+    </Item>
+  <Item id="environment_plate_4">
+        먼지 쌓인 석판 표면에 기이한 문양들이 새겨져 있다. 온 세상의 상인과 여행자들이 모여드는 거대한 수도에서조차 이런 기호는 본 적이 없다.
+    </Item>
+  <Item id="environment_plate_5">
+        고대의 기호들로 뒤덮인 낡은 석판. 그 의미는 만든 이들과 함께 영원히 사라졌다.
+    </Item>
+  <Item id="environment_plate_book">
+        이 고대의 금속 서판이 어스름 속에서 유혹하듯 빛난다. 가까이 다가가 신비한 원과 기호로 뒤덮인 금박 페이지를 손으로 쓸어 보지만, 그 의미는 여전히 알 수 없다.
+    </Item>
+  <Item id="environment_shaft">
+        짙은 먹물 같은 어둠이 저 아래에 무엇이 있는지 감추고 있다. 어쩌면 이 갱도는 던전의 가장 깊은 곳까지 이어질지도 모른다. 승강 장치는 걸려 버렸다. 삐걱거리기만 할 뿐 움직이지 않는다.
+    </Item>
+  <Item id="environment_turrel_broken">
+        정체 모를 장치의 잔해가 어둠 속에서 번뜩인다. 금속은 심하게 짓이겨졌고, 쇠창살은 활처럼 휘어 있다. 아마도 전투에서 파괴된 고대 무기였던 것 같다.
+    </Item>
+  <Item id="environment_welcome_monolith">
+        거대한 돌기둥이 홀 한가운데 위풍당당하게 솟아 있다. 금빛 원과 알 수 없는 기호로 장식된 금속판이 사방을 뒤덮고 있다.
+    </Item>
+  <Item id="environment_human_bonfire_level1">
+        비좁은 방 안은 부패와 죽음의 역한 악취로 가득하다. 까맣게 그을린 인간의 유해가 잠자리 위에 짓이겨져 있고, 사방이 피투성이다. 이 불쌍한 자들은 손에 닿는 것은 무엇이든 태운 것 같다.
+    </Item>
+  <Item id="environment_avallor_statue">
+        창을 움켜쥔 강대한 전사의 고대 조각상. 자세히 보니, 그 형상은 인간이 전혀 아니다.
+    </Item>
+  <Item id="environment_great_engineer_statue">
+        거대한 형상이 돌을 깎아 만든 계단 위를 위엄 있게 걷고 있다. 앞치마와 건틀릿, 제도용 도구로 보아 위대한 건축가나 학자의 조각상인 듯하다.
+    </Item>
+  <Item id="environment_alchemy_level1">
+        이 먼지투성이 방은 수 세기 동안 아무도 손대지 않은 채 남아 있었다. 두꺼운 거미줄 장막이 모든 것을 뒤덮고 있다. 탁자와 찬장에는 플라스크, 항아리, 약병, 그리고 알 수 없는 그림이 그려진 두루마리들이 어지러이 놓여 있다.
+    </Item>
+  <Item id="container_chest">
+        상자
+    </Item>
+  <Item id="container_chest_old">
+        낡은 상자
+    </Item>
+  <Item id="container_chest_broken">
+        부서진 상자
+    </Item>
+  <Item id="container_jewelry_box">
+        보석 상자
+    </Item>
+  <Item id="container_safe">
+        보관함
+    </Item>
+  <Item id="container_chest_iron">
+        철제 상자
+    </Item>
+  <Item id="container_cupboard">
+        찬장
+    </Item>
+  <Item id="container_bag">
+        가방
+    </Item>
+  <Item id="container_box">
+        상자
+    </Item>
+  <Item id="picklock">
+        락픽
+    </Item>
+  <Item id="picklock_desc">
+        도둑의 도구. 기술만 충분하다면 락픽으로 거의 모든 자물쇠를 열 수 있다.
+    </Item>
+  <Item id="weapon_axe_501ATL">
+        다이아몬드 사원 경비병의 도끼
+    </Item>
+  <Item id="weapon_axe_501ATL_desc">
+        다이아몬드 사원 경비병들의 육중한 도끼. 넓은 날에는 무시무시한 날이 서 있고, 긴 자루 덕분에 튼튼한 갑옷마저 베어 낼 만한 휘두르기가 가능하다.
+    </Item>
+  <Item id="weapon_axe_501ATL_old_desc">
+        세월에 심하게 망가진 도끼. 아마도 전설적인 다이아몬드 사원의 경비병이 쓰던 것이리라.
+    </Item>
+  <Item id="rusty_twohand_axe">
+        녹슨 양손 도끼
+    </Item>
+  <Item id="weapon_axe_501ATL_oldest_desc">
+        끔찍하게 오래된 도끼. 그 출처는 이제 알아낼 길이 없다.
+    </Item>
+  <Item id="weapon_axe_527ATL">
+        산의 군주들의 도끼
+    </Item>
+  <Item id="weapon_axe_527ATL_desc">
+        비취 산맥에서 온 거대한 도끼로, 무게에 익숙한 손을 위해 만들어졌다. 넓은 날과 긴 자루는 힘을 요구하지만, 이런 도끼의 일격은 막아 내기 어렵다.
+    </Item>
+  <Item id="weapon_axe_527ATL_old_desc">
+        세월에 망가지고 바람에 단련된 거대한 도끼. 아마도 비취 산맥에서 벼려졌을 것이다.
+    </Item>
+  <Item id="rusty_axe">
+        녹슨 도끼
+    </Item>
+  <Item id="weapon_axe_527ATL_oldest_desc">
+        출처를 더는 알 수 없는 거대하고 오래된 도끼.
+    </Item>
+  <Item id="old_axe">
+        낡은 도끼
+    </Item>
+  <Item id="rusty_axe_desc">
+        끔찍하게 오래된 도끼. 자루는 거의 썩어 버렸고, 날은 무디고 녹슬었다.
+    </Item>
+  <Item id="rusty_axe_desc2">
+        끔찍하게 오래된 도끼. 손잡이의 가죽은 먼지가 되어 바스러질 정도이며, 날은 오래전 녹으로 뒤덮였다.
+    </Item>
+  <Item id="weapon_crossbow_502ATL">
+        남부 숲의 석궁
+    </Item>
+  <Item id="weapon_crossbow_502ATL_desc">
+        남부 숲 용병들의 석궁. 주둔지의 석궁보다 가벼워 긴 여정에 편하다. 도시에서는 이런 귀한 물건을 주로 명문가의 자손들이 사들인다.
+    </Item>
+  <Item id="weapon_crossbow_502ATL_old">
+        낡은 남부 숲의 석궁
+    </Item>
+  <Item id="weapon_crossbow_502ATL_old_desc">
+        닳은 개머리와 낡은 격발 장치가 남부 숲 용병들의 무기를 떠올리게 한다.
+    </Item>
+  <Item id="weapon_crossbow_502ATL_oldest">
+        낡고 녹슨 석궁
+    </Item>
+  <Item id="weapon_crossbow_502ATL_oldest_desc">
+        출처를 알 수 없는 낡고 녹슨 석궁. 겨우 쓸 수 있는 수준이지만, 아직 쏠 수는 있을 것이다.
+    </Item>
+  <Item id="weapon_crossbow_544ATL">
+        북부 석궁
+    </Item>
+  <Item id="weapon_crossbow_544ATL_desc">
+        어느 산악 성채의 오래된 창고에서 나온 북부 석궁. 검은 나무, 팽팽한 활대, 투박한 마감은 오랜 세월 쓰이도록 만든 무기임을 보여 준다.
+    </Item>
+  <Item id="weapon_crossbow_544ATL_old">
+        낡은 북부 석궁
+    </Item>
+  <Item id="weapon_crossbow_544ATL_old_desc">
+        비취 산맥에서 온 낡은 석궁. 치명적인 무기다.
+    </Item>
+  <Item id="weapon_crossbow_544ATL_oldest">
+        녹슨 북부 석궁
+    </Item>
+  <Item id="weapon_crossbow_544ATL_oldest_desc">
+        끔찍하게 오래된 석궁. 시위는 거의 삭았고 활대는 부식에 갉아 먹혔지만, 아직 쏠 수는 있다.
+    </Item>
+  <Item id="weapon_crossbow_545ATL">
+        수렵용 석궁
+    </Item>
+  <Item id="weapon_crossbow_545ATL_desc">
+        명중률과 위력이 좋은 평범한 사냥꾼의 석궁. 사냥감을 쓰러뜨리기에 훌륭한 무기다.
+    </Item>
+  <Item id="weapon_crossbow_545ATL_old">
+        낡은 수렵용 석궁
+    </Item>
+  <Item id="weapon_crossbow_545ATL_old_desc">
+        오래 써 온 수렵용 석궁. 개머리는 닳았지만 격발 장치는 여전히 믿음직하며, 아직 사냥감을 쓰러뜨릴 수 있다.
+    </Item>
+  <Item id="weapon_crossbow_545ATL_oldest">
+        녹슨 수렵용 석궁
+    </Item>
+  <Item id="weapon_crossbow_545ATL_oldest_desc">
+        믿기 힘들 만큼 오래된 석궁. 나무는 곳곳이 갈라졌고 금속은 부식되었다. 예전만큼 치명적이리라 기대하지는 마라.
+    </Item>
+  <Item id="weapon_hammer_503ATL">
+        남부 숲의 해머
+    </Item>
+  <Item id="weapon_hammer_503ATL_desc">
+        남부 숲 용병들의 양손 해머. 긴 자루는 적을 거리 밖에 묶어 두고, 육중한 강철 머리는 뼈와 방패를 손쉽게 박살 낸다.
+    </Item>
+  <Item id="old_hammer">
+        낡은 해머
+    </Item>
+  <Item id="weapon_hammer_503ATL_old_desc">
+        닳았지만 여전히 강력한 해머. 남부 숲 용병들이 쓰는 것과 무척 닮았다.
+    </Item>
+  <Item id="rusty_hammer">
+        녹슨 해머
+    </Item>
+  <Item id="weapon_hammer_503ATL_oldest_desc">
+        출처를 알 수 없는 거대하고 낡은 해머. 백 년은 넘어 보이지만, 여전히 뼈를 손쉽게 부술 수 있다.
+    </Item>
+  <Item id="weapon_hammer_526ATL_oldest_desc">
+        출처를 알 수 없는 끔찍하게 오래된 거대한 해머. 아직도 두개골을 박살 낼 수 있다.
+    </Item>
+  <Item id="weapon_knife_504ATL">
+        네 개의 탑의 칼
+    </Item>
+  <Item id="weapon_knife_504ATL_desc">
+        네 개의 탑 수련자들의 칼. 얇은 날은 양피지와 제본용 가죽을 손쉽게 자르지만, 필요하다면 목줄기도 그만큼 확실하게 찾아낸다.
+    </Item>
+  <Item id="old_knife">
+        낡은 칼
+    </Item>
+  <Item id="weapon_knife_504ATL_old_desc">
+        약간 무뎌진 칼. 네 개의 탑 수련자들이 쓰던 것과 무척 닮았다.
+    </Item>
+  <Item id="rusty_knife">
+        녹슨 칼
+    </Item>
+  <Item id="weapon_knife_504ATL_oldest_desc">
+        출처를 알 수 없는 낡은 칼. 아직 목을 그을 만큼은 날카롭다.
+    </Item>
+  <Item id="rusty_ornate_dagger_desc">
+        오래 묵은 때와 바랜 문양, 부식으로 뒤덮인 믿기 힘들 만큼 오래된 단검.
+    </Item>
+  <Item id="steel_dagger">
+        강철 단검
+    </Item>
+  <Item id="steel_dagger_desc">
+        인간들 사이에서 흔한 종류의 단검. 여러 가문과 기사단에서 쓰이는, 균형이 잘 잡힌 믿음직한 칼날이다.
+    </Item>
+  <Item id="old_dagger">
+        낡은 단검
+    </Item>
+  <Item id="old_dagger_desc">
+        손잡이의 가죽이 살짝 해졌고, 칼날은 얇은 녹으로 덮여 있다. 하지만 여전히 믿음직한 무기다.
+    </Item>
+  <Item id="rusty_dagger">
+        녹슨 단검
+    </Item>
+  <Item id="rusty_dagger_desc">
+        칼날은 녹슬었고 손잡이의 낡은 가죽은 거의 다 닳아빠졌다. 없는 것보다는 낫다.
+    </Item>
+  <Item id="weapon_knife_533ATL">
+        유령 단검
+    </Item>
+  <Item id="weapon_knife_533ATL_old">
+        낡은 유령 단검
+    </Item>
+  <Item id="weapon_knife_533ATL_old_desc">
+        어둠의 궁정 암살자들의 무기로 보이는 닳아빠진 단검.
+    </Item>
+  <Item id="weapon_knife_533ATL_oldest">
+        녹슨 유령 단검
+    </Item>
+  <Item id="weapon_knife_533ATL_oldest_desc">
+        오래전 주인보다 오래 살아남은 낡은 단검. 날은 녹슬고 가죽 손잡이는 갈라졌지만, 제대로 된 손에 쥐어지면 여전히 죽음을 가져올 수 있다.
+    </Item>
+  <Item id="weapon_shield_505ATL">
+        남부 숲의 방패
+    </Item>
+  <Item id="weapon_shield_505ATL_desc">
+        남부 숲 용병들의 거의 전부가 나무로 된 방패. 가볍고 만들기 쉬우며, 긴 행군에도 편하다.
+    </Item>
+  <Item id="weapon_shield_505ATL_old">
+        낡은 나무 방패
+    </Item>
+  <Item id="weapon_shield_505ATL_old_desc">
+        숱한 타격의 흔적이 남은 방패. 남부 숲 장인들의 솜씨와 닮았다.
+    </Item>
+  <Item id="weapon_shield_505ATL_oldest">
+        매우 오래된 방패
+    </Item>
+  <Item id="weapon_shield_505ATL_oldest_desc">
+        공격을 겨우 버틸 만한 매우 오래된 나무 방패. 강한 일격을 몇 번 받으면 부서져 버릴 것 같다.
+    </Item>
+  <Item id="weapon_shield_506ATL_oldest">
+        녹슨 대형 방패
+    </Item>
+  <Item id="weapon_shield_506ATL_oldest_desc">
+        이 방패는 수십 년 동안 던전에 있었던 것 같다. 그 오랜 세월이 지났는데도 아직 부서지지 않았다.
+    </Item>
+  <Item id="weapon_shield_507ATL">
+        드라기안 장식 방패
+    </Item>
+  <Item id="weapon_shield_507ATL_desc">
+        드라기안에서 벼린 튼튼한 방패로, 테두리를 따라 섬세한 문양이 새겨져 있다. 균형이 좋아 귀족과 부유한 모험가들이 탐내는 물건이다.
+    </Item>
+  <Item id="weapon_shield_507ATL_old">
+        낡은 금속 방패
+    </Item>
+  <Item id="weapon_shield_507ATL_old_desc">
+        문양으로 보아 이 닳은 방패는 이름난 드라기안 장인들이 벼린 것이다.
+    </Item>
+  <Item id="weapon_shield_507ATL_oldest">
+        녹슨 방패
+    </Item>
+  <Item id="weapon_shield_507ATL_oldest_desc">
+        출처를 알 수 없는 끔찍하게 오래된 녹슨 방패. 없는 것보다는 낫다.
+    </Item>
+  <Item id="weapon_shield_532ATL">
+        야만인의 방패
+    </Item>
+  <Item id="weapon_shield_532ATL_desc">
+        비취 산맥 야만인들의 짐승 뿔이 박힌 투박한 방패. 혹독한 겨울과 위험한 맹수들은 고산 사람들에게 대를 이어 견디는 물건을 만드는 법을 가르쳤다. 그들의 방패는 무척 무겁지만, 엄청난 타격도 견뎌 낸다.
+    </Item>
+  <Item id="weapon_shield_532ATL_old">
+        낡은 야만인의 방패
+    </Item>
+  <Item id="weapon_shield_532ATL_old_desc">
+        뿔 달린 허름한 대형 방패. 비취 산맥 주민들이 쓰는 것 같다.
+    </Item>
+  <Item id="weapon_shield_532ATL_oldest">
+        녹슨 야만인의 방패
+    </Item>
+  <Item id="weapon_shield_532ATL_oldest_desc">
+        이 뿔 달린 대형 방패는 아주 오랫동안 이곳에 있었다. 뿔에는 거미줄이 잔뜩 쌓였고, 금속은 녹과 피로 뒤덮였다.
+    </Item>
+  <Item id="weapon_shield_531ATL">
+        동방의 방패
+    </Item>
+  <Item id="weapon_shield_531ATL_desc">
+        전사들 사이에서 인기 있는 방패. 동쪽 산맥의 그림자 속에 숨겨진 머나먼 대초원에서 가져온 희귀한 물건이다. 기사들은 가볍고 튼튼한 이 방패를 선호한다.
+    </Item>
+  <Item id="weapon_shield_531ATL_old">
+        낡은 방패
+    </Item>
+  <Item id="weapon_shield_531ATL_old_desc">
+        긁힌 자국으로 가득한 나무 방패. 동방의 부족들이 만드는 것과 비슷하게 생겼다.
+    </Item>
+  <Item id="weapon_shield_531ATL_oldest">
+        매우 오래된 방패
+    </Item>
+  <Item id="weapon_shield_531ATL_oldest_desc">
+        기원을 알 수 없는 매우 오래된 나무 방패.
+    </Item>
+  <Item id="weapon_sword_508ATL">
+        어둠의 궁정의 짧은 검
+    </Item>
+  <Item id="weapon_sword_508ATL_desc">
+        어둠의 궁정 암살자들의 가느다란 칼날. 빠르고 깊게 베도록 만들어졌으며, 일격 후에는 소매 속으로 감쪽같이 사라진다.
+    </Item>
+  <Item id="weapon_sword_508ATL_old">
+        낡은 짧은 검
+    </Item>
+  <Item id="weapon_sword_508ATL_old_desc">
+        이 무딘 칼날은 어둠의 궁정 고수들의 칼날을 닮았다. 암살자에게 쓸모 있는 무기다.
+    </Item>
+  <Item id="weapon_sword_508ATL_oldest">
+        녹슨 짧은 검
+    </Item>
+  <Item id="weapon_sword_508ATL_oldest_desc">
+        이 낡은 칼날은 분명 수 세기 동안 이곳에 놓여 있었다. 그 주인이 어떤 운명을 맞았든, 좋은 결말은 아니었을 것이다.
+    </Item>
+  <Item id="weapon_sword_528ATL">
+        대가의 검
+    </Item>
+  <Item id="weapon_sword_528ATL_desc">
+        기이한 합금으로 만든, 독특하고도 거의 완벽한 형태의 칼날. 손에 가볍고 균형이 잘 잡혔으며, 너무도 깔끔하게 베어 많은 이들이 견줄 데 없는 대가의 작품이라 여긴다.
+    </Item>
+  <Item id="weapon_sword_528ATL_old">
+        대가의 낡은 검
+    </Item>
+  <Item id="weapon_sword_528ATL_old_desc">
+        흔히 '대가의 검'이라 불리는 희귀한 검 중 하나로 보인다. 이런 형편없는 상태라도 귀중한 무기다.
+    </Item>
+  <Item id="weapon_sword_528ATL_oldest">
+        대가의 녹슨 검
+    </Item>
+  <Item id="weapon_sword_528ATL_oldest_desc">
+        오랜 세월을 거치며 심하게 닳은 검. 하지만 아직도 누군가의 목을 손쉽게 베어 낼 수 있다.
+    </Item>
+  <Item id="weapon_Sword_1hand_ArrowSpearPart">
+        고대 무기 조각
+    </Item>
+  <Item id="weapon_Sword_1hand_ArrowSpearPart_desc">
+        이 고대 무기의 파편은 검으로 쓸 수 있다.
+    </Item>
+  <Item id="weapon_Sword_2hand_ArrowSpearPart">
+        고대 무기 조각
+    </Item>
+  <Item id="weapon_Sword_2hand_ArrowSpearPart_desc">
+        이 고대 무기의 파편은 양손 검으로 쓸 수 있다.
+    </Item>
+  <Item id="old_twohand_sword">
+        낡은 양손 검
+    </Item>
+  <Item id="rusty_twohand_sword">
+        녹슨 양손 검
+    </Item>
+  <Item id="weapon_sword_529ATL">
+        신성한 천둥
+    </Item>
+  <Item id="weapon_sword_529ATL_desc">
+        독특한 형태에 칼날이 차갑게 빛나는 고대의 검. 누가 만들었는지는 아무도 모르지만, 그 강철에는 이 무기를 구원자의 이름과 이어 주는 힘이 깃들어 있다.
+    </Item>
+  <Item id="weapon_sword_529ATL_old">
+        고대의 검
+    </Item>
+  <Item id="weapon_sword_529ATL_old_desc">
+        세월에 무뎌졌지만 여전히 무시무시한, 독특한 형태의 낡은 검. 녹과 흠집 아래에는 괜히 전설이 생겨난 것이 아닌 무기가 잠들어 있다.
+    </Item>
+  <Item id="weapon_sword_529ATL_oldest">
+        녹슨 고대의 검
+    </Item>
+  <Item id="weapon_sword_529ATL_oldest_desc">
+        이 검은 수 세기나 묵었다. 얼룩과 부식 때문에 제작자의 각인을 알아보기 어렵다.
+    </Item>
+  <Item id="weapon_sword_537ATL">
+        동방의 검
+    </Item>
+  <Item id="weapon_sword_537ATL_desc">
+        산봉우리와 끝없는 동쪽 대초원 너머의 땅에 대해서는 알려진 바가 거의 없다. 검은 금속으로 된 이 이국적인 칼날은 그곳에서 왔으며, 수도에서 가장 부유하고 고귀한 자들만이 손에 넣을 수 있다.
+    </Item>
+  <Item id="old_sword">
+        낡은 검
+    </Item>
+  <Item id="weapon_sword_537ATL_old_desc">
+        독특한 형태를 지닌 이 낡은 검은 동방의 땅에서 왔음을 드러낸다.
+    </Item>
+  <Item id="rusty_sword">
+        녹슨 검
+    </Item>
+  <Item id="rusty_sword_desc">
+        이 끔찍하게 낡은 검은 오랜 세월 묵은 때와 녹으로 완전히 뒤덮여 있다.
+    </Item>
+  <Item id="weapon_Hammer_1hand_534ATL">
+        뼈 부수개
+    </Item>
+  <Item id="weapon_Hammer_1hand_534ATL_desc">
+        저주받은 주둔지의 훌륭한 강철 해머. 각진 육중한 머리는 투구에 끔찍한 자국을 남기고, 적을 손쉽게 쓰러뜨린다.
+    </Item>
+  <Item id="weapon_Hammer_1hand_534ATL_old_desc">
+        저주받은 자들이 쓰던 닳은 전투 해머. 강철 머리는 이가 빠졌지만, 자루는 여전히 손에 단단히 쥐어진다.
+    </Item>
+  <Item id="weapon_Hammer_1hand_534ATL_oldest_desc">
+        한때 웅장했던 강철 해머는 이제 녹으로 뒤덮였다. 자루의 가죽은 삭아 없어진 지 오래다.
+    </Item>
+  <Item id="weapon_Tesak_540ATL">
+        모르로크의 식칼
+    </Item>
+  <Item id="weapon_Tesak_540ATL_desc">
+        이 기괴하고 끔찍한 살상 무기는 던전의 치명적인 괴물들의 것이다. 거대한 칼날은 피와 오물로 얼룩져 있다.
+    </Item>
+  <Item id="Hammer_2hand_Rat">
+        막대기에 꽂힌 쥐
+    </Item>
+  <Item id="Hammer_2hand_Rat_desc">
+        단단한 창대에 꽂힌 돌연변이 쥐. 양손 무기로 사용할 수 있다.
+    </Item>
+  <Item id="Spear_536ATL">
+        피의 도살자
+    </Item>
+  <Item id="Spear_536ATL_desc">
+        이 무기는 테르다의 고대 주민들의 것이었다. 그것이 어떻게 다르그로스 안에 놓이게 되었는지는 아무도 모른다.
+    </Item>
+  <Item id="Sith_Hammer_BlackSmith">
+        쉬족 대장장이의 해머
+    </Item>
+  <Item id="Sith_Hammer_BlackSmith_desc">
+        육중한 머리와 튼튼한 손잡이는 이것이 대장간만을 위한 도구가 아님을 보여 준다. 달군 쇠를 두드릴 수도 있고, 전투에서는 너무 가까이 다가온 자의 뼈를 부술 수도 있다.
+    </Item>
+  <Item id="Sith_Hammer_BlackSmith_old">
+        낡은 대장장이 해머
+    </Item>
+  <Item id="Sith_Hammer_BlackSmith_old_desc">
+        수많은 흠집과 찌그러짐은 이 쉬족 해머가 대장간 일에만 쓰이지 않았음을 보여 준다. 아직도 전사의 손에 단단히 쥐어진다.
+    </Item>
+  <Item id="Sith_Hammer_BlackSmith_oldest">
+        녹슨 대장장이 해머
+    </Item>
+  <Item id="Sith_Hammer_BlackSmith_oldest_desc">
+        이 해머의 전성기는 수 세기 전에 망각 속으로 사라졌다. 이것을 빚어낸 고대 쉬족 기술의 흔적만이 몇 군데 남아 있을 뿐이다.
+    </Item>
+  <Item id="Sith_Hammer_BlackSmith_TwoHand">
+        쉬족 대장장이의 대형 해머
+    </Item>
+  <Item id="Sith_Hammer_BlackSmith_TwoHand_desc">
+        평범한 전사에게는 너무 무거운 거대한 대장장이 해머. 머리에는 여전히 불길과 오래된 타격의 흔적이 남아 있지만, 전투에서는 아직도 갑옷을 박살 낼 수 있다.
+    </Item>
+  <Item id="Sith_Hammer_BlackSmith_TwoHand_old">
+        낡은 대형 대장장이 해머
+    </Item>
+  <Item id="Sith_Hammer_BlackSmith_TwoHand_old_desc">
+        수많은 흠집과 찌그러짐은 이 쉬족 해머가 대장간 일에만 쓰이지 않았음을 보여 준다. 아직도 전사의 손에 단단히 쥐어진다.
+    </Item>
+  <Item id="Sith_Hammer_BlackSmith_TwoHand_oldest">
+        녹슨 대형 대장장이 해머
+    </Item>
+  <Item id="Sith_Hammer_BlackSmith_TwoHand_oldest_desc">
+        이 해머의 전성기는 수 세기 전에 망각 속으로 사라졌다. 이것을 빚어낸 고대 쉬족 기술의 흔적만이 몇 군데 남아 있을 뿐이다.
+    </Item>
+  <Item id="Sith_Knife01_564ATL">
+        쉬족 결속의 단검
+    </Item>
+  <Item id="Sith_Knife01_564ATL_desc">
+        곧은 날과 세심한 균형을 갖춘 훌륭한 고대 단검. 단순한 형태 속에 거의 모든 무술 유파에 어울리는 무기가 숨어 있다.
+    </Item>
+  <Item id="Sith_Knife01_564ATL_old_desc">
+        흠집투성이에 닳은 이 고대의 칼날은 수많은 전투를 겪었다. 오래되었음에도 여전히 정확하게 찌를 수 있다.
+    </Item>
+  <Item id="Sith_Knife01_564ATL_oldest">
+        쉬족 결속의 녹슨 단검
+    </Item>
+  <Item id="Sith_Knife01_564ATL_oldest_desc">
+        이 녹슬고 무뎌진 칼날에서 한때 훌륭했던 단검의 모습을 알아보기란 어렵다. 지난 시대에는 그 끝이 적의 심장을 손쉽게 찾아냈다.
+    </Item>
+  <Item id="Sith_Knife02_564ATL">
+        루일로르 전사들의 단검
+    </Item>
+  <Item id="Sith_Knife02_564ATL_desc">
+        루일로르 전사들의 좁고 검은 칼날은 가벼워서 손에 거의 부담이 없다. 갑옷의 빈틈을 노리는 짧은 찌르기를 위해 만들어졌다.
+    </Item>
+  <Item id="Sith_Knife02_564ATL_old">
+        루일로르 전사들의 낡은 단검
+    </Item>
+  <Item id="Sith_Knife02_564ATL_old_desc">
+        전설적인 쉬 전사들의 손에 들려 수많은 전투에서 살아남은 고대의 단검. 여전히 죽음을 선사할 수 있다.
+    </Item>
+  <Item id="Sith_Knife02_564ATL_oldest">
+        루일로르 전사들의 녹슨 단검
+    </Item>
+  <Item id="Sith_Knife02_564ATL_oldest_desc">
+        이 끔찍하게 낡고 녹슨 단검은 셀 수 없는 세월 동안 던전에 놓여 있었다. 이제는 제대로 된 전투를 견디기 어려울 것이다.
+    </Item>
+  <Item id="Sith_Sword_1hand_561ATL">
+        실소르 군대의 검
+    </Item>
+  <Item id="Sith_Sword_1hand_561ATL_old_desc">
+        아직 전투에서 제 몫을 할 수 있는 검. 전설적인 전투들을 겪고도 옛 위엄을 잃지 않았다.
+    </Item>
+  <Item id="sith_sword_oldest_desc">
+        이 오래되고 녹슨 칼날은 무뎌진 지 오래다. 아름다웠던 문양은 세월의 무게에 사라졌다 — 이 검이 만들어진 세상처럼.
+    </Item>
+  <Item id="Sith_Sword_2hand_561ATL_old_desc">
+        아직 전투에서 제 몫을 할 수 있는 양손 검. 전설적인 전투들을 겪고도 옛 위엄을 잃지 않았다.
+    </Item>
+  <Item id="Armor_Heavy_RedSwords">
+        진홍의 검 갑옷
+    </Item>
+  <Item id="Armor_Heavy_RedSwords_desc">
+        진홍의 검 기사단의 중갑. 튼튼한 판금, 기도문 각인의 흔적, 가슴의 핏빛 문장은 교회 갑주장의 솜씨임을 드러낸다.
+    </Item>
+  <Item id="Armor_Heavy_RedSwords_old">
+        낡은 진홍의 검 갑옷
+    </Item>
+  <Item id="Armor_Heavy_RedSwords_old_desc">
+        진홍의 검 성기사의 튼튼한 갑옷. 가슴의 핏빛 문장은 아직 알아볼 수 있고, 판금 사이에는 수백 년 묵은 때가 끼어 있다.
+    </Item>
+  <Item id="Armor_Heavy_RedSwords_oldest">
+        녹슨 진홍의 검 갑옷
+    </Item>
+  <Item id="Armor_Heavy_RedSwords_oldest_desc">
+        한때 웅장했던 이 갑옷은 오래전에 예전의 품질을 잃었다. 오물과 때가 뒤덮고 있으며, 기묘한 보라색 얼룩이 군데군데 번져 있다.
+    </Item>
+  <Item id="Armor_Heavy_Militia">
+        남부 숲의 사슬 갑옷
+    </Item>
+  <Item id="Armor_Heavy_Militia_old_desc">
+        손상되었지만 여전히 튼튼한 사슬 갑옷. 남부 숲의 장인들이 잘 만들어 둔 덕에 아직 적의 일격을 흘려 낼 수 있다.
+    </Item>
+  <Item id="Armor_Heavy_Militia_oldest_desc">
+        곳곳이 녹슨 낡은 사슬 갑옷. 수많은 손상은 이전 주인이 좋은 싸움을 피하지 않았고, 싸우지도 않고 저세상으로 가지는 않았음을 보여 준다.
+    </Item>
+  <Item id="Armor_Medium_Militia_old_desc">
+        손상되었지만 여전히 튼튼한 갑옷. 남부 숲의 장인들이 당대에 훌륭한 솜씨를 발휘한 덕에 아직 적의 일격을 흘려 낼 수 있다.
+    </Item>
+  <Item id="Armor_Medium_Militia_oldest_desc">
+        곳곳이 녹슨 낡은 갑옷. 수많은 손상은 이전 주인이 좋은 싸움을 피하지 않았고, 싸우지도 않고 죽지는 않았음을 보여 준다.
+    </Item>
+  <Item id="Armor_Light_Militia">
+        숲 정찰병의 갑옷
+    </Item>
+  <Item id="Armor_Light_Militia_old_desc">
+        닳았지만 여전히 믿음직한 갑옷. 남부 숲의 장인들이 당대에 훌륭한 솜씨를 발휘한 덕에 아직 적의 일격을 흘려 낼 수 있다.
+    </Item>
+  <Item id="Armor_Light_Militia_oldest_desc">
+        말라붙은 핏자국이 남은 낡은 갑옷. 수많은 손상은 이전 주인이 좋은 싸움을 피하지 않았고, 싸우지도 않고 죽지는 않았음을 보여 준다.
+    </Item>
+  <Item id="Armor_Light_FourTowers">
+        가죽 의복
+    </Item>
+  <Item id="Armor_Light_FourTowers_desc">
+        천과 가죽으로 만든 네 개의 탑 수련자들의 유연하고 편안한 갑옷. 움직임이 무척 자유로우며 괜찮은 방어력을 제공한다.
+    </Item>
+  <Item id="Armor_Light_FourTowers_old">
+        낡은 가죽 의복
+    </Item>
+  <Item id="Armor_Light_FourTowers_old_desc">
+        네 개의 탑 결사 수련자가 입던 꽤 닳은 경갑. 가죽에는 잉크 얼룩과 시약 자국, 작은 두루마리 주머니를 매다는 고리가 남아 있다.
+    </Item>
+  <Item id="Armor_Light_FourTowers_oldest">
+        해진 가죽 의복
+    </Item>
+  <Item id="Armor_Light_FourTowers_oldest_desc">
+        세월은 이 갑옷을 봐주지 않았다. 한때 두껍고 질겼던 가죽 방어구는 곳곳이 심하게 삭았다. 천은 두꺼운 먼지와 말라붙은 핏자국으로 뒤덮여 있다.
+    </Item>
+  <Item id="Armor_Medium_FourTowers">
+        사슬 의복
+    </Item>
+  <Item id="Armor_Medium_FourTowers_desc">
+        네 개의 탑 수련자들의 갑옷으로, 가죽 부속으로 보강한 사슬 셔츠로 이루어져 있다. 충분한 활동성을 유지하면서도 더 나은 방어력을 제공한다.
+    </Item>
+  <Item id="Armor_Medium_FourTowers_old">
+        낡은 사슬 의복
+    </Item>
+  <Item id="Armor_Medium_FourTowers_old_desc">
+        네 개의 탑 결사 수련자가 입던 꽤 닳은 사슬 갑옷. 고리 아래에는 두툼한 가죽 덧댐이 남아 있고, 끈에는 길의 먼지와 오래된 잉크가 배어 있다.
+    </Item>
+  <Item id="Armor_Medium_FourTowers_oldest">
+        해진 사슬 의복
+    </Item>
+  <Item id="Armor_Medium_FourTowers_oldest_desc">
+        세월은 이 갑옷을 봐주지 않았다. 사슬은 곳곳이 부식되었고, 말라붙은 핏자국이 튄 두꺼운 오물 층으로 뒤덮여 있다.
+    </Item>
+  <Item id="Armor_Gambeson">
+        누비 갑옷
+    </Item>
+  <Item id="Armor_Gambeson_desc">
+        겹겹이 꿰맨 천으로 만든 가벼운 재킷. 단순하고 꽤 흔한 방어구다. 타격을 잘 견디며 기동성을 제한하지 않는다.
+    </Item>
+  <Item id="Armor_Gambeson_old">
+        낡은 누비 갑옷
+    </Item>
+  <Item id="Armor_Gambeson_old_desc">
+        수백 년 묵은 던전의 때로 뒤덮인 낡은 재킷. 방어력은 보잘것없지만 움직임을 방해하지 않는다.
+    </Item>
+  <Item id="Armor_Gambeson_oldest">
+        삭아버린 누비 갑옷
+    </Item>
+  <Item id="Armor_Gambeson_oldest_desc">
+        허름하고 몹시 해진 누비 재킷. 곳곳이 먼지와, 피와 비슷한 무언가의 오래된 짙은 갈색 얼룩으로 덮여 있다.
+    </Item>
+  <Item id="Armor_Haurbek">
+        사슬 셔츠
+    </Item>
+  <Item id="Armor_Haurbek_desc">
+        거의 완벽에 가까운 균형을 갖춘 갑옷. 수없이 얽힌 강철 고리들이 전투에서 훌륭한 방어력과 편안함을 선사한다.
+    </Item>
+  <Item id="Armor_Haurbek_old">
+        낡은 사슬 셔츠
+    </Item>
+  <Item id="Armor_Haurbek_old_desc">
+        꽤 닳은 이 사슬 갑옷은 분명 한 번 이상의 전투를 견뎌 냈다. 하지만 튼튼하고 편안한 갑옷이다.
+    </Item>
+  <Item id="Armor_Haurbek_oldest">
+        녹슨 사슬 셔츠
+    </Item>
+  <Item id="Armor_Haurbek_oldest_desc">
+        믿기 힘들 만큼 오래된 사슬 갑옷으로, 수백 년은 되었을 것이다. 녹이 금속을 갉아먹었고, 많은 고리에서 핏자국과 뒤엉켜 있다.
+    </Item>
+  <Item id="Armor_DungeonGuard_Fabric">
+        저주받은 주둔지 가죽 갑옷
+    </Item>
+  <Item id="Armor_DungeonGuard_Fabric_desc">
+        거친 가죽, 보급품 리벳, 급하게 수선한 흔적이 관문에서의 긴 복무를 말해 준다.
+    </Item>
+  <Item id="Armor_DungeonGuard_Fabric_old">
+        낡은 저주받은 주둔지 가죽 갑옷
+    </Item>
+  <Item id="Armor_DungeonGuard_Fabric_old_desc">
+        저주받은 자 중 한 명이 입던 보존 상태 좋은 가죽 갑옷. 끈에는 주둔지의 낙인이 남아 있지만, 가장자리는 습기와 피로 검게 변했다.
+    </Item>
+  <Item id="Armor_DungeonGuard_Fabric_oldest">
+        삭아버린 저주받은 주둔지 가죽 갑옷
+    </Item>
+  <Item id="Armor_DungeonGuard_Fabric_oldest_desc">
+        주둔지 전사의 찢기고 피 묻은 갑옷. 이전 주인에게는 쓸모 있었을지 몰라도, 이제는 정말 위험한 적들로부터 누구도 지켜 주지 못할 것이다.
+    </Item>
+  <Item id="Armor_DungeonGuard_Hauberk">
+        저주받은 주둔지 사슬 갑옷
+    </Item>
+  <Item id="Armor_DungeonGuard_Hauberk_desc">
+        단순한 주둔지의 솜씨: 튼튼한 고리, 거친 가죽 끈, 그리고 장식은 거의 없다.
+    </Item>
+  <Item id="Armor_DungeonGuard_Hauberk_old">
+        낡은 저주받은 주둔지 사슬 갑옷
+    </Item>
+  <Item id="Armor_DungeonGuard_Hauberk_old_desc">
+        저주받은 자 중 한 명이 입던 보존 상태 좋은 사슬 갑옷. 몇몇 고리는 손으로 갈아 끼웠고, 안감에서는 축축한 돌 냄새가 난다.
+    </Item>
+  <Item id="Armor_DungeonGuard_Hauberk_oldest">
+        녹슨 저주받은 주둔지 사슬 갑옷
+    </Item>
+  <Item id="Armor_DungeonGuard_Hauberk_oldest_desc">
+        먼지 쌓이고 녹슬고 피 묻은 주둔지 전사의 사슬 갑옷. 이전 주인에게는 쓸모 있었을지 몰라도, 이제는 정말 위험한 적들로부터 당신을 지켜 주지 못할 것이다.
+    </Item>
+  <Item id="Armor_Sith_Medium_Blacksmith">
+        대장장이 갑옷
+    </Item>
+  <Item id="Armor_Sith_Medium_Blacksmith_desc">
+        망치 이상의 것을 들어야 했던 대장장이를 위해 쉬족이 만든 튼튼한 갑옷. 판금이 가슴과 어깨를 잘 보호하지만, 우아함보다는 견고함이 앞선다.
+    </Item>
+  <Item id="Armor_Sith_Medium_Blacksmith_old">
+        낡은 대장장이 갑옷
+    </Item>
+  <Item id="Armor_Sith_Medium_Blacksmith_old_desc">
+        이름 모를 고대 쉬족 대장장이의 이 갑옷은 세월에 비해 놀라울 만큼 잘 남아 있다.
+    </Item>
+  <Item id="Armor_Sith_Medium_Blacksmith_oldest">
+        삭아버린 대장장이 갑옷
+    </Item>
+  <Item id="Armor_Sith_Medium_Blacksmith_oldest_desc">
+        찢긴 자국, 말라붙은 피, 던전에서의 수천 년 — 이 갑옷은 너무 많은 것을 겪었다. 큰 보호를 기대하지는 마라.
+    </Item>
+  <Item id="Armor_Sith_Heavy_FirstSquad">
+        선봉대의 갑옷
+    </Item>
+  <Item id="Armor_Sith_Heavy_FirstSquad_desc">
+        적의 첫 일격을 받아 내도록 만든 선봉대의 판금 중갑. 두꺼운 판금과 높은 깃 때문에 거추장스럽지만, 무시무시한 힘도 견뎌 낼 수 있다.
+    </Item>
+  <Item id="Armor_Sith_Heavy_FirstSquad_old">
+        낡은 선봉대의 갑옷
+    </Item>
+  <Item id="Armor_Sith_Heavy_FirstSquad_old_desc">
+        무기 자국과 오래된 핏자국에도 불구하고, 이 중갑은 새 주인을 오랫동안 지켜 줄 것이다.
+    </Item>
+  <Item id="Armor_Sith_Heavy_FirstSquad_oldest">
+        녹슨 선봉대의 갑옷
+    </Item>
+  <Item id="Armor_Sith_Heavy_FirstSquad_oldest_desc">
+        녹슨 판금은 찌그러짐과 오래된 균열로 뒤덮여 있다. 긴 싸움은 견디지 못하겠지만, 끔찍한 첫 일격만큼은 아직 받아 낼 수 있다.
+    </Item>
+  <Item id="Armor_Sith_Medium_Hadding">
+        실소르 군대의 갑옷
+    </Item>
+  <Item id="Armor_Sith_Medium_Hadding_desc">
+        아득한 옛날에 벼려진 실소르 군대의 갑옷. 넓은 판금이 타격의 힘을 분산시키고, 검은 금속은 여전히 엄격하고 무시무시한 모습을 간직하고 있다.
+    </Item>
+  <Item id="Armor_Sith_Medium_Hadding_old">
+        실소르 군대의 낡은 갑옷
+    </Item>
+  <Item id="Armor_Sith_Medium_Hadding_old_desc">
+        실소르 군대의 고대 갑옷. 셀 수 없는 세월 동안 던전의 먼지 속에 놓여 있었지만, 방어력은 거의 잃지 않았다.
+    </Item>
+  <Item id="Armor_Sith_Medium_Hadding_oldest">
+        실소르 군대의 녹슨 갑옷
+    </Item>
+  <Item id="Armor_Sith_Medium_Hadding_oldest_desc">
+        이 갑옷은 끔찍한 전투를 수없이 겪었다. 세월이 거의 망가뜨려 놓았지만, 이렇게 낡은 모습으로도 다가올 마지막 전투에서는 아직 도움이 될 수 있다.
+    </Item>
+  <Item id="Armor_Sith_Light_RavenEye">
+        까마귀의 눈 갑옷
+    </Item>
+  <Item id="Armor_Sith_Light_RavenEye_desc">
+        까마귀의 눈 궁수들의 경갑. 움직임을 거의 제한하지 않으며, 두툼한 가죽과 좁은 판금이 궁수가 민첩함을 잃어서는 안 될 곳을 지켜 준다.
+    </Item>
+  <Item id="Armor_Sith_Light_RavenEye_old">
+        낡은 까마귀의 눈 갑옷
+    </Item>
+  <Item id="Armor_Sith_Light_RavenEye_old_desc">
+        곳곳이 해지고 때가 탔지만, 잘 보존된 전설적인 쉬족 궁수들의 갑옷.
+    </Item>
+  <Item id="Armor_Sith_Light_RavenEye_oldest">
+        삭아버린 까마귀의 눈 갑옷
+    </Item>
+  <Item id="Armor_Sith_Light_RavenEye_oldest_desc">
+        전설적인 쉬족 궁수들의 한때 장엄했던 갑옷. 썩어 가는 가죽과 녹슨 금속만이 옛 위대함의 흔적으로 남아 있다.
+    </Item>
+  <Item id="key_additional_name_0">
+        고대의
+    </Item>
+  <Item id="key_additional_name_1">
+        낡은
+    </Item>
+  <Item id="key_additional_name_2">
+        녹슨
+    </Item>
+  <Item id="key_additional_name_3">
+        허름한
+    </Item>
+  <Item id="key_additional_name_4">
+        태고의
+    </Item>
+  <Item id="key_additional_name_5">
+        더러운
+    </Item>
+  <Item id="key_additional_name_6">
+        기이한
+    </Item>
+  <Item id="key_additional_name_7">
+        특이한
+    </Item>
+  <Item id="key_additional_name_8">
+        잊혀진
+    </Item>
+  <Item id="lamp_usual">
+        랜턴
+    </Item>
+  <Item id="lamp_usual_desc">
+        지하 회랑의 어둠 속에서 없어서는 안 될 물건.
+        길을 밝히고 숨겨진 물건을 찾는 데 도움을 준다.
+    </Item>
+  <Item id="lamp_vladiora">
+        블라디오라의 랜턴
+    </Item>
+  <Item id="lamp_yellow">
+        노란색 랜턴
+    </Item>
+  <Item id="lamp_red">
+        붉은색 랜턴
+    </Item>
+  <Item id="lamp_white">
+        흰색 랜턴
+    </Item>
+  <Item id="lamp_blue">
+        푸른색 랜턴
+    </Item>
+  <Item id="lamp_green">
+        초록색 랜턴
+    </Item>
+  <Item id="lamp_magic">
+        마법 랜턴
+    </Item>
+  <Item id="crowbar_usual">
+        쇠지렛대
+    </Item>
+  <Item id="crowbar_power">
+        강력한 쇠지렛대
+    </Item>
+  <Item id="crowbar_power_desc">
+        무거운 강철 쇠지렛대. 오래된 장치에 힘을 가하거나 상자의 자물쇠를 부숴야 할 때 유용하다.
+    </Item>
+  <Item id="crowbar_power_old">
+        낡은 쇠지렛대
+    </Item>
+  <Item id="crowbar_power_old_desc">
+        곳곳이 녹으로 덮였지만, 오래된 장치에 힘을 가하거나 상자의 자물쇠를 부술 때 여전히 쓸모가 있다.
+    </Item>
+  <Item id="crowbar_power_oldest">
+        녹슨 쇠지렛대
+    </Item>
+  <Item id="crowbar_power_oldest_desc">
+        녹으로 완전히 부식된 쇠지렛대. 오래된 장치에 힘을 가하거나 상자의 자물쇠를 부술 때 어쩌면 쓸모가 있을지도 모른다.
+    </Item>
+  <Item id="crowbar_mini">
+        가벼운 쇠지렛대
+    </Item>
+  <Item id="crowbar_mini_desc">
+        작고 보존 상태가 좋은 쇠지렛대. 오래된 장치를 억지로 열거나 상자의 자물쇠를 부술 때 유용하다.
+    </Item>
+  <Item id="crowbar_mini_old">
+        낡고 가벼운 쇠지렛대
+    </Item>
+  <Item id="crowbar_mini_old_desc">
+        작은 쇠지렛대는 닳았고 녹 얼룩이 져 있다. 오래된 장치를 억지로 열거나 상자의 자물쇠를 부술 때 아직 쓸모가 있을지도 모른다.
+    </Item>
+  <Item id="crowbar_mini_oldest">
+        녹슬고 가벼운 쇠지렛대
+    </Item>
+  <Item id="crowbar_mini_oldest_desc">
+        녹으로 완전히 부식된 작은 쇠지렛대. 오래된 장치에 힘을 가하거나 상자의 자물쇠를 부술 때 어쩌면 쓸모가 있을지도 모른다.
+    </Item>
+  <Item id="item_tools_class">
+        도구
+    </Item>
+  <Item id="item_coin">
+        동전
+    </Item>
+  <Item id="item_coin_desc">
+        미지의 반짝이는 금속으로 만든 특이한 고대 동전.
+
+        이곳에는 살아 있는 상인이 없으니, 동전은 지나온 장소를 표시하는 데 쓸 수 있다. 그러면 지하 미궁의 어둠 속에서 길을 잃지 않을 가능성이 높아진다.
+    </Item>
+  <Item id="ring_lergia">
+        레르지아의 반지
+    </Item>
+  <Item id="ring_lergia_desc">
+        검게 변한 금속에는 푸른 녹이 슬었고, 흐르는 듯한 문양에는 무고한 이들을 위해 검을 들고 스스로 하얀 전당을 떠난 가희의 당당한 의지가 남아 있다.
+
+        이 반지는 의지력을 크게 높여 생명력 회복을 돕는다.
+    </Item>
+  <Item id="ring_kerlor">
+        케를로르의 반지
+    </Item>
+  <Item id="ring_kerlor_desc">
+        차가운 금속이 시선을 표적으로 이끄는 듯하다. 어두운 장식에서 까마귀의 눈의 맹금 같은 예리함이 느껴진다.
+
+        이 반지는 통찰력을 높여 적의 약점을 찾는 데 도움을 준다.
+    </Item>
+  <Item id="ring_teralixor">
+        테랄릭소르의 반지
+    </Item>
+  <Item id="ring_teralixor_desc">
+        안쪽에서 고대 장치의 조용한 움직임이 느껴진다. 녹색 보석은 마치 위대한 공학자의 설계가 아직 그 안에서 타오르고 있는 듯 은은하게 빛난다.
+
+        이 반지는 근력을 높여 더 강력한 일격을 가하게 해 준다.
+    </Item>
+  <Item id="ring_seliora">
+        셀리오라의 반지
+    </Item>
+  <Item id="ring_seliora_desc">
+        여기 새겨진 가희의 모습은 연약하고도 무시무시하며, 거의 무게가 없는 듯하다. 그 은은한 힘은 짓누르지 않고, 치명적인 일격으로부터 손을 비껴가게 이끈다.
+
+        이 반지는 민첩성을 높여 큰 피해를 피하게 해 준다.
+    </Item>
+  <Item id="ring_avallor">
+        아발로르의 반지
+    </Item>
+  <Item id="ring_avallor_desc">
+        손가락에 느껴지는 무게가 작은 권위의 인장을 떠올리게 한다. 검게 변한 금과 붉은 보석에는 최초의 지도자의 엄격한 의지가 남아 있다.
+
+        이 반지는 체질을 높여 스태미나와 생명력의 여유를 준다.
+    </Item>
+  <Item id="ring_corpse">
+        시체 반지
+    </Item>
+  <Item id="ring_corpse_desc">
+        강력한 에너지를 뿜어내는 반지로, 근접 피해량을 크게 증가시킨다.
+    </Item>
+  <Item id="ring_darkness_resist">
+        어둠의 반지
+    </Item>
+  <Item id="ring_darkness_resist_desc">
+        이 반지는 착용자에게 어둠에 저항하는 오라를 부여한다.
+    </Item>
+  <Item id="darkness_spec">
+        어둠 저항력
+    </Item>
+  <Item id="artifact_usual">
+        유물
+    </Item>
+  <Item id="artifact_usual_desc">
+        그 용도를 도무지 알 수 없는 고대의 유물.
+    </Item>
+  <Item id="artifact_sphere_bronse">
+        테르다 정신의 보주
+    </Item>
+  <Item id="artifact_sphere_bronse_desc">
+        빛나는 선 문양이 새겨진 용도를 알 수 없는 금속 구체. 아마 어떤 장치를 작동시키는 것 같다.
+    </Item>
+  <Item id="artifact_sphere_copper">
+        테르다 마법의 보주
+    </Item>
+  <Item id="artifact_sphere_copper_desc">
+        빛나는 선 문양이 새겨진 용도를 알 수 없는 금속 구체. 아마 어떤 장치를 작동시키는 것 같다.
+    </Item>
+  <Item id="artifact_sphere_platinum">
+        테르다 물질의 보주
+    </Item>
+  <Item id="artifact_sphere_platinum_desc">
+        표면에 빛나는 선의 문양이 새겨진 정체불명의 금속 구. 특정 장치를 작동시키는 데 쓰일 것 같다.
+    </Item>
+  <Item id="artifact_altar_door">
+        기계 부품
+    </Item>
+  <Item id="artifact_altar_door_desc">
+        삼각형 모양의 금속 물체. 특정 장치를 작동시키는 데 쓰일 것 같다.
+    </Item>
+  <Item id="artifact_engineer_door_desc">
+        평평한 원 모양의 금속 물체. 특정 장치를 작동시키는 데 쓰일 것 같다.
+    </Item>
+  <Item id="artifact_lock_desc">
+        빛나는 수정이 박힌 금속 물체. 특정 장치를 작동시키는 데 쓰일 것 같다.
+    </Item>
+  <Item id="artifact_miragore">
+        미라고어
+    </Item>
+  <Item id="artifact_miragore_desc">
+        오래전 잊혀진 종족의 고대 마법 유물. 돌 표면은 만지면 따스하고 희미하게 맥동한다.
+    </Item>
+  <Item id="artifact_dead_god_heart">
+        상실자의 심장
+    </Item>
+  <Item id="artifact_dead_god_heart_desc">
+        고대 유물
+    </Item>
+  <Item id="artifact_yargee_skull">
+        야르지의 해골
+    </Item>
+  <Item id="artifact_yargee_skull_desc_hidden">
+        소름 끼치는 일기의 저자 해골. 그는 던전 탐험이 실패로 돌아가자 동료들에게 잡아먹히고 말았다. 다르그로스의 두 번째 층에서 발견되었다.
+    </Item>
+  <Item id="artifact_grallion_book">
+        그랄리온
+    </Item>
+  <Item id="rope_usual">
+        밧줄
+    </Item>
+  <Item id="rope_usual_desc">
+        모험가에게 유용한 물건. 다양한 상황에서 쓸 수 있다.
+    </Item>
+  <Item id="grindstone_usual">
+        숫돌
+    </Item>
+  <Item id="grindstone_usual_desc">
+        결이 고운 연마재 덩어리.
+
+        휴식 중 무기를 손질하고 날을 세우는 데 사용할 수 있다.
+    </Item>
+  <Item id="trap_bear">
+        함정
+    </Item>
+  <Item id="trap_bear_desc">
+        날카로운 가시가 박힌 강력한 금속 함정. 어떤 괴물에게든 심각한 피해를 줄 수 있다.
+
+        사냥꾼은 이 함정을 설치하는 방법을 알고 있다.
+    </Item>
+  <Item id="trap_bear_deactivated">
+        해제된 함정
+    </Item>
+  <Item id="trap_bear_broken">
+        부서진 함정
+    </Item>
+  <Item id="trap_detail">
+        함정 부품
+    </Item>
+  <Item id="trap_detail_desc">
+        어떤 괴물에게든 심각한 피해를 줄 수 있는 강력한 금속 함정의 부품.
+
+        사냥꾼은 이 부품들로 쓸만한 함정을 만들 수 있다.
+    </Item>
+  <Item id="trap_usual">
+        함정
+    </Item>
+  <Item id="book_ancient">
+        고대의 책
+    </Item>
+  <Item id="book_usual">
+        책
+    </Item>
+  <Item id="book_usual_desc">
+        잊혀진 던전의 먼지 구덩이 속에서 수백 년 동안 방치되어 있던 낡고 너덜너덜한 책.
+
+        휴식 중에 책을 읽을 수 있다.
+    </Item>
+  <Item id="diary_usual">
+        일기장
+    </Item>
+  <Item id="diary_usual_desc">
+        먼지가 잔뜩 쌓인 낡은 일기장.
+    </Item>
+  <Item id="diary_blood">
+        피 묻은 일기장
+    </Item>
+  <Item id="diary_blood_desc">
+        일기장엔 오래전 말라붙은 핏자국이 가득하고, 일부 페이지는 서로 달라붙어 있다.
+    </Item>
+  <Item id="note_usual">
+        쪽지
+    </Item>
+  <Item id="note_usual_desc">
+        구겨진 낡은 쪽지
+    </Item>
+  <Item id="note_bloody">
+        피 묻은 쪽지
+    </Item>
+  <Item id="note_bloody_desc">
+        말라붙은 핏자국으로 얼룩진 쪽지.
+    </Item>
+  <Item id="note_diary_page">
+        일기장 페이지
+    </Item>
+  <Item id="note_diary_page_desc">
+        구겨진 일기장 페이지
+    </Item>
+  <Item id="creature_observer">
+        모르로크
+    </Item>
+  <Item id="creature_observer_desc">
+        머리부터 발끝까지 엉겨 붙은 피로 뒤덮인 거대한 괴물. 훼손된 양팔 끝에는 거대한 식칼과 가시 돋친 도리깨가 달려 있다.
+    </Item>
+  <Item id="creature_observer_lepro">
+        나병 모르로크
+    </Item>
+  <Item id="creature_spider_blood">
+        피거미
+    </Item>
+  <Item id="creature_spider_blood_desc">
+        몸통과 다리가 점액으로 뒤덮인 거대한 크기의 기괴한 피조물.
+    </Item>
+  <Item id="creature_spider_cave">
+        동굴 거미
+    </Item>
+  <Item id="creature_spider_cave_desc">
+        몸통과 다리가 점액으로 뒤덮인 거대한 크기의 기괴한 피조물.
+    </Item>
+  <Item id="creature_spider_corpse">
+        시체 거미
+    </Item>
+  <Item id="creature_spider_corpse_desc">
+        몸통과 다리가 점액으로 뒤덮인 거대한 크기의 기괴한 피조물.
+    </Item>
+  <Item id="creature_spider_rot">
+        부패 거미
+    </Item>
+  <Item id="creature_spider_rot_desc">
+        몸통과 다리에 부패한 반점들이 덮여 있는 거대한 크기의 기괴한 피조물.
+    </Item>
+  <Item id="dead_creature">
+        죽은 괴물
+    </Item>
+  <Item id="creature_spider_dead_desc">
+        기괴한 거미의 시체는 오래전부터 마른 점액이 섞인 진흙층으로 덮여 있다.
+    </Item>
+  <Item id="creature_corpse_alive">
+        언데드
+    </Item>
+  <Item id="creature_corpse_alive_desc">
+        수백 년 동안 이곳에 갇혀, 어둠 속을 영원히 떠돌아야 하는 저주를 받은 자. 당신의 손에 최후를 맞이하기 전까지는 말이다.
+    </Item>
+  <Item id="creature_corpse_dead">
+        시체
+    </Item>
+  <Item id="creature_corpse_dead_desc">
+        생의 마지막 순간에 느꼈던 끔찍한 공포가 얼굴에 그대로 얼어붙어 있는 흉측한 몰골의 시체.
+    </Item>
+  <Item id="creature_ancient_corpse">
+        고대인의 시체
+    </Item>
+  <Item id="creature_ancient_corpse_desc">
+        인간과 일부분만 닮은 정체 모를 피조물의 바싹 마른 시체. 흙먼지로 뒤덮여 있다.
+    </Item>
+  <Item id="creature_skeleton_sith">
+        고대의 해골
+    </Item>
+  <Item id="creature_skeleton_sith_desc">
+        가늘고 긴 팔다리와 특이한 모양의 두개골. 이 고대의 해골은 알려지지 않은 종족의 것이었다.
+    </Item>
+  <Item id="creature_skeleton">
+        해골
+    </Item>
+  <Item id="creature_skeleton_desc">
+        이 남자의 살점은 썩어 없어진 지 오래다. 두꺼운 때로 덮인 백 년 묵은 뼈만이 남아있을 뿐이다.
+    </Item>
+  <Item id="creature_slug">
+        시체 포식자
+    </Item>
+  <Item id="creature_slug_desc">
+        수많은 촉수로 시체의 진물을 빨아먹으며 기어 다니는 역겨운 피조물.
+    </Item>
+  <Item id="creature_rat">
+        쥐
+    </Item>
+  <Item id="creature_rat_desc">
+        시체의 살점을 먹고 사는, 역병에 찌든 피조물.
+    </Item>
+  <Item id="creature_niss">
+        니스
+    </Item>
+  <Item id="creature_niss_desc">
+        강력하고 피투성이인 발톱을 가진 흉측한 괴물. 몸은 점액으로 덮여 있고, 머리에는 수많은 검은 눈동자들이 달려 번뜩이고 있다.
+    </Item>
+  <Item id="creature_niss_lepro">
+        나병 니스
+    </Item>
+  <Item id="creature_niss_lepro_desc">
+        강력하고 피투성이인 발톱을 가진 흉측한 괴물. 몸은 점액으로 덮여 있고, 머리에는 수많은 검은 눈동자들이 달려 번뜩이고 있다.
+    </Item>
+  <Item id="creature_cort">
+        코르트
+    </Item>
+  <Item id="creature_cort_desc">
+        수척하고 더러운 이 괴물은 거대한 새의 뼈대를 닮았다. 무엇이 이 부자연스러운 생명을 유지시키는지는 알려지지 않았다.
+    </Item>
+  <Item id="bottle_usual">
+        병
+    </Item>
+  <Item id="bottle_usual_desc">
+        튼튼한 유리 속에 정체를 알 수 없는 액체가 담겨 있다.
+    </Item>
+  <Item id="flask_skin">
+        물통
+    </Item>
+  <Item id="flask_skin_desc">
+        다양한 액체를 담을 수 있는 낡은 가죽 물통.
+    </Item>
+  <Item id="flask_steel_desc">
+        다양한 액체를 담을 수 있는 낡은 강철 물통.
+    </Item>
+  <Item id="bottle_buff_health">
+        건강의 비약
+    </Item>
+  <Item id="bottle_buff_health_desc">
+        비약이 생명을 주는 에너지로 몸을 채워 생명력을 빠르게 회복시킨다.
+    </Item>
+  <Item id="bottle_buff_power">
+        힘의 비약
+    </Item>
+  <Item id="bottle_buff_damage_desc">
+        비약이 몸에 강력한 에너지를 불어넣어, 전투에서 더욱 치명적인 공격을 퍼붓게 해 준다.
+    </Item>
+  <Item id="bottle_buff_noiseless">
+        그림자의 비약
+    </Item>
+  <Item id="bottle_buff_noiseless_desc">
+        비약이 몸의 협응력을 높여 거의 소리 없이 움직일 수 있게 해 준다.
+    </Item>
+  <Item id="bottle_buff_stamina">
+        스태미나의 비약
+    </Item>
+  <Item id="bottle_buff_stamina_desc">
+        비약이 마르지 않을 듯한 에너지로 몸을 채워 지구력을 크게 높여 준다.
+    </Item>
+  <Item id="bottle_buff_vision">
+        야간 시야의 비약
+    </Item>
+  <Item id="bottle_buff_vision_desc">
+        비약이 어둠 속의 시력을 날카롭게 해 준다. 그 무엇도 당신의 눈을 피할 수 없다.
+    </Item>
+  <Item id="bottle_buff_recovery">
+        회복의 비약
+    </Item>
+  <Item id="bottle_buff_recovery_desc">
+        비약이 체력과 스태미나의 회복을 빠르게 해 준다.
+    </Item>
+  <Item id="rat_poison">
+        쥐약
+    </Item>
+  <Item id="rat_poison_desc">
+        아마도 지하의 쥐를 없애기 위해 만든 위험한 독. 삼키면 체력이 반복해서 빠져나간다.
+    </Item>
+  <Item id="deep_creatures_poison">
+        심해종의 독
+    </Item>
+  <Item id="deep_creatures_poison_desc">
+        지하에 서식하는 고대 괴물들의 분비샘에서 추출한 강력한 맹독.
+    </Item>
+  <Item id="Dark_Strangler_poison">
+        어둠의 교살자
+    </Item>
+  <Item id="Dark_Strangler_poison_desc">
+        희생자의 몸에 스며들어 생명을 갉아먹는 희귀하고 강력한 독.
+        영혼 포식자의 유해에서 얻은 희귀한 죽음의 꽃가루로 만든다.
+    </Item>
+  <Item id="anti_poison">
+        해독제
+    </Item>
+  <Item id="anti_poison_desc">
+        몸에 퍼진 독의 효과를 없애거나 줄여 주는 비약.
+    </Item>
+  <Item id="BagOfCoins">
+        주머니
+    </Item>
+  <Item id="Corpse_Armor_Clothes">
+        허름한 옷
+    </Item>
+  <Item id="Corpse_Armor_Mail">
+        부패하는 갑옷
+    </Item>
+  <Item id="string_1">
+        부품 {0}개 보유
+    </Item>
+  <Item id="string_2">
+        보유:
+    </Item>
+  <Item id="string_3">
+        처치한 괴물:
+    </Item>
+  <Item id="string_4">
+        발견한 비밀 장소:
+    </Item>
+  <Item id="string_5">
+        열어낸 자물쇠:
+    </Item>
+  <Item id="string_6">
+        시간:
+    </Item>
+  <Item id="string_7">
+        동전을 더 찾아야 합니다.
+    </Item>
+  <Item id="string_8">
+        함정이 없다.
+    </Item>
+  <Item id="string_9">
+        함정을 놓기에 알맞은 곳이 아니다.
+    </Item>
+  <Item id="string_11">
+        랜턴을 사용하면 체력을 회복할 수 있습니다!
+    </Item>
+  <Item id="string_12">
+        부상을 치료하려면 휴식이 필요하다.
+    </Item>
+  <Item id="string_15">
+        앞이 잘 보이지 않는다!
+    </Item>
+  <Item id="string_16">
+        열 수 없다. 자물쇠가 단단히 걸렸다.
+    </Item>
+  <Item id="string_17">
+        효과 없음
+    </Item>
+  <Item id="string_18">
+        부상
+    </Item>
+  <Item id="string_19">
+        밧줄을 고정했다. 이제 이 구멍을 탐색할 수 있다.
+    </Item>
+  <Item id="string_20">
+        구멍으로 내려가려면 밧줄이 필요하다.
+    </Item>
+  <Item id="string_21">
+        함정을 제작하려면 부품이 더 필요하다.
+    </Item>
+  <Item id="string_22">
+        남은 랜턴 연료
+    </Item>
+  <Item id="string_23">
+        사용 횟수
+    </Item>
+  <Item id="string_25">
+        잠겼다!
+        필요한 것:
+    </Item>
+  <Item id="string_26">
+        또는 락픽
+    </Item>
+  <Item id="string_27">
+        잠김! 락픽 필요
+    </Item>
+  <Item id="string_28">
+        잠김! 쇠지렛대 필요
+    </Item>
+  <Item id="string_29">
+        여기서 휴식을 취할 수 있겠다.
+    </Item>
+  <Item id="string_30">
+        체력 회복됨
+    </Item>
+  <Item id="string_31">
+        다르그로스 연대기
+    </Item>
+  <Item id="string_32">
+        일지 갱신됨
+    </Item>
+  <Item id="string_35">
+        기적적으로 살아남았다!
+    </Item>
+  <Item id="string_37">
+        아이템 획득
+    </Item>
+  <Item id="string_38">
+        {0}초 남음
+    </Item>
+  <Item id="string_40">
+        강력한 함정이다. 이제 괴물을 이리로 유인하기만 하면 된다!
+    </Item>
+  <Item id="string_41">
+        치명적인 함정이다. 괴물들을 이리로 유인할 수 있겠다.
+    </Item>
+  <Item id="string_41_1">
+        주변의 모든 것을 중독시키는 위험한 함정이다.
+    </Item>
+  <Item id="string_42">
+        함정 부품이 다 떨어졌다.
+    </Item>
+  <Item id="string_43">
+        일지에 아직 기록된 내용이 없다.
+    </Item>
+  <Item id="string_44">
+        소지품이 비어 있음
+    </Item>
+  <Item id="string_45">
+        능력
+    </Item>
+  <Item id="string_46">
+        전투 기술
+    </Item>
+  <Item id="string_47">
+        강점
+    </Item>
+  <Item id="string_48">
+        페이지
+    </Item>
+  <Item id="string_49">
+        무게
+    </Item>
+  <Item id="string_51">
+        이 괴물이 날 죽일 거야!
+    </Item>
+  <Item id="string_52">
+        받아라, 짐승아!
+    </Item>
+  <Item id="string_53">
+        죽어라, 괴물아!
+    </Item>
+  <Item id="string_53_1">
+        더러운 짐승이 한 마리 더 있군.
+    </Item>
+  <Item id="string_54">
+        무언가 눈에 띄었다. 자세히 살펴봐야겠다.
+    </Item>
+  <Item id="string_55">
+        장비
+    </Item>
+  <Item id="string_56">
+        아이템
+    </Item>
+  <Item id="string_57">
+        반지
+    </Item>
+  <Item id="string_59">
+        이 반지를 끼려면 다른 반지를 빼야 한다.
+    </Item>
+  <Item id="string_60">
+        시야
+    </Item>
+  <Item id="string_61">
+        부상 때문에 공격을 회피하기 어렵다!
+    </Item>
+  <Item id="string_63">
+        괴물 도감 갱신됨
+    </Item>
+  <Item id="string_64">
+        단순한 자물쇠
+    </Item>
+  <Item id="string_65">
+        일반 자물쇠
+    </Item>
+  <Item id="string_66">
+        단단한 자물쇠
+    </Item>
+  <Item id="string_67">
+        복잡한 자물쇠
+    </Item>
+  <Item id="string_68">
+        극도로 복잡한 자물쇠
+    </Item>
+  <Item id="string_69">
+        약한 자물쇠
+    </Item>
+  <Item id="string_70">
+        일반 자물쇠
+    </Item>
+  <Item id="string_71">
+        단단한 자물쇠
+    </Item>
+  <Item id="string_72">
+        튼튼한 자물쇠
+    </Item>
+  <Item id="string_73">
+        극도로 견고한 자물쇠
+    </Item>
+  <Item id="string_74">
+        단순한 함정
+    </Item>
+  <Item id="string_75">
+        일반 함정
+    </Item>
+  <Item id="string_76">
+        교묘한 함정
+    </Item>
+  <Item id="string_77">
+        위험한 함정
+    </Item>
+  <Item id="string_78">
+        치명적인 함정
+    </Item>
+  <Item id="string_79">
+        어렵지 않았다.
+    </Item>
+  <Item id="string_80">
+        훌륭한 멧돼지 덫이군!
+    </Item>
+  <Item id="string_81">
+        악랄한 장치로군!
+    </Item>
+  <Item id="string_82">
+        능력 알 수 없음
+    </Item>
+  <Item id="string_84">
+        지하의 어둠 속에서 영원히 길을 잃은 안식 없는 영혼들. 한때 이들은 헤아릴 수 없는 부와 고대의 비밀을 찾아 이곳에 들어온 무모한 모험가들이었다.
+        이제 이들은 끝없는 미궁을 영원히 떠돌 운명에 놓인, 사람의 가련한 그림자일 뿐이다.
+    </Item>
+  <Item id="string_85">
+        믿기 힘들 만큼 강력한 기괴한 거인들. 이들은 거대한 식칼로 단단히 무장한 전사조차 죽일 수 있다.
+        이 미쳐 버린 피조물은 보통 갉아먹힌 뼈가 널린 소굴에 머물며, 이따금 새로운 희생자를 찾아 나선다.
+    </Item>
+  <Item id="string_86">
+        빠르고 끈질긴 이 흉측한 피조물들은 소리 없이 희생양에게 다가가 눈을 멀게 하고 출혈을 일으키는 상처를 입힌다.
+        믿을 수 없을 만큼 위험한 괴물들이다.
+    </Item>
+  <Item id="string_87">
+        남은 동전:
+    </Item>
+  <Item id="string_88">
+        남은 동전 없음
+    </Item>
+  <Item id="Dagger_04_new_quest_level1">
+        베레드의 단검
+    </Item>
+  <Item id="Dagger_04_new_quest_level1_desc">
+        이 무기는 네 개의 탑 교단의 수련자의 것이었다. 던전 입구에서 일기장과 함께 발견되었다.
+    </Item>
+  <Item id="string_89">
+        얼마 전에 잠을 자서 기운이 넘친다.
+    </Item>
+  <Item id="string_90">
+        쉴 곳을 찾아봐야겠다.
+    </Item>
+  <Item id="string_91">
+        피곤해 죽을 지경이다. 어디든 쉬어갈 곳을 찾아야만 한다.
+    </Item>
+  <Item id="string_92">
+        아주 좋아! 통로가 열렸다!
+    </Item>
+  <Item id="string_93">
+        이 레버가 무엇을 열었는지 살펴봐야 한다.
+    </Item>
+  <Item id="string_94">
+        이제 이 문을 열 수 있다. 저 안에 무엇이 있을지 궁금하다.
+    </Item>
+  <Item id="string_95">
+        은닉처
+    </Item>
+  <Item id="string_96">
+        장비가 너무 무거워졌다.
+    </Item>
+  <Item id="string_97">
+        일종의 자물쇠 같다. 중앙에 작은 정사각형 홈이 파여 있다.
+    </Item>
+  <Item id="string_98">
+        피를 흘리고 있다...
+    </Item>
+  <Item id="string_99">
+        장치를 작동시키려면 부품이 필요하다.
+    </Item>
+  <Item id="string_100">
+        초당
+    </Item>
+  <Item id="string_101">
+        분량
+    </Item>
+  <Item id="string_102">
+        물약
+    </Item>
+  <Item id="string_103">
+        속성 알 수 없음
+    </Item>
+  <Item id="string_104">
+        연마 횟수
+    </Item>
+  <Item id="string_105">
+        갑옷이 손상되었습니다. 방어력이 감소합니다.
+    </Item>
+  <Item id="string_106">
+        방패가 손상되었습니다. 방어력이 감소합니다.
+    </Item>
+  <Item id="string_109">
+        독 바르기:
+    </Item>
+  <Item id="string_110">
+        이 열쇠에 맞는 자물쇠를 이미 찾았다.
+    </Item>
+  <Item id="string_111">
+        이 열쇠에 맞는 자물쇠를 찾아야 한다.
+    </Item>
+  <Item id="string_112">
+        괴물
+    </Item>
+  <Item id="string_114">
+        * 휴식 중에 이 책을 읽을 수 있습니다 *
+    </Item>
+  <Item id="string_115">
+        * 일지에 추가됨 *
+    </Item>
+  <Item id="string_116">
+        차라리 쓸만한 도끼로 싸우는 게 낫겠다.
+    </Item>
+  <Item id="string_117">
+        이 지옥 같은 괴물들을 상대하려면 강력한 해머가 제격이다.
+    </Item>
+  <Item id="string_118">
+        어둠의 피조물과 싸울 땐 믿을 만한 검이 최고다.
+    </Item>
+  <Item id="string_119">
+        단검 몇 자루만 더 있었어도 괴물들을 훨씬 많이 도륙했을 텐데.
+    </Item>
+  <Item id="string_120">
+        거대한 낙석이 저주받은 주둔지의 순찰대를 그 아래에 묻어 버렸다. 이쪽으로는 지나갈 수 없다.
+    </Item>
+  <Item id="string_121">
+        더 민첩하게 움직일 수 있도록 가벼운 갑옷을 입는 게 좋겠다.
+    </Item>
+  <Item id="string_122">
+        괜찮은 평갑을 입는 게 낫겠다.
+    </Item>
+  <Item id="string_123">
+        강력한 중갑을 입는 게 낫겠다.
+    </Item>
+  <Item id="string_124">
+        일지에 새로운 내용이 기록되었다.
+    </Item>
+  <Item id="string_125">
+        일기장 페이지를 모두 모았다!
+    </Item>
+  <Item id="string_126">
+        정체를 알 수 없는 물약이 몇 개 있다.
+    </Item>
+  <Item id="string_127">
+        기술 향상됨!
+    </Item>
+  <Item id="string_128">
+        자물쇠 따기 경험치 획득
+    </Item>
+  <Item id="string_129">
+        함정 사용 경험치 획득
+    </Item>
+  <Item id="string_130">
+        정체불명의 물약
+    </Item>
+  <Item id="string_131">
+        특성
+    </Item>
+  <Item id="string_132">
+        무기 손상됨
+    </Item>
+  <Item id="string_133">
+        갑옷 손상됨
+    </Item>
+  <Item id="string_134">
+        방패 손상됨
+    </Item>
+  <Item id="string_135">
+        아이템 손상됨
+    </Item>
+  <Item id="string_136">
+        해당 층 완료!
+    </Item>
+  <Item id="string_137">
+        사망했습니다
+    </Item>
+  <Item id="string_139">
+        사용 중:
+    </Item>
+  <Item id="string_141">
+        장비가 무겁다.
+    </Item>
+  <Item id="string_alco_wine">
+        와인
+    </Item>
+  <Item id="string_alco_wine_desc">
+        포도즙을 발효시켜 만든 알코올 음료.
+    </Item>
+  <Item id="string_alco_cider">
+        사과주
+    </Item>
+  <Item id="string_alco_cider_desc">
+        사과즙을 발효시켜 만든 알코올 음료.
+    </Item>
+  <Item id="string_alco_brandy">
+        브랜디
+    </Item>
+  <Item id="string_alco_brandy_desc">
+        포도주를 증류하여 만든 독한 알코올 음료.
+    </Item>
+  <Item id="string_alco_rum">
+        럼
+    </Item>
+  <Item id="string_alco_rum_desc">
+        당밀과 사탕수수 시럽을 발효 및 증류하여 만든 독한 알코올 음료.
+    </Item>
+  <Item id="string_142">
+        독을 바르기에 적합한 무기가 없습니다.
+    </Item>
+  <Item id="string_143">
+        정체불명의 물약을 맛보시겠습니까?
+    </Item>
+  <Item id="string_144">
+        무기에 독이 발라짐
+    </Item>
+  <Item id="string_145">
+        장착됨
+    </Item>
+  <Item id="string_146">
+        언어
+    </Item>
+  <Item id="string_149">
+        책 읽기
+    </Item>
+  <Item id="string_150">
+        함정 제작
+    </Item>
+  <Item id="string_151">
+        이곳에서 할 수 있는 행동:
+    </Item>
+  <Item id="string_152">
+        동전 떨어뜨리기
+    </Item>
+  <Item id="string_153">
+        랜턴 켜기/끄기
+    </Item>
+  <Item id="string_154">
+        장착됨
+    </Item>
+  <Item id="string_155">
+        소지품에 추가됨
+    </Item>
+  <Item id="string_156">
+        함정 설치
+    </Item>
+  <Item id="string_158">
+        다음과 같은 방법으로 이 자물쇠 열기를 시도할 수 있습니다:
+    </Item>
+  <Item id="string_159">
+        무기 교체
+    </Item>
+  <Item id="buff_1">
+        피로
+    </Item>
+  <Item id="buff_2">
+        극심한 피로
+    </Item>
+  <Item id="buff_3">
+        심연의 저주
+    </Item>
+  <Item id="buff_4">
+        악몽
+    </Item>
+  <Item id="buff_5">
+        패혈증
+    </Item>
+  <Item id="buff_6">
+        뇌진탕
+    </Item>
+  <Item id="buff_7">
+        깊은 상처
+    </Item>
+  <Item id="buff_8">
+        골절
+    </Item>
+  <Item id="buff_9">
+        찍힌 상처
+    </Item>
+  <Item id="buff_10">
+        출혈
+    </Item>
+  <Item id="buff_11">
+        실명
+    </Item>
+  <Item id="buff_12">
+        타박상
+    </Item>
+  <Item id="buff_13">
+        베인 상처
+    </Item>
+  <Item id="buff_14">
+        쇼크
+    </Item>
+  <Item id="buff_15">
+        중독
+    </Item>
+  <Item id="buff_16">
+        기절
+    </Item>
+  <Item id="buff_17">
+        부패
+    </Item>
+  <Item id="buff_18">
+        거미에 물림
+    </Item>
+  <Item id="buff_19">
+        아발로르의 힘
+    </Item>
+  <Item id="buff_20">
+        다르그로스의 손길
+    </Item>
+  <Item id="buff_21">
+        활력
+    </Item>
+  <Item id="buff_rest_cooldown">
+        최근 휴식
+    </Item>
+  <Item id="buff_22">
+        테랄릭소르의 의지
+    </Item>
+  <Item id="buff_23">
+        슐의 축복
+    </Item>
+  <Item id="buff_24">
+        전투의 광기
+    </Item>
+  <Item id="buff_25">
+        어둠
+    </Item>
+  <Item id="ach_1">
+        첩자
+    </Item>
+  <Item id="ach_1_completed">
+        모든 비밀 장소를 찾아냈습니다.
+    </Item>
+  <Item id="ach_1_goal">
+        모든 비밀 장소 찾기
+    </Item>
+  <Item id="ach_2">
+        고대의 제단
+    </Item>
+  <Item id="ach_2_completed">
+        슐의 고대 제단을 복구했습니다.
+    </Item>
+  <Item id="ach_2_goal">
+        고대의 제단 복구하기
+    </Item>
+  <Item id="ach_3">
+        심연의 품
+    </Item>
+  <Item id="ach_3_completed">
+        어두운 심연으로 추락했습니다.
+    </Item>
+  <Item id="ach_4">
+        최악의 맛
+    </Item>
+  <Item id="ach_4_completed">
+        정체불명의 물약을 마시고 사망했습니다.
+    </Item>
+  <Item id="ach_5">
+        빌어먹을 함정
+    </Item>
+  <Item id="ach_5_completed">
+        함정을 밟아 과다 출혈로 사망했습니다.
+    </Item>
+  <Item id="ach_6">
+        다르그로스의 관문
+    </Item>
+  <Item id="ach_6_completed">
+        던전의 첫 번째 층을 완료했습니다.
+    </Item>
+  <Item id="ach_6_goal">
+        던전의 첫 번째 층 완료하기
+    </Item>
+  <Item id="ach_7">
+        고대인의 비밀
+    </Item>
+  <Item id="ach_7_completed">
+        고대의 책을 모두 수집했습니다.
+    </Item>
+  <Item id="ach_7_goal">
+        고대의 책 모두 수집하기
+    </Item>
+  <Item id="ach_8">
+        반지 수호자
+    </Item>
+  <Item id="ach_8_completed">
+        모든 반지를 찾아냈습니다.
+    </Item>
+  <Item id="ach_8_goal">
+        모든 반지 찾기
+    </Item>
+  <Item id="ach_9">
+        악몽의 던전
+    </Item>
+  <Item id="ach_9_completed">
+        악몽의 던전을 완료했습니다.
+    </Item>
+  <Item id="ach_9_goal">
+        악몽의 던전 완료하기
+    </Item>
+  <Item id="ach_10">
+        자물쇠 파괴자
+    </Item>
+  <Item id="ach_10_completed">
+        잠겨 있던 모든 보관함을 열었습니다.
+    </Item>
+  <Item id="ach_10_goal">
+        잠긴 모든 보관함 열기
+    </Item>
+  <Item id="ach_unknown_conditions">
+        알 수 없는 조건
+    </Item>
+  <Item id="ach_new">
+        업적 달성
+    </Item>
+  <Item id="string_161">
+        페이지
+    </Item>
+  <Item id="string_162">
+        무기
+    </Item>
+  <Item id="string_163">
+        방패
+    </Item>
+  <Item id="string_164">
+        갑옷
+    </Item>
+  <Item id="string_167">
+        물약
+    </Item>
+  <Item id="string_168">
+        아이템
+    </Item>
+  <Item id="string_169">
+        부상 치료
+    </Item>
+  <Item id="repair_tool">
+        수리 도구
+    </Item>
+  <Item id="repair_tool_desc">
+        장비를 수리할 수 있는 다양한 도구 세트.
+    </Item>
+  <Item id="repair">
+        수리
+    </Item>
+  <Item id="armor_repair">
+        갑옷 수리
+    </Item>
+  <Item id="armor_enhance">
+        갑옷 강화
+    </Item>
+  <Item id="repair_tool_resource">
+        수리 도구 사용
+    </Item>
+  <Item id="unknown_mechanism">
+        정체불명의 장치
+    </Item>
+  <Item id="string_170">
+        독이 나를 죽이고 있다.
+    </Item>
+  <Item id="string_171">
+        생존자
+    </Item>
+  <Item id="string_172">
+        전사자
+    </Item>
+  <Item id="debuff_overload">
+        과적
+    </Item>
+  <Item id="debuff_overload_desc">
+        기동성 감소됨
+    </Item>
+  <Item id="string_173">
+        어둠이 나를 집어삼키고 있다.
+    </Item>
+  <Item id="string_175">
+        고대의 전설
+    </Item>
+  <Item id="string_176">
+        고대의 전설들
+    </Item>
+  <Item id="string_177">
+        일기장과 쪽지
+    </Item>
+  <Item id="string_178">
+        어둠이 나를 파괴하고 있다.
+    </Item>
+  <Item id="music_volume">
+        음악 볼륨
+    </Item>
+  <Item id="camera_sensitivity">
+        카메라 회전
+    </Item>
+  <Item id="string_179">
+        제거됨
+    </Item>
+  <Item id="string_180">
+        중독 제거
+    </Item>
+  <Item id="string_181">
+        움직이기가 수월해졌다!
+    </Item>
+  <Item id="skills">
+        기술
+    </Item>
+  <Item id="specs">
+        특성
+    </Item>
+  <Item id="string_182">
+        독샘
+    </Item>
+  <Item id="string_183">
+        거대한 거미에게서 얻은 농축된 독.
+    </Item>
+  <Item id="string_184">
+        피의 샘
+    </Item>
+  <Item id="string_185">
+        거대한 피거미에게서 얻은 농축된 독.
+    </Item>
+  <Item id="string_186">
+        부패의 샘
+    </Item>
+  <Item id="string_187">
+        거대한 부패 거미에게서 얻은 농축된 독.
+    </Item>
+  <Item id="stick_usual">
+        몽둥이
+    </Item>
+  <Item id="stick_usual_desc">
+        금속 장식이 달린 긴 나무 몽둥이.
+    </Item>
+  <Item id="buff_spider_web">
+        거미줄
+    </Item>
+  <Item id="string_188">
+        거의 다 죽였어!
+    </Item>
+  <Item id="hero_speech_debuff_immune">
+        이 독은 녀석에게 통하지 않는다.
+    </Item>
+  <Item id="string_189">
+        괴물이 피를 흘린다!
+    </Item>
+  <Item id="string_190">
+        강력한 괴물이군!
+    </Item>
+  <Item id="string_191">
+        잠겨서 열 수 없다.
+    </Item>
+  <Item id="string_192">
+        필요한 기술이 없다.
+    </Item>
+  <Item id="string_193">
+        쇠지렛대 사용 경험치 획득
+    </Item>
+  <Item id="string_194">
+        빈 물통
+    </Item>
+  <Item id="string_195">
+        빈 약병
+    </Item>
+  <Item id="string_196">
+        다양한 액체를 담아 다닐 수 있는 빈 물통.
+    </Item>
+  <Item id="string_197">
+        물약을 조제하는 데 쓸 수 있는 빈 약병.
+    </Item>
+  <Item id="poison_spider">
+        거미 독
+    </Item>
+  <Item id="poison_spider_desc">
+        지하 거미의 독샘에서 추출하여 만든 독.
+    </Item>
+  <Item id="poison_spider_rot">
+        부패의 독
+    </Item>
+  <Item id="poison_spider_rot_desc">
+        부패 거미의 독샘에서 추출하여 만든 강력한 독.
+    </Item>
+  <Item id="poison_spider_blood">
+        피의 독
+    </Item>
+  <Item id="poison_spider_blood_desc">
+        피거미의 독샘에서 추출하여 만든 매우 강력한 독.
+    </Item>
+  <Item id="string_198">
+        제작될 독의 양: {0}
+    </Item>
+  <Item id="string_199">
+        재료
+    </Item>
+  <Item id="string_200">
+        독약 제작
+    </Item>
+  <Item id="string_201">
+        독약을 제작하려면 빈 약병이 필요합니다
+    </Item>
+  <Item id="string_202">
+        무기가 완벽하게 연마되었습니다!
+    </Item>
+  <Item id="string_203">
+        내장을 꺼내려면 단검이 필요하다.
+    </Item>
+  <Item id="string_204">
+        * {0} 능력 덕분에 무기에 바르는 독의 양이 늘어납니다 *
+    </Item>
+  <Item id="string_205">
+        해로운 효과가 사라졌습니다
+    </Item>
+  <Item id="string_206">
+        축하합니다! 데모 버전을 완료하셨습니다.
+    </Item>
+  <Item id="string_207">
+        저희는 '스파크 인 더 다크'의 새로운 데모를 정기적으로 공개하고 있습니다.
+
+        소식을 놓치지 않으려면 구독해 주세요:
+    </Item>
+  <Item id="string_209">
+        모든 고대의 전설을 수집했습니다
+    </Item>
+  <Item id="string_210">
+        쇠약
+    </Item>
+  <Item id="buff_strength_high">
+        뛰어난 암흑 시야
+    </Item>
+  <Item id="buff_strength_medium">
+        양호한 암흑 시야
+    </Item>
+  <Item id="buff_strength_low">
+        낮은 암흑 시야
+    </Item>
+  <Item id="string_211">
+        모든 고대의 책을 수집했습니다
+    </Item>
+  <Item id="string_214">
+        현재 피해량:
+    </Item>
+  <Item id="string_215">
+        더 이상 수리할 수 없습니다
+    </Item>
+  <Item id="string_217">
+        연마 기술: {1}회 타격 동안 피해량 +{0}%
+    </Item>
+  <Item id="string_218">
+        되돌아갈 수 없습니다
+    </Item>
+  <Item id="string_219">
+        조작키
+    </Item>
+  <Item id="string_220">
+        * 더 이상 소지할 수 없습니다 *
+    </Item>
+  <Item id="string_221">
+        더 이상은 가져갈 수 없다.
+    </Item>
+  <Item id="broken_sword">
+        부러진 검
+    </Item>
+  <Item id="string_222">
+        암흑 시야를 알 수 없음
+    </Item>
+  <Item id="string_223">
+        이 열쇠는 다음을 여는 데 사용할 수 있습니다:
+    </Item>
+  <Item id="string_224">
+        함정을 제작하려면 {0}개의 부품이 필요합니다
+    </Item>
+  <Item id="string_225">
+        독약 제작하기
+    </Item>
+  <Item id="string_226">
+        괴물의 유용한 내장을 적출하시겠습니까?
+    </Item>
+  <Item id="string_227">
+        재시작
+    </Item>
+  <Item id="string_228">
+        쇠지렛대 사용 가능 횟수: {0}
+    </Item>
+  <Item id="string_229">
+        캐릭터의 육체적인 힘입니다.
+        고된 일을 견디고, 장애물을 극복하고, 힘이 필요한 일을 해내는 데 도움을 줍니다.
+        근접 전투에서는 타격을 더 강하게, 휘두르는 준비 동작을 더 빠르게 해 줍니다. 특히 무거운 양손 무기에서 그렇습니다.
+    </Item>
+  <Item id="string_230">
+        캐릭터의 재주와 민첩함입니다.
+        소리 없이 움직이고, 험한 지형을 지나고, 석궁을 더 빨리 장전하는 데 도움을 줍니다.
+        공격과 함정을 더 효과적으로 피하게 해 주어, 입는 부상의 정도를 줄여 줍니다.
+    </Item>
+  <Item id="string_231">
+        주변의 작은 세부 사항과 특징을 알아차리는 캐릭터의 능력입니다.
+        더 잘 보고, 숨겨진 통로를 발견하고, 좁은 틈새를 기어 지나갈 길을 찾는 데 도움을 줍니다.
+        전투에서는 명중률을 높이고 석궁 조준을 돕습니다.
+    </Item>
+  <Item id="string_232">
+        캐릭터의 신체적 강인함과 육체적 지구력입니다.
+        최대 체력과 스태미나를 높이고, 더 많은 무게를 들 수 있게 해 줍니다.
+        피로가 찾아오기 전까지 고된 일을 더 오래 버티게 해 줍니다.
+    </Item>
+  <Item id="string_233">
+        캐릭터의 정신력과 역경을 이겨 내는 능력입니다.
+        두려움과 어둠의 영향에 저항하는 데 도움을 줍니다.
+        체력과 스태미나 회복을 빠르게 하고, 일시적인 상태 이상에서 더 빨리 회복하게 해 줍니다.
+    </Item>
+  <Item id="string_235">
+        이 무거운 종은 적들이 다르그로스를 공격할 때 경비병들에게 알리는 데 쓰였던 것 같다.
+    </Item>
+  <Item id="string_236">
+        수리할 필요 없음
+    </Item>
+  <Item id="string_237">
+        수리
+    </Item>
+  <Item id="equipment_repair">
+        장비 수리
+    </Item>
+  <Item id="environment_water_reservoir_investigation">
+        정체를 알 수 없는 액체가 담긴 거대한 저수조. 꼭지를 쓰려면 특별한 손잡이가 필요하다.
+    </Item>
+  <Item id="environment_water_reservoir_known">
+        이 거대한 저수조에는 지하 수원지에서 끌어올린 물이 담겨 있다.
+    </Item>
+  <Item id="reservoir_tap">
+        꼭지 손잡이
+    </Item>
+  <Item id="reservoir_tap_desc">
+        이 부품으로 저수조의 꼭지를 작동시킬 수 있다.
+    </Item>
+  <Item id="water">
+        물
+    </Item>
+  <Item id="water_desc">
+        깨끗한 물을 몇 모금 마시면 피로가 줄어든다.
+    </Item>
+  <Item id="speech_string_237">
+        빈 물통이 필요하다.
+    </Item>
+  <Item id="speech_string_238">
+        더 이상 마실 수 없다.
+    </Item>
+  <Item id="sharpening_weapon">
+        연마
+    </Item>
+  <Item id="speech_string_239">
+        여기서 무기를 연마할 수 있겠군.
+    </Item>
+  <Item id="string_240">
+        무기 없음
+    </Item>
+  <Item id="string_241">
+        몸 상태가 좋아졌다!
+    </Item>
+  <Item id="bolt_usual">
+        볼트
+    </Item>
+  <Item id="bolt_usual_desc">
+        금속 촉이 달린 석궁용 화살.
+    </Item>
+  <Item id="debuff_241">
+        심연의 타락
+    </Item>
+  <Item id="ring_poison_resist">
+        심연의 뱀 반지
+    </Item>
+  <Item id="ring_poison_resist_desc">
+        신체에 미치는 독의 악영향을 감소시킨다.
+    </Item>
+  <Item id="poison_resist">
+        독 저항력
+    </Item>
+  <Item id="weapon_crossbow_sith">
+        까마귀의 눈 석궁
+    </Item>
+  <Item id="weapon_crossbow_sith_old">
+        까마귀의 눈 낡은 석궁
+    </Item>
+  <Item id="weapon_crossbow_sith_oldest">
+        까마귀의 눈 삭아버린 석궁
+    </Item>
+  <Item id="string_242">
+        숫돌 사용 가능 횟수: {0}
+    </Item>
+  <Item id="string_243">
+        석궁 장전
+    </Item>
+  <Item id="string_244">
+        조준
+    </Item>
+  <Item id="string_245">
+        볼트
+    </Item>
+  <Item id="speech_string_246">
+        마지막 발이다.
+    </Item>
+  <Item id="speech_string_247">
+        볼트가 필요하다.
+    </Item>
+  <Item id="string_248">
+        총 무게
+    </Item>
+  <Item id="alcohol_miruvor">
+        미루보르
+    </Item>
+  <Item id="alcohol_miruvor_desc">
+        꿀 향이 감도는 희귀한 고대의 음료. 몸과 정신에 활력을 불어넣어 둔화 효과를 줄여 준다.
+    </Item>
+  <Item id="alcohol_bottle">
+        병
+    </Item>
+  <Item id="alcohol_bottle_desc">
+        정체불명의 음료가 담긴 어둡고 단단한 유리병.
+    </Item>
+  <Item id="debaff_inebriation">
+        만취
+    </Item>
+  <Item id="talk_action">
+        대화
+    </Item>
+  <Item id="string_249">
+        사용 시
+    </Item>
+  <Item id="human_survived_warrior">
+        올라프 브라가
+    </Item>
+  <Item id="container_pantry">
+        식료품 저장고
+    </Item>
+  <Item id="great_hero_Silsor">
+        *실소르* – 다르그로스의 어둠 속에서 자라나
+        어둠의 종족들과의 힘겨운 전투를 통해 단련된 지도자.
+        그의 거대한 군대는 위대한 아발로르가 확립한
+        군사 전통을 따랐다.
+    </Item>
+  <Item id="great_hero_Tarrior">
+        *타리오르* – 분노의 전쟁에 참전한 노장.
+        전사들 사이에서 가장 큰 권위를 지녔던 그는
+        가장 치명적인 군대 중 하나를 만들었다.
+        전투 해머로 무장한 그들은 어떤 적의 방어도 뚫어 냈다.
+    </Item>
+  <Item id="great_hero_Bistior">
+        *비스티오르* – 노련하고 강인한 군사 지도자.
+        그와 그의 추종자들은 강력한 도끼를 능숙하게 다뤘다.
+        비스티오르의 군대는 적의 마음에 공포를 심었다.
+    </Item>
+  <Item id="great_hero_Ruylor">
+        *루일로르* – 짧은 검의 대가.
+        그의 정찰병들은 적의 본거지 깊숙이 침투하여
+        그림자 속에서 적들을 공격할 수 있었다.
+    </Item>
+  <Item id="great_hero_Kerlor">
+        *케를로르* — 원거리 전투의 대가.
+        그는 숙련된 궁수들이 어떤 전투의 흐름도 바꿀 수 있음을 증명했다.
+        연대기에는 상당 부분 케를로르와 그의 전사들 덕분에 거둔
+        수많은 영광스러운 승리가 기록되어 있다.
+    </Item>
+  <Item id="Ach_ScrollsExplorer">
+        전설의 대가
+    </Item>
+  <Item id="Ach_ScrollsExplorer_goal">
+        모든 고대의 전설 읽기
+    </Item>
+  <Item id="Ach_ScrollsExplorer_completed">
+        모든 고대의 전설을 읽었습니다.
+    </Item>
+  <Item id="Ach_MasterShadow">
+        그림자의 대가
+    </Item>
+  <Item id="Ach_MasterShadow_goal">
+        랜턴을 하나만 사용하여 던전의 한 층을 완료하기
+    </Item>
+  <Item id="Ach_MasterShadow_completed">
+        랜턴을 하나만 사용하여 던전의 한 층을 완료했습니다.
+    </Item>
+  <Item id="message_dead_from_darkness">
+        어둠이 당신을 삼켰고, 이제 당신의 안식 없는 영혼은 다르그로스의 미궁을 떠돌게 될 것입니다.
+    </Item>
+  <Item id="message_dead_from_darkness_short">
+        어둠에 삼켜짐
+    </Item>
+  <Item id="bone_axe">
+        뼈 도끼
+    </Item>
+  <Item id="bone_axe_desc">
+        서로 붙어 버린 뼈들이 일종의 도끼 모양을 이루고 있다. 다른 무기가 없다면 이걸로 싸울 수 있다.
+    </Item>
+  <Item id="bone_sharpen">
+        날카로운 뼈
+    </Item>
+  <Item id="bone_sharpen_desc">
+        무기로 쓸 수 있을 만큼 잘 갈린, 정체 모를 피조물의 뼈.
+    </Item>
+  <Item id="powerful_bone">
+        낡고 무거운 뼈
+    </Item>
+  <Item id="powerful_bone_desc">
+        정체 모를 괴물의 무거운 뼈.
+    </Item>
+  <Item id="skull_on_bone">
+        뼈 해머
+    </Item>
+  <Item id="skull_on_bone_desc">
+        뼈 끝에 음산한 해골이 고정되어 있다. 끔찍해 보이지만, 다른 무기가 없다면 이걸로 싸울 수 있다.
+    </Item>
+  <Item id="powerfull_recovery">
+        강력한 회복
+    </Item>
+  <Item id="debuff_string_250">
+        쇠약
+    </Item>
+  <Item id="string_251">
+        장전 해제
+    </Item>
+  <Item id="ach_treasury">
+        전설적인 갑옷
+    </Item>
+  <Item id="ach_treasury_completed">
+        전설적인 갑옷의 보관실에 들어섰습니다.
+    </Item>
+  <Item id="handtool_pickaxe">
+        곡괭이
+    </Item>
+  <Item id="handtool_pickaxe_desc">
+        돌과 흙, 혹은 던전의 괴물들을 상대로 쓰는 강력한 양손 곡괭이.
+    </Item>
+  <Item id="handtool_pickaxe_oldest">
+        녹슨 곡괭이
+    </Item>
+  <Item id="handtool_pickaxe_oldest_desc">
+        돌과 흙, 혹은 던전의 괴물들을 상대로 쓰는 녹슨 양손 곡괭이.
+    </Item>
+  <Item id="handtool_shovel">
+        삽
+    </Item>
+  <Item id="handtool_shovel_desc">
+        땅을 파거나 괴물을 후려치기에 알맞은 낡은 삽.
+    </Item>
+  <Item id="handtool_shovel_oldest">
+        녹슨 삽
+    </Item>
+  <Item id="handtool_shovel_oldest_desc">
+        녹슨 날이지만 아직 땅을 파거나 괴물을 후려치는 데 쓸 수 있다.
+    </Item>
+  <Item id="spider_corpse_bestiary">
+        끈질기고 빠른 이 괴물들은 무리를 지어 공격할 때 특히 위험하다.
+        다르그로스는 오랫동안 이 역겨운 괴물들의 끈적한 거미줄에 뒤덮여 있었다.
+    </Item>
+  <Item id="spider_rot_bestiary">
+        치명적인 상처를 입히고 희생자를 부패로 감염시키는 독성 피조물.
+        다르그로스는 오랫동안 이 역겨운 괴물들의 끈적한 거미줄에 뒤덮여 있었다.
+    </Item>
+  <Item id="spider_cave_bestiary">
+        희생자의 눈을 멀게 하고 깊은 상처를 입히는 강한 일격을 가하는 위험한 괴물.
+        다르그로스는 오랫동안 이 역겨운 괴물들의 끈적한 거미줄에 뒤덮여 있었다.
+    </Item>
+  <Item id="spider_blood_bestiary">
+        희생자에게 깊은 상처를 입혀 피를 흘리게 하는 치명적인 피조물.
+        다르그로스는 오랫동안 이 역겨운 괴물들의 끈적한 거미줄에 뒤덮여 있었다.
+    </Item>
+  <Item id="ui_inspect">
+        조사
+    </Item>
+  <Item id="broken_sword_desc">
+        양손 검의 이 오래된 파편은 아직 전투에서 쓸 수 있다.
+    </Item>
+  <Item id="poison_gas_trap">
+        독 함정
+    </Item>
+  <Item id="own_bear_trap">
+        내가 설치한 함정
+    </Item>
+  <Item id="poisoned_inside_hint">
+        무기에 독을 바르는 데 사용할 수 있다.
+    </Item>
+  <Item id="speech_creature_in_trap">
+        괴물이 걸려들었다!
+    </Item>
+  <Item id="long_sword">
+        장검
+    </Item>
+  <Item id="long_sword_desc">
+        균형이 잘 잡힌 훌륭한 품질의 양손 검. 던전의 피조물들과 싸우기에 잘 어울린다.
+    </Item>
+  <Item id="long_sword_old">
+        낡은 장검
+    </Item>
+  <Item id="long_sword_old_desc">
+        상태가 좋은 균형 잡힌 양손 검. 지하의 괴물들과 싸우기에 알맞다.
+    </Item>
+  <Item id="long_sword_oldest">
+        녹슨 장검
+    </Item>
+  <Item id="rusty_twohand_hammer">
+        녹슨 양손 해머
+    </Item>
+  <Item id="old_twohand_axe">
+        낡은 양손 도끼
+    </Item>
+  <Item id="old_twohand_hammer">
+        낡은 양손 해머
+    </Item>
+  <Item id="Draghian_dagger">
+        드라기안 단검
+    </Item>
+  <Item id="Draghian_dagger_desc">
+        가장 오래된 대장장이 유파 중 하나에서 만든 훌륭한 골동품 단검.
+    </Item>
+  <Item id="Old_Draghian_dagger">
+        낡은 드라기안 단검
+    </Item>
+  <Item id="Old_Draghian_dagger_desc">
+        가장 오래된 대장장이 유파 중 한 곳에서 만든 낡고 닳은 단검.
+    </Item>
+  <Item id="Rusty_Draghian_dagger">
+        녹슨 드라기안 단검
+    </Item>
+  <Item id="eastern_dagger">
+        동방의 단검
+    </Item>
+  <Item id="eastern_dagger_desc">
+        산봉우리와 끝없는 동쪽 대초원 너머의 땅에 대해서는 알려진 바가 거의 없다. 이 이국적인 전투용 칼은 그곳에서 왔다.
+    </Item>
+  <Item id="ghost_dagger_desc">
+        이 훌륭한 스틸레토는 적의 심장을 손쉽게 꿰뚫는다. 그래서 어둠의 궁정의 위험한 암살자들이 즐겨 쓴다.
+    </Item>
+  <Item id="rusty_knife_desc">
+        낡고 녹슨 칼이지만 아직 어떤 목이든 그을 수 있다.
+    </Item>
+  <Item id="hammer_northern_rocks">
+        북부 산맥의 해머
+    </Item>
+  <Item id="hammer_northern_rocks_desc">
+        수 세기 전 북부 산맥에서 벼려진 고대의 육중한 해머. 어떤 적이든 쓰러뜨릴 수 있는 라인족의 강력한 무기다.
+    </Item>
+  <Item id="hammer_northern_rocks_old_desc">
+        오래되었지만 여전히 적을 박살 낼 수 있는 고대의 강력한 해머.
+    </Item>
+  <Item id="forest_scout_dagger">
+        정찰병의 칼
+    </Item>
+  <Item id="forest_scout_dagger_desc">
+        숲에서 살아남고 근접전에서 적과 싸우는 데 큰 도움을 주는 훌륭한 칼날.
+    </Item>
+  <Item id="sith_dagger_bronze">
+        고대의 청동 단검
+    </Item>
+  <Item id="sith_dagger_steel">
+        고대의 강철 단검
+    </Item>
+  <Item id="sith_dagger_desc">
+        고대 쉬족 전사들의 훌륭한 무기.
+    </Item>
+  <Item id="sith_old_dagger">
+        닳아빠진 고대의 단검
+    </Item>
+  <Item id="sith_old_dagger_desc">
+        흠집투성이인 이 고대의 칼날은 수많은 전투를 겪었다. 오래되었음에도 여전히 정확하게 찌를 수 있다.
+    </Item>
+  <Item id="sith_rusty_dagger">
+        녹슨 고대의 단검
+    </Item>
+  <Item id="sith_rusty_dagger_desc">
+        이 녹슬고 무뎌진 칼날이 한때 훌륭한 단검이었다고는 알아보기 어렵다. 옛날에는 어떤 적의 심장이든 손쉽게 닿았다.
+    </Item>
+  <Item id="big_training_shield">
+        대형 나무 방패
+    </Item>
+  <Item id="medium_training_shield">
+        중형 나무 방패
+    </Item>
+  <Item id="small_training_shield">
+        소형 나무 방패
+    </Item>
+  <Item id="training_shield_desc">
+        이 고대의 방패는 훈련용 대련에 쓰였던 것 같다. 그 오랜 세월이 지났는데도 아직 부서지지 않았다니 놀랍다.
+    </Item>
+  <Item id="steel_sword">
+        강철 검
+    </Item>
+  <Item id="steel_sword_desc">
+        균형이 잘 잡힌 훌륭한 품질의 검. 지하의 피조물들을 상대하기에 알맞은 무기다.
+    </Item>
+  <Item id="steel_sword_old">
+        낡은 강철 검
+    </Item>
+  <Item id="steel_sword_old_desc">
+        상태가 좋은 균형 잡힌 검. 던전의 괴물들을 상대하기에 알맞은 무기다.
+    </Item>
+  <Item id="holy_sword">
+        성별된 검
+    </Item>
+  <Item id="holy_sword_desc">
+        진홍의 검 기사단의 강철에는 신성 교회의 기도 문양이 보이고, 날은 여전히 성기사의 무기다운 예리함을 간직하고 있다.
+    </Item>
+  <Item id="holy_sword_old">
+        낡은 성별된 검
+    </Item>
+  <Item id="holy_sword_old_desc">
+        진홍의 검 기사단 기사들의 무기. 이 낡은 검도 아직 누군가의 목을 손쉽게 벨 수 있다.
+    </Item>
+  <Item id="holy_sword_oldest">
+        녹슨 성별된 검
+    </Item>
+  <Item id="holy_sword_oldest_desc">
+        낡은 검은 오랜 세월 묵은 때와 녹으로 뒤덮여 있다. 그 주인 — 진홍의 검 기사단의 전사 — 은 아주 오래전 이곳에서 사라진 듯하다.
+    </Item>
+  <Item id="steel_axe">
+        강철 도끼
+    </Item>
+  <Item id="steel_axe_desc">
+        훌륭한 품질의 강력한 도끼. 장작도, 적의 머리도 완벽하게 쪼갤 수 있다.
+    </Item>
+  <Item id="old_steel_axe_desc">
+        세월에 시달린 강력한 도끼. 능숙한 손에 쥐어지면 여전히 무시무시한 무기다.
+    </Item>
+  <Item id="Draghian_axe">
+        드라기안 도끼
+    </Item>
+  <Item id="Draghian_axe_desc">
+        가장 오래된 대장장이 유파 중 하나에서 만든 훌륭하고 균형 잡힌 도끼.
+    </Item>
+  <Item id="Old_Draghian_axe">
+        낡은 드라기안 도끼
+    </Item>
+  <Item id="Old_Draghian_axe_desc">
+        가장 오래된 대장장이 유파 중 한 곳에서 만든 낡고 닳은 도끼.
+    </Item>
+  <Item id="Rusty_Draghian_axe">
+        녹슨 드라기안 도끼
+    </Item>
+  <Item id="onehand_weapon">
+        한손 무기
+    </Item>
+  <Item id="twohand_weapon">
+        양손 무기
+    </Item>
+  <Item id="training_sword">
+        목검
+    </Item>
+  <Item id="training_dagger">
+        나무 단검
+    </Item>
+  <Item id="training_sword_desc">
+        이 검은 연습 대련에 쓰였던 것 같다. 실전에서 쓸 수 있을 것 같지는 않다.
+    </Item>
+  <Item id="training_dagger_desc">
+        이 단검은 훈련용이었거나, 어쩌면 장난감이었던 것 같다. 큰 해를 입히기는 어려울 것이다.
+    </Item>
+  <Item id="string_252">
+        이 무기는 연마할 수 없다.
+    </Item>
+  <Item id="poisoned_bolt">
+        독 볼트
+    </Item>
+  <Item id="speech_opened_lock_after_attempts">
+        드디어! 안에 가치 있는 게 들어 있으면 좋으련만.
+    </Item>
+  <Item id="Terlixor_gates_description">
+        거대한 문이 굳게 닫혀 있다. 중앙에는 문을 열 수 있을지도 모르는 물건을 끼우는 작은 홈이 있다.
+    </Item>
+  <Item id="weapon_poisoning">
+        무기 독 바르기
+    </Item>
+  <Item id="poisons">
+        독
+    </Item>
+  <Item id="crossbow_bolts">
+        석궁 볼트
+    </Item>
+  <Item id="creature_crael">
+        크라엘
+    </Item>
+  <Item id="creature_crael_desc">
+        말라붙은 피로 얼룩진 더러운 누더기를 걸친, 눈빛이 광기에 찬 괴물. 한때는 지성을 지닌 종족이었던 것 같다.
+    </Item>
+  <Item id="creature_crael_story">
+        타락은 크라엘을 흉측한 괴물로 뒤틀어 놓았다. 사악하고 피에 굶주린 이 피조물들은 다르그로스의 깊은 층에서, 예전 삶에서 그들을 끌어당겼던 오래된 장치와 도구들 가까이에 산다.
+    </Item>
+  <Item id="speech_string_248">
+        무기가 산산조각 났다!
+    </Item>
+  <Item id="skill_traps_disarming">
+        함정 해제
+    </Item>
+  <Item id="knowledge_book">
+        기술의 서
+    </Item>
+  <Item id="knowledge_book_desc">
+        이 책에는 새로운 기술이나 능력을 더해 주는 지식이 담겨 있다.
+    </Item>
+  <Item id="gas_trap_book">
+        독성 장치
+    </Item>
+  <Item id="gas_trap_book_desc">
+        이 책에는 독 함정을 만드는 도면과 설명이 담겨 있다.
+    </Item>
+  <Item id="gas_trap_book_result">
+        압력판, 독 밸브, 그 밖의 부품들을 연구했습니다.
+        이제 이 위험한 함정들이 어떻게 작동하는지 이해했고, 해제할 수 있습니다.
+    </Item>
+  <Item id="can_be_studying_on_rest">
+        휴식 중에 공부할 수 있습니다.
+    </Item>
+  <Item id="new_knowledge">
+        새로운 지식
+    </Item>
+  <Item id="crowbars_in_inventory">
+        소지품 안의 쇠지렛대
+    </Item>
+  <Item id="string_253">
+        이 자물쇠는 락픽이나 쇠지렛대로 열 수 있다.
+    </Item>
+  <Item id="lock">
+        자물쇠
+    </Item>
+  <Item id="weapon_poisoner_book">
+        맹독 무기 숙련
+    </Item>
+  <Item id="weapon_poisoner_book_desc">
+        이 책은 여러 가지 독과 그것을 무기에 바르는 기법을 설명한다.
+    </Item>
+  <Item id="weapon_poisoner_book_result">
+        독의 특성과 무기, 화살, 볼트에 독을 효과적으로 바르는 기술을 배웠습니다.
+        이제 무기, 화살, 볼트에 독을 더 잘 바를 수 있습니다.
+    </Item>
+  <Item id="weapon_sharpener_book">
+        숙련된 무기 연마
+    </Item>
+  <Item id="weapon_sharpener_book_desc">
+        이 책에는 여러 종류의 무기를 효과적으로 연마하는 방법이 설명되어 있다.
+    </Item>
+  <Item id="weapon_sharpener_book_result">
+        칼날과 도끼를 가는 세밀한 요령과 숫돌의 특성을 연구했습니다.
+        이제 무기를 더 효과적으로 연마해 더 큰 피해를 입힐 수 있습니다.
+    </Item>
+  <Item id="hero_speech_success_exclamation">
+        완벽해!
+    </Item>
+  <Item id="completed_dungeon_tier">
+        던전의 {0}층을 완료했습니다.
+    </Item>
+  <Item id="hero_speech_string_253">
+        여전히 작동하지 않는다.
+    </Item>
+  <Item id="dream_catcher">
+        드림캐쳐
+    </Item>
+  <Item id="dream_catcher_desc">
+        특별한 마력을 지닌 고대의 부적.
+    </Item>
+  <Item id="dream_catcher_effect">
+        죽음이 차가운 손으로 당신을 어루만지는 듯하더니, 고대의 돌에서 강력한 에너지가 당신의 몸속으로 쏟아져 들어온다.
+        당신은 의식을 잃는다. 그다음에 무슨 일이 일어났는지는 알 수 없다.
+    </Item>
+  <Item id="artifact_sphere_lift">
+        에너지의 구체
+    </Item>
+  <Item id="artifact_sphere_lift_desc">
+        용도를 알 수 없는 금속 구체. 어떤 장치를 작동시키는 것 같다.
+    </Item>
+  <Item id="hidden_traps_book">
+        숨겨진 함정
+    </Item>
+  <Item id="hidden_traps_book_desc">
+        이 책은 다양한 숨겨진 장치와 그 작동 원리를 설명한다.
+    </Item>
+  <Item id="hidden_traps_book_result">
+        숨겨진 함정과 장치의 구조, 그리고 이를 무력화하는 방법에 대해 연구했습니다.
+        이제 숨겨진 함정을 발견하고 해제할 수 있습니다.
+    </Item>
+  <Item id="ui_settings_highlight_damage">
+        괴물이 피해를 입으면 강조 표시
+    </Item>
+  <Item id="health_loss_low">
+        경미한 체력 손실
+    </Item>
+  <Item id="health_loss_medium">
+        체력 손실
+    </Item>
+  <Item id="health_loss_high">
+        심각한 체력 손실
+    </Item>
+  <Item id="health_loss_extraHigh">
+        치명적인 체력 손실
+    </Item>
+  <Item id="ghost_lantern">
+        유령 랜턴
+    </Item>
+  <Item id="underground_scouts_lantern">
+        지하 정찰병의 랜턴
+    </Item>
+  <Item id="ritual_lantern">
+        의식용 랜턴
+    </Item>
+  <Item id="buff_crossbow_1">
+        강력한 활대
+    </Item>
+  <Item id="buff_crossbow_2">
+        튼튼한 시위
+    </Item>
+  <Item id="do_action_push">
+        * 밀기 *
+    </Item>
+  <Item id="string_254">
+        발견한 유물:
+    </Item>
+  <Item id="string_255">
+        랜턴 손상됨
+    </Item>
+  <Item id="perk_shadow_child">
+        그림자의 아이
+    </Item>
+  <Item id="ach_SharpPeaks">
+        날카로운 가시
+    </Item>
+  <Item id="ach_SharpPeaks_completed">
+        날카로운 가시에 꿰뚫렸습니다.
+    </Item>
+  <Item id="bolt_Stupefaction">
+        비틀거림의 볼트
+    </Item>
+  <Item id="bolt_Stupefaction_desc">
+        금속 촉에 무언가가 더해진 석궁 볼트. 충격이 어찌나 큰지 맞은 자를 쓰러뜨릴 수 있다.
+    </Item>
+  <Item id="ancient_text">
+        고대 문서
+    </Item>
+  <Item id="hero_speech_string_254">
+        이 무기는 연마할 필요가 없다.
+    </Item>
+  <Item id="prev_page">
+        이전
+    </Item>
+  <Item id="next_page">
+        다음
+    </Item>
+  <Item id="hero_speech_drunken_1">
+        딸꾹!
+    </Item>
+  <Item id="cort_statue_with_scroll">
+        대도서관은 시대의 지식을 구하러 평화롭게 찾아오는 모든 이를 환영한다.
+    </Item>
+  <Item id="achievement_CautiousHero">
+        신중한 영웅
+    </Item>
+  <Item id="achievement_CautiousHero_goal">
+        드림캐쳐를 사용하지 않고 던전의 한 층을 완료하기
+    </Item>
+  <Item id="achievement_CautiousHero_completed">
+        드림캐쳐를 사용하지 않고 던전의 한 층을 완료했습니다.
+    </Item>
+  <Item id="ancient_cort_statue">
+        이 고대의 조각상은 다른 것들과 다르다. 아무래도 이 피조물의 손에 어떤 물건이 들려 있었던 것 같다.
+    </Item>
+  <Item id="bronze_book_artifact">
+        청동 책
+    </Item>
+  <Item id="bronze_scroll_artifact">
+        청동 두루마리
+    </Item>
+  <Item id="bottle_buff_speed">
+        신속의 비약
+    </Item>
+  <Item id="bottle_buff_speed_desc">
+        비약이 놀라운 에너지로 몸을 채운다. 달리고 뛰는 것이 한결 쉬워진다.
+    </Item>
+  <Item id="crossbow_loaded">
+        장전됨
+    </Item>
+  <Item id="hero_speech_cannot_sleep_nightmares">
+        악몽이 아직 머릿속에 남아 있어서, 이제는 잠을 잘 수가 없다.
+    </Item>
+  <Item id="hero_speech_need_picklock_crowbar">
+        잠겼다! 락픽이나 쇠지렛대가 필요하다.
+    </Item>
+  <Item id="crossbow_unloaded">
+        장전 해제됨
+    </Item>
+  <Item id="hero_speech_when_healed">
+        다시 건강해졌다!
+    </Item>
+  <Item id="hero_speech_on_rest_1">
+        그 구멍에서 하마터면 죽을 뻔했어!
+    </Item>
+  <Item id="hero_speech_on_rest_2">
+        상처를 치료하기 좋은 장소로군.
+    </Item>
+  <Item id="hero_speech_on_rest_3">
+        쉬어가기 딱 좋은 곳이야!
+    </Item>
+  <Item id="hero_speech_killed_creature_exclamation">
+        빌어먹을 괴물!
+    </Item>
+  <Item id="ancient_note_usual">
+        고대의 쪽지
+    </Item>
+  <Item id="ancient_note_bloody">
+        피 묻은 고대의 쪽지
+    </Item>
+  <Item id="water_effect_short_desc">
+        피로 감소
+    </Item>
+  <Item id="shadowGuard_axe">
+        그림자 낫
+    </Item>
+  <Item id="shadowGuard_axe_desc">
+        그림자 수호자들의 독특한 무기. 굽은 날과 긴 자루가 이 도끼에 보기 드문 균형을 주어, 타격의 방향을 재빨리 바꿀 수 있다.
+    </Item>
+  <Item id="shadowGuard_axe_old">
+        낡은 그림자 낫
+    </Item>
+  <Item id="shadowGuard_axe_old_desc">
+        그림자 수호자가 쓰던 닳은 도끼. 자루는 오랫동안 쥔 손에 반들반들해졌고, 날에는 아직 수많은 타격의 흔적이 남아 있다.
+    </Item>
+  <Item id="shadowGuard_axe_oldest">
+        녹슨 그림자 낫
+    </Item>
+  <Item id="shadowGuard_axe_oldest_desc">
+        녹슬고 낡은 도끼. 아마도 오래전 이곳에서 실종된 그림자 수호자의 것이었으리라.
+    </Item>
+  <Item id="shadowGuard_axe_heavy">
+        무거운 그림자 낫
+    </Item>
+  <Item id="weapon_powerful_morroch_cleaver">
+        강력한 모르로크의 식칼
+    </Item>
+  <Item id="two_hand_steel_hammer">
+        강철 해머
+    </Item>
+  <Item id="two_hand_steel_hammer_desc">
+        훌륭한 품질의 강력한 양손 해머.
+    </Item>
+  <Item id="old_steel_hammer_desc">
+        이 낡은 강철 해머는 여전히 어떤 적에게든 무시무시한 무기다.
+    </Item>
+  <Item id="sith_ancient_axe">
+        고대의 도끼
+    </Item>
+  <Item id="sith_ancient_axe_desc">
+        이 강력한 도끼는 전투에 굶주린 듯하며 어떤 적이든 베어 넘길 수 있을 것 같다.
+    </Item>
+  <Item id="sith_ancient_axe_old">
+        닳은 고대의 도끼
+    </Item>
+  <Item id="sith_ancient_axe_old_desc">
+        닳았지만 여전히 베고 찢을 수 있는 이 고대의 도끼는 마지막 항전을 기다리고 있다.
+    </Item>
+  <Item id="sith_ancient_axe_oldest">
+        녹슨 고대의 도끼
+    </Item>
+  <Item id="sith_ancient_axe_oldest_desc">
+        녹슨 칼날과 삭아버린 가죽 손잡이를 가진 이 고대의 도끼는 머나먼 과거에 자신의 분노를 남겨두고 온 듯하다.
+    </Item>
+  <Item id="Armor_Light_BlackRobe">
+        어둠의 궁정 갑옷
+    </Item>
+  <Item id="Armor_Light_BlackRobe_desc">
+        은신에 적합한 훌륭한 경갑으로, 착용자가 쉽게 그림자 속에 녹아들어 눈에 띄지 않게 해준다.
+    </Item>
+  <Item id="Armor_Light_BlackRobe_old">
+        낡은 어둠의 궁정 갑옷
+    </Item>
+  <Item id="Armor_Light_BlackRobe_old_desc">
+        그림자 속에서 공격하길 즐기는 자들에게 좋은 갑옷. 가죽과 촘촘한 천이 움직임을 방해하지 않으면서도 몸을 보호해 준다.
+    </Item>
+  <Item id="Armor_Light_BlackRobe_oldest">
+        삭아버린 어둠의 궁정 갑옷
+    </Item>
+  <Item id="Armor_Light_BlackRobe_oldest_desc">
+        이 갑옷은 방어력을 거의 잃었다. 주인은 오래전에 죽었고, 갑옷만이 던전 깊은 곳에 잊힌 채 남았다.
+    </Item>
+  <Item id="Armor_Heavy_Steadfast">
+        불굴단의 갑옷
+    </Item>
+  <Item id="Armor_Heavy_Steadfast_desc">
+        불굴단의 중갑. 두꺼운 판금과 밀폐형 투구, 가슴의 제국 휘장 때문에 거추장스럽지만 거의 뚫리지 않는다.
+    </Item>
+  <Item id="Armor_Heavy_Steadfast_old">
+        낡은 불굴단의 갑옷
+    </Item>
+  <Item id="Armor_Heavy_Steadfast_old_desc">
+        오랜 세월이 지났어도 이 닳은 판금 갑옷은 여전히 든든한 방어력을 제공한다. 흉갑에는 제국의 상징이 새겨져 있다.
+    </Item>
+  <Item id="Armor_Heavy_Steadfast_oldest">
+        녹슨 불굴단의 갑옷
+    </Item>
+  <Item id="Armor_Heavy_Steadfast_oldest_desc">
+        이 끔찍하게 낡은 갑옷은 오래된 핏자국으로 덮여 있고, 금속판은 녹으로 심하게 부식되었다. 옛 위력은 거의 남아 있지 않다.
+    </Item>
+  <Item id="justice_sword">
+        정의의 검
+    </Item>
+  <Item id="justice_sword_desc">
+        불굴단의 무기. 끝을 보강한 강력한 칼날은 두꺼운 갑옷을 꿰뚫도록 만들어졌으며, 강하고 흔들림 없는 손을 요구한다.
+    </Item>
+  <Item id="justice_sword_old">
+        낡은 정의의 검
+    </Item>
+  <Item id="justice_sword_old_desc">
+        이 닳은 검은 여전히 위험한 무기로, 주인이 황제의 이름으로 질서와 정의를 지키던 지난 시대를 떠올리게 한다.
+    </Item>
+  <Item id="justice_sword_oldest">
+        녹슨 정의의 검
+    </Item>
+  <Item id="justice_sword_oldest_desc">
+        이 검은 본래의 날카로움과 강도를 잃은 지 오래다. 녹이 홈을 갉아먹었지만, 육중한 칼날에는 아직 옛 힘의 흔적이 남아 있다.
+    </Item>
+  <Item id="rusty_twohand_sword_desc">
+        한때 빛나고 날카로웠던 칼날은 이제 녹 아래에서 무뎌졌다. 닳은 자루는 이 검이 주인의 손에서 살아남은 수많은 전투를 증언한다.
+    </Item>
+  <Item id="rusty_twohand_sword_2_desc">
+        이 낡고 녹슨 검의 출처는 알기 어렵다. 하지만 이 저주받은 곳의 어떤 피조물이든 아직 배를 갈라 버릴 수 있다.
+    </Item>
+  <Item id="axe_ShadowCleaver">
+        그림자 절단기
+    </Item>
+  <Item id="axe_ShadowCleaver_desc">
+        남부 숲 전사들의 가벼운 도끼. 좁은 날과 편한 자루는 은밀함과 민첩함이 중요할 때의 빠른 공격을 위해 만들어졌다.
+    </Item>
+  <Item id="axe_ShadowCleaver_old">
+        낡은 그림자 절단기
+    </Item>
+  <Item id="axe_ShadowCleaver_old_desc">
+        낡은 모습에도 이 오래된 도끼는 여전히 위험하다 — 남부 숲 전사들의 용기와 끈기에 대한 말 없는 증거다.
+    </Item>
+  <Item id="axe_ShadowCleaver_oldest">
+        녹슨 그림자 절단기
+    </Item>
+  <Item id="axe_ShadowCleaver_oldest_desc">
+        이 낡고 녹슨 도끼는 어두운 던전에서 셀 수 없는 세월을 보냈다. 이렇게 닳았어도, 생존자에게는 마지막 희망이 될 수 있다.
+    </Item>
+  <Item id="shield_emperor_guard">
+        충의의 수호자
+    </Item>
+  <Item id="shield_emperor_guard_desc">
+        불굴단의 거대한 방패로, 그 전사들의 충성과 결의를 상징한다. 튼튼한 금속으로 벼려져 든든한 보호를 제공한다.
+    </Item>
+  <Item id="shield_emperor_guard_old_desc">
+        방패 표면은 긁힌 자국과 마모로 뒤덮였다. 하지만 여전히 타격을 믿음직하게 막고 적의 길을 가로막을 수 있다.
+    </Item>
+  <Item id="shield_emperor_guard_oldest_desc">
+        수많은 전투로 닳은 방패는 곳곳이 녹슬었고, 나무 바탕도 낡아 보인다. 하지만 더 나은 방어구가 없는 이에게는 아직 쓸모가 있다.
+    </Item>
+  <Item id="old_heavy_shield">
+        낡은 대형 방패
+    </Item>
+  <Item id="Armor_Medium_Militia">
+        숲 사슬 갑옷
+    </Item>
+  <Item id="Armor_Light_Militia_old">
+        낡은 숲 갑옷
+    </Item>
+  <Item id="Armor_Light_Militia_oldest">
+        삭아버린 숲 갑옷
+    </Item>
+  <Item id="leather_armor">
+        가죽 갑옷
+    </Item>
+  <Item id="reinforced_leather_armor">
+        강화 가죽 갑옷
+    </Item>
+  <Item id="leather_armor_desc">
+        질 좋은 가죽과 튼튼한 천으로 만든 훌륭한 갑옷으로, 유연하고 움직임이 자유롭다. 속도와 민첩함을 중시하는 이에게 이상적이며, 후드는 착용자가 그림자 속으로 사라지게 도와준다.
+    </Item>
+  <Item id="leather_armor_old">
+        낡은 가죽 갑옷
+    </Item>
+  <Item id="leather_armor_old_desc">
+        먼지와 흠집으로 덮인 갑옷. 닳았지만, 기동성을 해치지 않으면서 여전히 좋은 방어력을 제공한다.
+    </Item>
+  <Item id="leather_armor_oldest">
+        삭아버린 가죽 갑옷
+    </Item>
+  <Item id="leather_armor_oldest_desc">
+        세월과 숱한 전투에 닳은 갑옷. 망가진 상태지만, 절박한 싸움에서는 아직 어느 정도 보호가 된다.
+    </Item>
+  <Item id="mail_armor">
+        사슬 갑옷
+    </Item>
+  <Item id="reinforced_mail_armor">
+        강화 사슬 갑옷
+    </Item>
+  <Item id="mail_armor_desc">
+        유연하며 타격과 베기로부터 몸을 지켜 주는 훌륭한 갑옷. 방어력과 기동성의 균형이 필요한 전사에게 알맞다.
+    </Item>
+  <Item id="mail_armor_old">
+        낡은 사슬 갑옷
+    </Item>
+  <Item id="mail_armor_old_desc">
+        닳았지만 여전히 믿음직한 이 사슬 갑옷은 지난 전투들을 겪고도 방어력을 다 잃지는 않았다.
+    </Item>
+  <Item id="mail_armor_oldest">
+        녹슨 사슬 갑옷
+    </Item>
+  <Item id="mail_armor_oldest_desc">
+        수많은 전투를 겪은 후 오랫동안 제대로 관리되지 않고 방치된 이 갑옷은 방어력을 상당 부분 상실했다.
+    </Item>
+  <Item id="plate_armor">
+        판금 갑옷
+    </Item>
+  <Item id="plate_armor_desc">
+        이 갑옷은 기동성을 대가로 타격, 베기, 화살로부터 확실하게 몸을 지켜 준다. 중보병과 최전선을 지키는 이들에게 이상적이다.
+    </Item>
+  <Item id="plate_armor_old">
+        낡은 판금 갑옷
+    </Item>
+  <Item id="plate_armor_old_desc">
+        이 갑옷에는 세월의 흔적이 남아 있다. 금속판에는 자잘한 긁힘과 찌그러짐이 있지만, 여전히 든든한 방어력을 제공한다.
+    </Item>
+  <Item id="plate_armor_oldest">
+        녹슨 판금 갑옷
+    </Item>
+  <Item id="plate_armor_oldest_desc">
+        이 갑옷은 세월과 전투에 크게 시달렸다. 녹이 금속판을 뒤덮어 방어력이 떨어졌다. 투구와 사슬 셔츠도 닳아서 보호력과 착용감이 떨어진다.
+    </Item>
+  <Item id="Armor_Heavy_FourTowers">
+        중무장 의복
+    </Item>
+  <Item id="Armor_Heavy_FourTowers_desc">
+        네 개의 탑 수련자들의 중갑: 강철판으로 보강한 사슬 셔츠. 충분한 활동성을 유지하면서도 강력한 방어력을 제공한다.
+    </Item>
+  <Item id="Armor_Heavy_FourTowers_old">
+        낡은 중무장 의복
+    </Item>
+  <Item id="Armor_Heavy_FourTowers_old_desc">
+        네 개의 탑 결사 수련자가 입던 꽤 닳은 중갑. 강철 부품은 긁혀 있고, 끈 안쪽에는 주인의 표식이 남아 있다.
+    </Item>
+  <Item id="Armor_Heavy_FourTowers_oldest">
+        삭아버린 중무장 의복
+    </Item>
+  <Item id="Armor_Heavy_FourTowers_oldest_desc">
+        세월은 이 갑옷에 친절하지 않았다. 금속은 곳곳이 녹슬었고, 먼지와 말라붙은 핏자국으로 덮여 있다.
+    </Item>
+  <Item id="Armor_Heavy_Militia_desc">
+        본격적인 전투를 위해 만든 남부 숲의 갑옷. 철제 견갑과 튼튼한 투구가 믿음직한 보호를 제공하며, 무겁긴 해도 싸움이 격해질수록 그 가치를 증명한다.
+    </Item>
+  <Item id="Armor_Medium_Militia_desc">
+        천 바탕 위에 사슬과 가죽을 결합한 남부 숲 전사들의 갑옷. 가죽 팔 보호대와 후드가 방어력과 기동성의 탄탄한 균형을 이룬다.
+    </Item>
+  <Item id="Armor_Light_Militia_desc">
+        튼튼하고 차분한 녹색 천으로 만든 이 갑옷은 전사가 숲에 녹아들 수 있게 해 준다. 속도와 기동성을 중시하는 이에게 어울린다.
+    </Item>
+  <Item id="books">
+        책
+    </Item>
+  <Item id="eastern_lands_light_armor_desc">
+        가죽과 질긴 천으로 만든 동방의 훌륭한 갑옷. 속도나 움직임의 자유를 희생하지 않으면서도 유연하고 편안한 보호를 제공한다.
+    </Item>
+  <Item id="eastern_lands_light_armor_old_desc">
+        오래되었지만 여전히 튼튼한 동방의 경갑. 옛 아름다움은 다소 바랬지만, 여전히 믿음직한 보호와 기동성을 제공한다.
+    </Item>
+  <Item id="eastern_lands_light_armor_oldest_desc">
+        이 낡은 장비는 한때 장엄했던 동방의 갑옷과 거의 닮지 않았다. 반쯤 썩고 얼룩진 가죽은 빈약한 보호만을 제공할 뿐이다.
+    </Item>
+  <Item id="eastern_lands_chainmail_armor_desc">
+        이 훌륭한 동방의 갑옷은 사슬의 견고함에 가죽 보호를 더해, 방어력과 기동성의 뛰어난 균형을 이룬다.
+    </Item>
+  <Item id="eastern_lands_chainmail_armor_old_desc">
+        닳은 이 동방의 갑옷에는 세월과 오래된 타격의 상처가 남아 있지만, 아직 착용자를 지킬 수 있다.
+    </Item>
+  <Item id="eastern_lands_chainmail_armor_oldest_desc">
+        이 낡아 빠진 동방의 갑옷은 오래전에 옛 아름다움과 강도를 잃었다. 녹슨 사슬은 약한 보호만을 제공할 뿐이다.
+    </Item>
+  <Item id="Armor_Heavy_Militia_old">
+        낡은 숲 갑옷
+    </Item>
+  <Item id="Armor_Heavy_Militia_oldest">
+        녹슨 숲 갑옷
+    </Item>
+  <Item id="amulet_darkness_resistance">
+        굳건한 정신의 목걸이
+    </Item>
+  <Item id="amulet_darkness_resistance_desc">
+        다르그로스의 어두운 심연에 도사린 위험으로부터 착용자를 지키기 위해 고대의 장인들이 만든 신비한 목걸이.
+    </Item>
+  <Item id="talisman_health">
+        생명력의 부적
+    </Item>
+  <Item id="talisman_health_desc">
+        착용자의 몸과 정신을 강하게 하여 체력과 치명적인 위험에서 살아남는 능력을 높여 주는 고대의 유물.
+    </Item>
+  <Item id="talisman_night_vision">
+        암흑 시야의 부적
+    </Item>
+  <Item id="talisman_night_vision_desc">
+        고대의 마력과 장인의 솜씨가 어우러진 이 부적은 착용자에게 완전한 어둠 속에서도 볼 수 있는 능력을 준다.
+    </Item>
+  <Item id="talisman_noiseless">
+        고요한 발걸음의 부적
+    </Item>
+  <Item id="talisman_noiseless_desc">
+        고대의 재료로 만들어 정교하게 장식한 이 부적은 착용자의 움직임을 소리 없이 감추어, 괴물들의 주의를 끌지 않고 위험을 피하게 도와준다.
+    </Item>
+  <Item id="amulet_poison_resistance">
+        뱀의 심장 목걸이
+    </Item>
+  <Item id="amulet_poison_resistance_desc">
+        귀금속으로 만든 이 목걸이는 독과 독소에 대한 영웅의 저항력을 높여, 심한 중독에도 건강을 덜 해치며 견딜 수 있게 해 준다.
+    </Item>
+  <Item id="talisman_regeneration">
+        지치지 않는 자의 부적
+    </Item>
+  <Item id="talisman_regeneration_desc">
+        이 부적은 길고 위험한 여정에서 스태미나를 지키는 데 도움을 준다.
+    </Item>
+  <Item id="inventory_drop_all">
+        모두 버리기
+    </Item>
+  <Item id="low_damaged">
+        경미한 손상
+    </Item>
+  <Item id="high_damaged">
+        심각한 손상
+    </Item>
+  <Item id="ghost_lantern_desc">
+        유령을 비롯한 초자연적 현상을 감지한다.
+    </Item>
+  <Item id="scout_lantern_desc">
+        이 랜턴의 불빛은 괴물들의 눈에 잘 띄지 않는다.
+    </Item>
+  <Item id="hero_speech_powerful_armor">
+        갑옷을 뚫을 수가 없다!
+    </Item>
+  <Item id="ancient_light_armor_desc">
+        가볍고 놀랍도록 튼튼한 재질이라 움직임을 거의 제한하지 않는다. 유연한 판금은 평범한 가죽보다 타격을 더 잘 막아 낸다.
+    </Item>
+  <Item id="ancient_light_armor_old_desc">
+        오랜 사용의 흔적이 남은 닳은 고대의 갑옷. 가죽은 검게 변하고 이음새는 헐거워졌지만, 유연한 판금은 아직 착용자를 지킬 수 있다.
+    </Item>
+  <Item id="ancient_light_armor_oldest_desc">
+        끈은 삭고 문양은 바랜 낡아 빠진 고대의 갑옷. 간신히 형태를 유지하고 있지만, 아직 약간의 보호는 된다.
+    </Item>
+  <Item id="ancient_armor_old">
+        낡은 고대의 갑옷
+    </Item>
+  <Item id="ancient_armor_oldest">
+        녹슨 고대의 갑옷
+    </Item>
+  <Item id="ancient_armor_light_oldest">
+        삭아버린 고대의 갑옷
+    </Item>
+  <Item id="speech_trap_disarmed">
+        함정을 해제했다!
+    </Item>
+  <Item id="touch">
+        * 만지기 *
+    </Item>
+  <Item id="obelisk_desc">
+        기념비의 표면은 차갑고 죽은 듯하지만, 이 고대의 유물은 수 세기의 잠에서 깨어나 미지의 힘을 풀어놓을 수 있을 것만 같다.
+    </Item>
+  <Item id="Buff_Armor_Constitution">
+        두꺼운 안감
+    </Item>
+  <Item id="Buff_Armor_Defense">
+        강철 보강재
+    </Item>
+  <Item id="Buff_Armor_Defense_Light">
+        가죽 덧댐
+    </Item>
+  <Item id="Buff_Armor_Defense_Medium">
+        사슬 보강재
+    </Item>
+  <Item id="Buff_Armor_Dexterity">
+        부드러운 안감
+    </Item>
+  <Item id="Buff_Armor_Dodge">
+        유연한 가죽
+    </Item>
+  <Item id="Buff_Armor_Dodge_Heavy">
+        가동식 판금
+    </Item>
+  <Item id="Buff_Armor_Noiseless">
+        푹신한 밑창
+    </Item>
+  <Item id="flying_beast_creature">
+        날아다니는 괴물
+    </Item>
+  <Item id="notes">
+        기록
+    </Item>
+  <Item id="new_hero_note">
+        새로운 일지 기록
+    </Item>
+  <Item id="make_new_hero_note">
+        일지 작성하기
+    </Item>
+  <Item id="day">
+        일차
+    </Item>
+  <Item id="hero_speech_killed_creature_exclamation_1">
+        지옥에나 떨어져라!
+    </Item>
+  <Item id="legendary_dagger_plate_desc">
+        이 단검에는 루일로르의 어두운 명성이 깃들어 있다. 좁은 칼날은 어둠 속에서 거의 빛나지 않고, 손잡이는 마치 무기 스스로가 적의 약점을 찾는 듯 손바닥에 감겨 온다.
+    </Item>
+  <Item id="legendary_sword_plate_desc">
+        실소르의 전설적인 검은 고대 강철의 엄숙한 아름다움을 간직하고 있다. 칼날은 무겁게 느껴지지 않지만, 모든 움직임에 오랜 진형 전투를 위해 만들어진 무기의 힘이 실린다.
+    </Item>
+  <Item id="legendary_hammer_plate_desc">
+        타리오르의 해머는 깊은 용광로에서 벼려지고 별가루로 강화되었다. 그 머리에는 오래된 타격의 검은 상처가 새겨져 있고, 그 무게는 비켜서지 못한 모든 것에게 죽음을 약속한다.
+    </Item>
+  <Item id="legendary_axe_plate_desc">
+        비스티오르의 전설적인 도끼는 고대 대장간의 불길 속에서 벼려졌다. 넓은 날에는 아직도 무시무시한 날이 서 있어 갑옷과 방패, 뼈를 쪼갤 수 있다.
+    </Item>
+  <Item id="legendary_dagger">
+        그림자 관통자
+    </Item>
+  <Item id="legendary_dagger_2">
+        유령의 칼날
+    </Item>
+  <Item id="legendary_dagger_desc">
+        그림자 속에서의 일격을 위해 만든 루일로르의 고대 칼날. 그 끝은 갑옷 판 사이로 쉽게 미끄러져 들어가고, 검은 강철은 어둠 속에서 거의 모습을 드러내지 않는다.
+    </Item>
+  <Item id="legendary_dagger_2_desc">
+        가늘고 곧은 날을 지닌 루일로르의 소리 없는 단검. 손에 가볍고, 정확한 일격 하나가 싸움을 결정짓는 근접전에서 치명적이다.
+    </Item>
+  <Item id="legendary_sword">
+        결속의 검
+    </Item>
+  <Item id="legendary_sword_2">
+        충의의 검
+    </Item>
+  <Item id="legendary_sword_desc">
+        실소르의 검은 곧은 날과 엄격한 코등이를 지녔다. 그 차가운 강철에는 분노가 없다. 오직 마지막 일격까지 전열을 지키겠다는 굳은 의지만이 있을 뿐이다.
+    </Item>
+  <Item id="legendary_sword_2_desc">
+        이 검은 깊은 용광로에서 벼려지고 다르그로스의 냉기 속에서 담금질되었다. 긴 칼날은 균형이 잘 잡혀 있어, 휘두를 때마다 고대 전투 대형의 일부가 된 듯하다.
+    </Item>
+  <Item id="legendary_hammer">
+        분쇄자
+    </Item>
+  <Item id="legendary_hammer_2">
+        천둥의 파괴자
+    </Item>
+  <Item id="legendary_hammer_desc">
+        이 해머 안에서 고대 전투의 메아리가 울린다. 육중한 머리는 뼈와 돌과 쇠가 갈라지는 으스러뜨리는 일격을 위해 만들어졌다.
+    </Item>
+  <Item id="legendary_hammer_2_desc">
+        심연의 힘으로 가득 찬 해머. 긴 자루는 넓게 휘두를 수 있게 해 주고, 육중한 머리는 천둥처럼 적에게 내리꽂힌다.
+    </Item>
+  <Item id="legendary_axe">
+        피의 절단기
+    </Item>
+  <Item id="legendary_axe_2">
+        피의 수확자
+    </Item>
+  <Item id="legendary_axe_desc">
+        고대 용광로의 열기 속에서 단련되고 완벽하게 다듬어진 비스티오르의 도끼. 육중한 날의 일격마다 갑옷이 쪼개지고 투구가 박살 난다.
+    </Item>
+  <Item id="legendary_axe_2_desc">
+        넓고 날카로운 날을 지닌 비스티오르의 강력한 도끼. 무겁고 잔혹하며, 맞은 적이 다시는 일어서지 못하는 일격을 위해 만들어졌다.
+    </Item>
+  <Item id="achievement_obelisk">
+        고대의 오벨리스크
+    </Item>
+  <Item id="achievement_obelisk_completed">
+        위대한 슐에게 기도를 올렸습니다.
+    </Item>
+  <Item id="achievement_obelisk_goal">
+        신성한 오벨리스크에서 기도 올리기
+    </Item>
+  <Item id="ach_astral_collider">
+        정체불명의 장치
+    </Item>
+  <Item id="ach_astral_collider_completed">
+        아스트랄 콜라이더를 작동시켰습니다.
+    </Item>
+  <Item id="ach_legendary_weapon">
+        전설적인 무기
+    </Item>
+  <Item id="ach_legendary_weapon_goal">
+        고대의 전설적인 무기 발견하기
+    </Item>
+  <Item id="ach_legendary_weapon_completed">
+        고대의 전설적인 무기를 발견했습니다.
+    </Item>
+  <Item id="shield">
+        방패
+    </Item>
+  <Item id="speech_sphere_activation_1">
+        좋아, 이제 두 개 남았다.
+    </Item>
+  <Item id="speech_sphere_activation_2">
+        거의 다 왔어!
+    </Item>
+  <Item id="speech_sphere_activation_3">
+        제대로 하고 있는 거면 좋겠군.
+    </Item>
+  <Item id="item_repelled_the_curse">
+        {0}이(가) 저주를 막아냅니다
+    </Item>
+  <Item id="item_healing_hero">
+        {0}이(가) 체력을 회복시킵니다
+    </Item>
+  <Item id="item_defend_from_hightmares">
+        {0}이(가) 악몽으로부터 보호합니다
+    </Item>
+  <Item id="item_defend_from_poison">
+        {0}이(가) 중독으로부터 보호합니다
+    </Item>
+  <Item id="usage_per_day">
+        일일 사용 가능 횟수:
+    </Item>
+  <Item id="darkness_resistance_special_ability">
+        *어둠, 저주, 악몽, 그리고 공포의 영향으로부터 보호합니다*
+    </Item>
+  <Item id="health_special_ability">
+        *최대 체력을 높이고, 치명상을 입었을 때 체력을 회복시킵니다*
+    </Item>
+  <Item id="night_vision_special_ability">
+        *어둠 속 시야를 개선하고 숨겨진 장소를 찾는 데 도움을 줍니다*
+    </Item>
+  <Item id="poison_resistance_special_ability">
+        *독과 독소로부터 보호합니다*
+    </Item>
+  <Item id="regeneration_special_ability">
+        *체력과 스태미나 재생을 빠르게 하고, 피로와 둔화를 줄여 줍니다*
+    </Item>
+  <Item id="health_repair_low">
+        경미한 치유
+    </Item>
+  <Item id="health_repair_medium">
+        치유
+    </Item>
+  <Item id="health_repair_high">
+        강력한 치유
+    </Item>
+  <Item id="health_repair_extraHigh">
+        극대화된 치유
+    </Item>
+  <Item id="ancient_hammer">
+        고대의 해머
+    </Item>
+  <Item id="ancient_hammer_desc">
+        고대 전사들의 훌륭한 전투 해머. 치명적인 무기다.
+    </Item>
+  <Item id="ancient_hammer_old">
+        닳은 고대의 해머
+    </Item>
+  <Item id="ancient_hammer_old_desc">
+        곳곳이 먼지와 과거 전투의 흔적으로 덮여 있지만, 이 고대의 해머는 여전히 적들을 때려눕힐 수 있다.
+    </Item>
+  <Item id="ancient_hammer_oldest">
+        녹슨 고대의 해머
+    </Item>
+  <Item id="ancient_hammer_oldest_desc">
+        완전히 먼지와 녹으로 뒤덮인 고대인들의 전투 해머. 이제는 과거 영광의 그림자에 불과하다.
+    </Item>
+  <Item id="ancient_hammer_2hand">
+        강력한 고대의 대형 망치
+    </Item>
+  <Item id="ancient_hammer_2hand_desc">
+        어떤 피조물이든 쓰러뜨릴 수 있는 고대 전사들의 훌륭한 전투용 대형 망치.
+    </Item>
+  <Item id="ancient_hammer_2hand_old">
+        닳은 고대의 대형 망치
+    </Item>
+  <Item id="ancient_hammer_2hand_old_desc">
+        오래전 이곳에 버려진 고대 전사들의 육중한 해머. 여전히 무시무시한 무기다.
+    </Item>
+  <Item id="ancient_hammer_2hand_oldest">
+        녹슨 고대의 대형 망치
+    </Item>
+  <Item id="ancient_hammer_2hand_oldest_desc">
+        먼지와 녹으로 뒤덮인 고대인들의 전투용 대형 망치. 하지만 숙련된 손에서는 아직 적을 쓰러뜨릴 수 있다.
+    </Item>
+  <Item id="ancient_axe_desc">
+        고대 전사들의 훌륭한 전투 도끼. 치명적인 무기다.
+    </Item>
+  <Item id="ancient_axe_oldest_desc">
+        녹슬고 이가 빠진 칼날로는 제대로 된 갑옷을 뚫을 수 없다. 이 고대의 도끼는 머나먼 과거에 자신의 분노를 남겨두고 온 듯하다.
+    </Item>
+  <Item id="ancient_axe_2hand">
+        강력한 고대의 전투 도끼
+    </Item>
+  <Item id="ancient_axe_2hand_desc">
+        갑옷을 쪼개고 적을 찢어발길 수 있는 고대 전사들의 훌륭한 전투 도끼.
+    </Item>
+  <Item id="ancient_axe_2hand_old">
+        닳은 고대의 전투 도끼
+    </Item>
+  <Item id="ancient_axe_2hand_old_desc">
+        해졌지만 아직 베고 찍을 수 있는 고대인들의 이 무거운 전투 도끼는 마지막 전투를 기다리고 있다.
+    </Item>
+  <Item id="ancient_axe_2hand_oldest">
+        녹슨 고대의 전투 도끼
+    </Item>
+  <Item id="ancient_axe_2hand_oldest_desc">
+        녹슬고 이가 빠진 칼날을 가진 고대의 전투 도끼. 머나먼 과거에 자신의 분노를 남겨두고 온 듯하다.
+    </Item>
+  <Item id="ancient_sword">
+        고대의 검
+    </Item>
+  <Item id="ancient_sword_desc">
+        고대 전사들의 훌륭하고 치명적인 칼날.
+    </Item>
+  <Item id="ancient_sword_2hand_desc">
+        어떤 적이든 쓰러뜨릴 수 있는 고대 전사들의 웅장하고 강력한 검.
+    </Item>
+  <Item id="ancient_longsword_2hand_desc">
+        고대 전사들의 훌륭한 양손 검. 가볍고 치명적이다.
+    </Item>
+  <Item id="ancient_sword_old">
+        닳은 고대의 검
+    </Item>
+  <Item id="ancient_sword_oldest">
+        녹슨 고대의 검
+    </Item>
+  <Item id="amulet">
+        목걸이
+    </Item>
+  <Item id="achievement_prisoner_killed">
+        심연 속으로!
+    </Item>
+  <Item id="achievement_prisoner_killed_completed">
+        날아다니는 괴물을 처치했습니다.
+    </Item>
+  <Item id="helloween_mode_name">
+        할로윈의 공포
+    </Item>
+  <Item id="eastern_island_sword_2hand">
+        떠오르는 태양의 검
+    </Item>
+  <Item id="eastern_island_sword_2hand_desc">
+        동방의 땅 너머 먼 섬에서 온 양손 검. 긴 칼날은 균형이 뛰어나고, 섬세한 날 덕분에 모든 일격이 빠르고 깊다.
+    </Item>
+  <Item id="eastern_island_sword_2hand_old_desc">
+        이 검에는 수많은 전투의 흔적이 남아 있지만, 긴 칼날은 여전히 위험할 만큼 날카롭다. 닳은 손잡이는 정확한 일격에 익숙한 손에 편안하게 감긴다.
+    </Item>
+  <Item id="eastern_island_sword_2hand_oldest_desc">
+        한때 우아했던 이 검은 이제 녹으로 얼룩졌고, 긴 칼날은 세월에 무뎌졌다. 균형은 아직 느껴지지만, 옛 날카로움은 대부분 사라졌다.
+    </Item>
+  <Item id="eastern_island_sword_1hand">
+        속삭이는 바람의 검
+    </Item>
+  <Item id="eastern_island_sword_1hand_desc">
+        좁고 아주 날카로운 날을 지닌 동방의 우아한 검. 가벼운 손잡이와 단순한 곡선의 코등이는 빠르고 정확한 일격에 어울린다.
+    </Item>
+  <Item id="eastern_island_sword_1hand_old_desc">
+        이 검에는 지난 전투의 상처가 남아 있지만, 칼날은 여전히 위험하다. 닳은 강철은 더는 빛나지 않지만, 균형은 거의 변하지 않았다.
+    </Item>
+  <Item id="eastern_island_sword_1hand_oldest_desc">
+        세월이 흐르며 이 검에는 녹과 이 빠진 자국이 생겼다. 칼날은 옛 날카로움을 잃었지만, 가벼운 형태에서 아직 훌륭한 장인의 솜씨가 드러난다.
+    </Item>
+  <Item id="eastern_island_dagger">
+        황혼의 속삭임
+    </Item>
+  <Item id="eastern_island_dagger_desc">
+        머나먼 동쪽 섬에서 온 가볍고 섬세하게 갈린 단검. 단순한 손잡이는 손목을 방해하지 않고, 좁은 날은 빠르고 정확한 일격을 위해 만들어졌다.
+    </Item>
+  <Item id="eastern_island_dagger_old_desc">
+        가는 날과 닳은 손잡이를 지닌, 세월에 무뎌진 단검. 강철은 더는 반짝이지 않지만, 끝은 여전히 갑옷의 약점으로 쉽게 파고든다.
+    </Item>
+  <Item id="eastern_island_dagger_oldest_desc">
+        이 단검은 세월에 크게 시달렸다. 날은 녹으로 얼룩졌고 손잡이는 갈라졌다. 날카로움은 대부분 사라졌지만, 숙련된 손에서는 아직 위험하다.
+    </Item>
+  <Item id="Lollipop">
+        막대 사탕
+    </Item>
+  <Item id="Lollipop_desc">
+        던전의 시체 주머니에서 발견된 수수께끼의 막대 사탕. 먹으면 어떤 효과가 있을지는 여전히 수수께끼다.
+    </Item>
+  <Item id="Candy">
+        사탕
+    </Item>
+  <Item id="Candy_desc">
+        던전의 시체 주머니에서 발견된 알쏭달쏭한 사탕. 먹으면 어떤 효과가 있을지는 여전히 수수께끼다.
+    </Item>
+  <Item id="debuff_weakened">
+        쇠약해짐
+    </Item>
+  <Item id="debuff_healed">
+        치유됨
+    </Item>
+  <Item id="nothing_is_happening">
+        아무 일도 일어나지 않는다
+    </Item>
+  <Item id="hero_speech_RedSwordsPaladins_1">
+        끔찍한 곳이다... 여기서 무슨 일이 있었던 거지?
+    </Item>
+  <Item id="hero_speech_RedSwordsPaladins_2">
+        죽음의 방이군...
+    </Item>
+  <Item id="hero_speech_RedSwordsPaladins_3">
+        죽음의 악취가 공기를 맴돈다. 이 불행한 영혼들은 대체 누구였을까?
+    </Item>
+  <Item id="hero_speech_spiders_cave_1">
+        어두운 거미 동굴... 경계를 늦추지 말아야 해.
+    </Item>
+  <Item id="hero_speech_spiders_cave_2">
+        거미 동굴이군... 조심해야겠어.
+    </Item>
+  <Item id="hero_speech_spiders_cave_3">
+        빌어먹을 거미 놈들... 소리가 들린다...
+    </Item>
+  <Item id="skill_book_shadow_archer">
+        그림자 궁수
+    </Item>
+  <Item id="skill_book_shadow_archer_desc">
+        고독한 사냥꾼과 암살자에게 보물 같은 책으로, 석궁의 기술을 가르쳐 준다.
+    </Item>
+  <Item id="skill_book_shadow_archer_desc_result">
+        이 희귀한 고서에는 세월의 시험을 견뎌 낸 견줄 데 없는 석궁 대가의 지식이 담겨 있다.
+        저자는 소리 없는 움직임과 은폐뿐만 아니라, 전투의 승패를 가를 수 있는 정밀한 사격까지 가르친다.
+
+        *이 책을 연구하면 숨은 상태에서 쏜 사격의 피해량이 증가합니다.*
+    </Item>
+  <Item id="gamemode_nightmare_special_notes">
+        이 모드에서는 한 걸음 한 걸음이 마지막일 수 있으며, 어둠은 상상할 수 있는 것보다 훨씬 더 끔찍한 무언가를 숨기고 있습니다.
+    </Item>
+  <Item id="gamemode_normal_special_notes">
+        탐험과 전투가 이상적으로 어우러진 모드입니다. 모든 결정이 중요하며, 모든 조우가 치명적일 수 있습니다.
+    </Item>
+  <Item id="gamemode_story_desc">
+        버려진 던전으로 들어가 수천 년 동안 손대지 않은 유물의 먼지를 털어 내십시오. 어두운 미궁에는 피조물들이 도사리고 있지만, 위험은 적당한 수준입니다.
+    </Item>
+  <Item id="gamemode_story_special_notes">
+        던전의 가장 큰 위험과 맞닥뜨리지 않고 던전에 들어가 보고 싶은 초보 탐험가에게 알맞은 선택입니다.
+    </Item>
+  <Item id="perk_pair_daggers">
+        쌍단검
+    </Item>
+  <Item id="perk_counter_attack">
+        반격
+    </Item>
+  <Item id="knowledge_gas_trap">
+        독 함정
+    </Item>
+  <Item id="knowledges">
+        지식
+    </Item>
+  <Item id="title_artifacts_founder_1">
+        유물 탐구자
+    </Item>
+  <Item id="title_artifacts_founder_2">
+        유물 각성자
+    </Item>
+  <Item id="title_secrets_founder_1">
+        비밀 탐구자
+    </Item>
+  <Item id="title_secrets_founder_2">
+        비밀 통로의 대가
+    </Item>
+  <Item id="title_cracker_1">
+        금고털이
+    </Item>
+  <Item id="title_cracker_2">
+        금고털이 대가
+    </Item>
+  <Item id="title_archer_1">
+        궁수
+    </Item>
+  <Item id="title_archer_2">
+        명사수
+    </Item>
+  <Item id="title_shadow_archer">
+        그림자 궁수
+    </Item>
+  <Item id="title_shadow_hunter">
+        그림자 사냥꾼
+    </Item>
+  <Item id="title_melee_1">
+        괴물 학살자
+    </Item>
+  <Item id="title_melee_2">
+        괴물 분쇄자
+    </Item>
+  <Item id="title_shield_master_1">
+        방패병
+    </Item>
+  <Item id="title_shield_master_2">
+        방패의 대가
+    </Item>
+  <Item id="title_combat_master_1">
+        숙련된 투사
+    </Item>
+  <Item id="title_combat_master_2">
+        전투의 대가
+    </Item>
+  <Item id="title_trapper_1">
+        숙련된 함정 사냥꾼
+    </Item>
+  <Item id="title_trapper_2">
+        함정 사냥꾼 대가
+    </Item>
+  <Item id="weapon_skill_affect_desc">
+        기술 수준이 공격 속도와 치명타 확률에 영향을 줍니다.
+    </Item>
+  <Item id="weapon_skill_shooter_desc">
+        기술 수준이 장전 속도와 치명타 확률에 영향을 줍니다.
+    </Item>
+  <Item id="armor_skill_desc">
+        기술 수준이 받는 피해를 줄일 확률,
+        도약 시 스태미나 소모량, 은신에 영향을 줍니다.
+    </Item>
+  <Item id="shields_skill_desc">
+        기술 수준이 방패로 공격을 막을 때의 스태미나 소모량에 영향을 줍니다.
+    </Item>
+  <Item id="know_picklocks_desc">
+        기술 수준이 자물쇠 따기 성공률에 영향을 줍니다.
+    </Item>
+  <Item id="know_repair_desc">
+        갑옷을 수리할 수 있습니다.
+    </Item>
+  <Item id="know_traps_desc">
+        기술 수준이 함정 해제 성공률과 직접 만든 함정의 치명도에 영향을 줍니다.
+    </Item>
+  <Item id="skill_traps_disarming_desc">
+        기술 수준이 함정 해제 성공 확률에 영향을 줍니다.
+    </Item>
+  <Item id="know_crowbar_desc">
+        기술 수준이 쇠지렛대 사용 성공률에 영향을 줍니다.
+    </Item>
+  <Item id="perk_warrior_will_desc">
+        전투에서 적을 쓰러뜨릴 때마다 체력과 스태미나 재생이 증가합니다.
+    </Item>
+  <Item id="perk_weapon_poisoner_desc">
+        최대의 효율로 무기에 독을 바를 수 있습니다.
+    </Item>
+  <Item id="perk_weapon_ripper_desc">
+        특정 괴물에게서 유용한 내장을 꺼낼 수 있습니다.
+    </Item>
+  <Item id="perk_backstab_desc">
+        숨은 상태에서 적의 등에 강력한 일격을 가합니다.
+    </Item>
+  <Item id="perk_weaponSharpener_desc">
+        최대의 효율로 무기의 날을 세울 수 있습니다.
+    </Item>
+  <Item id="perk_shadow_child_desc">
+        어둠 속 시야가 좋아집니다.
+    </Item>
+  <Item id="perk_pair_daggers_desc">
+        단검 두 자루로 싸울 수 있습니다.
+    </Item>
+  <Item id="perk_counter_attack_desc">
+        무기나 방패로 공격을 쳐낸 뒤 강력한 반격을 가할 수 있습니다.
+    </Item>
+  <Item id="ancient_crossbow">
+        고대의 석궁
+    </Item>
+  <Item id="ancient_crossbow_old">
+        닳은 고대의 석궁
+    </Item>
+  <Item id="ancient_crossbow_oldest">
+        낡아 빠진 고대의 석궁
+    </Item>
+  <Item id="weapon_crossbow_sith_desc">
+        검은 개머리와 팽팽한 고대의 활대를 지닌 석궁. 오래되었지만 장치는 깔끔하게 작동하여, 볼트를 쏘는 이가 겨눈 곳으로 정확히 날려 보낸다.
+    </Item>
+  <Item id="weapon_crossbow_sith_old_desc">
+        세월에 닳은 이 석궁은 한때 고대 궁수들의 것이었다. 숙련된 손에서는 아직 많은 적을 쓰러뜨릴 수 있다.
+    </Item>
+  <Item id="weapon_crossbow_sith_oldest_desc">
+        한때 고대 명사수들의 치명적인 무기였던 이 석궁은 이제 녹과 수백 년 묵은 먼지로 뒤덮여 있다.
+    </Item>
+  <Item id="ancient_shield_light">
+        가벼운 고대의 방패
+    </Item>
+  <Item id="ancient_shield_medium">
+        고대의 방패
+    </Item>
+  <Item id="ancient_shield_heavy">
+        무거운 고대의 방패
+    </Item>
+  <Item id="ancient_shield_old">
+        닳은 고대의 방패
+    </Item>
+  <Item id="ancient_shield_rusty_oldest">
+        녹슨 고대의 방패
+    </Item>
+  <Item id="hero_speech_need_hammer">
+        이 돌무더기를 부수려면 해머가 필요해.
+    </Item>
+  <Item id="hero_speech_way_is_free">
+        길이 뚫렸다!
+    </Item>
+  <Item id="ancient_warrior_seal">
+        전사의 인장
+    </Item>
+  <Item id="HeroPedestalAction_desc">
+        작은 직사각형 홈이 파여 있다. 분명 여기에 어떤 물건을 놓아야 할 것이다.
+    </Item>
+  <Item id="HeroesSun_desc">
+        특이한 장치다. 어떻게든 작동시킬 수 있을 것 같다.
+    </Item>
+  <Item id="ancient_heroes_seal">
+        고대 영웅들의 인장
+    </Item>
+  <Item id="HalloftheStellarLight">
+        별빛의 전당
+    </Item>
+  <Item id="hero_speech_can_destroy_stones">
+        이 돌들은 부술 수 있다!
+    </Item>
+  <Item id="hero_speech_one_hit_left">
+        한 번 남았다!
+    </Item>
+  <Item id="hero_speech_training_maneken">
+        훈련용으로 쓸 수 있겠어.
+    </Item>
+  <Item id="ui_level_2_stellar_anvil_completion">
+        별의 모루를 작동시켰습니다
+    </Item>
+  <Item id="training_maneken_experience">
+        {0} 및 {1} 향상됨
+    </Item>
+  <Item id="ui_explored">
+        탐색 완료
+    </Item>
+  <Item id="menu_chromatic_aberration_effect">
+        색수차 효과 비활성화
+    </Item>
+  <Item id="button_attack">
+        공격
+    </Item>
+  <Item id="button_blocking">
+        막기
+    </Item>
+  <Item id="button_interaction">
+        상호작용
+    </Item>
+  <Item id="button_running">
+        달리기
+    </Item>
+  <Item id="button_stealth">
+        은신
+    </Item>
+  <Item id="button_jump">
+        도약
+    </Item>
+  <Item id="button_drop_coin">
+        동전 떨어뜨리기
+    </Item>
+  <Item id="button_set_trap">
+        함정 설치
+    </Item>
+  <Item id="hero_speech_corpse_death_1">
+        훌륭한 전사였어!
+    </Item>
+  <Item id="hero_speech_corpse_death_2">
+        어둠에 집어삼켜지다니 안타깝군!
+    </Item>
+  <Item id="hero_speech_corpse_death_3">
+        편히 잠들기를!
+    </Item>
+  <Item id="hero_speech_powerful_corpse_warrior">
+        강력한 전사로군!
+    </Item>
+  <Item id="hero_speech_creature_hit_1">
+        받아라!
+    </Item>
+  <Item id="hero_speech_creature_hit_2">
+        이게 네놈의 끝이다!
+    </Item>
+  <Item id="hero_speech_creature_hit_3">
+        엄청난 위력이야!
+    </Item>
+  <Item id="hero_speech_creature_death_1">
+        어둠 속에서 잠들어라!
+    </Item>
+  <Item id="oiler_tool">
+        기름통
+    </Item>
+  <Item id="oiler_tool_desc">
+        던전에서 나온 화려한 장식의 골동품 기름통. 세월에 잊힌 장치들에 기름을 칠할 수 있다.
+    </Item>
+  <Item id="energy_core_artifact">
+        에너지 캡슐
+    </Item>
+  <Item id="energy_core_artifact_desc">
+        마치 에너지가 가득 찬 심장처럼 희미하게 맥동하는 고대의 유물. 오랫동안 잊힌 장치를 다시 작동시킬 열쇠인 것 같다.
+    </Item>
+  <Item id="armor">
+        갑옷
+    </Item>
+  <Item id="axe">
+        도끼
+    </Item>
+  <Item id="bone_damaged_1">
+        이 {0}은(는) 약간 무뎌졌다. 하지만 이 무기는 복구할 수 없다.
+    </Item>
+  <Item id="bone_damaged_2">
+        이 {0}은(는) 심하게 무뎌지고 손상되었다. 하지만 이 무기는 복구할 수 없다.
+    </Item>
+  <Item id="dagger">
+        단검
+    </Item>
+  <Item id="door_crowbar_class1">
+        문이 쉽게 밀린다. 조금만 힘을 쓰면 어렵지 않게 열 수 있을 것이다.
+    </Item>
+  <Item id="door_crowbar_class2">
+        문이 약간 끼어 있다. 쇠지렛대로 적당히 힘을 주면 열 수 있을 것이다.
+    </Item>
+  <Item id="door_crowbar_class3">
+        문이 꽤 단단히 걸려 있다. 열려면 상당한 힘과 약간의 요령이 필요하다.
+    </Item>
+  <Item id="door_crowbar_class4">
+        문이 심하게 걸려 있다. 열려면 상당한 힘과 쇠지렛대를 다루는 솜씨가 필요하다.
+    </Item>
+  <Item id="door_crowbar_class5">
+        문은 도무지 넘을 수 없는 벽처럼 보인다. 대단한 기술과 힘이 필요하며, 그래도 가능성은 희박하다.
+    </Item>
+  <Item id="door_stucked">
+        걸린 문
+    </Item>
+  <Item id="hammer">
+        해머
+    </Item>
+  <Item id="item_damaged_1">
+        이 {0}은(는) 약간 손상되어 전투 효율이 떨어진다.
+    </Item>
+  <Item id="item_damaged_2">
+        이 {0}은(는) 심하게 손상되었다. 기회가 생기는 대로 수리해야 한다.
+    </Item>
+  <Item id="shield_repaired">
+        방패 수리 완료!
+    </Item>
+  <Item id="shield_repaired_partly">
+        방패 부분 수리됨
+    </Item>
+  <Item id="speech_hero_trap_created_1">
+        딱 필요한 함정이야!
+    </Item>
+  <Item id="speech_hero_trap_created_2">
+        사냥할 맛이 나겠군!
+    </Item>
+  <Item id="speech_hero_trap_created_3">
+        강력한 물건이다. 괴물 녀석들이 아주 좋아하겠어!
+    </Item>
+  <Item id="sword">
+        검
+    </Item>
+  <Item id="training_axe">
+        나무 도끼
+    </Item>
+  <Item id="training_axe_desc">
+        이 도끼는 훈련에 쓰였던 것 같다. 실전에 쓸 만큼 날카롭지는 않지만, 배우기에는 좋다.
+    </Item>
+  <Item id="training_hammer">
+        나무 해머
+    </Item>
+  <Item id="training_hammer_desc">
+        이 해머는 분명 훈련용이었다. 실전에서 쓰기에는 너무 가볍고 치명적이지 않다.
+    </Item>
+  <Item id="weapon_damaged_1">
+        이 {0}은(는) 약간 무뎌졌다. 날을 세우면 예전의 위력을 되찾을 것이다.
+    </Item>
+  <Item id="weapon_damaged_2">
+        이 {0}은(는) 심하게 무뎌지고 손상되었다. 기회가 생기는 대로 복구해야 한다.
+    </Item>
+  <Item id="weapon_good_state">
+        이 {0}은(는) 상태가 양호하여 복구할 필요가 없다.
+    </Item>
+  <Item id="weapon_good_state_skillfull_sharpening">
+        이 {0}은(는) 상태가 좋지만, 솜씨 좋게 연마하면 더 나아질 수 있다.
+    </Item>
+  <Item id="weapon_max_sharpened">
+        이 {0}은(는) 이미 더할 나위 없이 날카롭다.
+    </Item>
+  <Item id="add_enhancement">
+        강화 추가
+    </Item>
+  <Item id="apply">
+        적용
+    </Item>
+  <Item id="armor_improvement_scheme">
+        갑옷 강화 도면
+    </Item>
+  <Item id="armor_scheme_constitution_desc">
+        *체질을 높여 주는 두툼한 안감*을 덧대는 갑옷 강화 도면.
+    </Item>
+  <Item id="armor_scheme_defence_heavy_desc">
+        *방어력을 높여 주는 강철 보강재*를 덧대는 갑옷 강화 도면.
+    </Item>
+  <Item id="armor_scheme_defence_light_desc">
+        *방어력을 높여 주는 가죽 덧댐*을 덧대는 갑옷 강화 도면.
+    </Item>
+  <Item id="armor_scheme_defence_medium_desc">
+        *방어력을 높여 주는 사슬 보강재*를 덧대는 갑옷 강화 도면.
+    </Item>
+  <Item id="armor_scheme_dexterity_desc">
+        *민첩성을 높여 주는 부드러운 안감*을 덧대는 갑옷 강화 도면.
+    </Item>
+  <Item id="armor_scheme_dodge_desc">
+        *회피율을 높여 주는 유연한 가죽*을 덧대는 갑옷 강화 도면.
+    </Item>
+  <Item id="armor_scheme_dodge_heavy_desc">
+        *회피율을 높여 주는 관절형 판금*을 덧대는 갑옷 강화 도면.
+    </Item>
+  <Item id="armor_scheme_noiseless_desc">
+        *은신을 높여 주는 푹신한 밑창*을 덧대는 갑옷 강화 도면.
+    </Item>
+  <Item id="bandage">
+        붕대
+    </Item>
+  <Item id="bandage_desc">
+        지혈을 돕는다.
+    </Item>
+  <Item id="cannot_pull_stuck_item">
+        이걸 뽑아낼 힘이 부족해!
+    </Item>
+  <Item id="cracking_by_crowbar">
+        쇠지렛대로 강제로 열기
+    </Item>
+  <Item id="debuff_fright">
+        공포
+    </Item>
+  <Item id="durability">
+        내구도
+    </Item>
+  <Item id="element_bronze">
+        청동
+    </Item>
+  <Item id="element_bronze_desc">
+        이 청동판은 갑옷을 강화하는 데 쓸 수 있다.
+    </Item>
+  <Item id="element_chain">
+        사슬 조각
+    </Item>
+  <Item id="element_chain_desc">
+        이 사슬 조각은 갑옷을 강화하는 데 쓸 수 있다.
+    </Item>
+  <Item id="element_fabric">
+        천
+    </Item>
+  <Item id="element_fabric_desc">
+        이 천은 갑옷을 강화하는 데 쓸 수 있다.
+    </Item>
+  <Item id="element_leather">
+        가죽
+    </Item>
+  <Item id="element_leather_desc">
+        이 가공된 가죽 조각은 갑옷을 강화하는 데 쓸 수 있다.
+    </Item>
+  <Item id="element_steel">
+        강철
+    </Item>
+  <Item id="element_steel_desc">
+        이 강철판은 갑옷을 강화하는 데 쓸 수 있다.
+    </Item>
+  <Item id="hero_speech_killed_creature_exclamation_2">
+        빌어먹을 짐승!
+    </Item>
+  <Item id="hero_speech_killed_creature_exclamation_3">
+        더러운 쓰레기 같으니!
+    </Item>
+  <Item id="KnowArmorEnhancements_skill">
+        갑옷 강화
+    </Item>
+  <Item id="KnowArmorEnhancements_skill_desc">
+        갑옷을 강화할 수 있습니다.
+    </Item>
+  <Item id="last_crowbar_broken">
+        마지막 쇠지렛대다.
+    </Item>
+  <Item id="last_lamp_finished">
+        마지막 랜턴이다.
+    </Item>
+  <Item id="last_picklock_broken">
+        마지막 락픽이다.
+    </Item>
+  <Item id="locked_container">
+        잠긴 {0}
+    </Item>
+  <Item id="oiler_applied">
+        기름을 발랐다.
+    </Item>
+  <Item id="poison_testing_negative">
+        이 독은 무기에 바르는 데 사용할 수 있다.
+    </Item>
+  <Item id="remaining_usages">
+        남은 횟수: {0}/{1}
+    </Item>
+  <Item id="statistics">
+        통계
+    </Item>
+  <Item id="swearing_blacksmith_1">
+        제길!
+    </Item>
+  <Item id="swearing_blacksmith_2">
+        엉망진창이군!
+    </Item>
+  <Item id="swearing_blacksmith_3">
+        빌어먹을 구멍!
+    </Item>
+  <Item id="swearing_blacksmith_4">
+        개 같은 경우로군!
+    </Item>
+  <Item id="swearing_blacksmith_5">
+        이런 쓰레기!
+    </Item>
+  <Item id="swearing_blacksmith_6">
+        이 빌어먹을 균열!
+    </Item>
+  <Item id="swearing_blacksmith_7">
+        돼지 궁둥이 같은!
+    </Item>
+  <Item id="swearing_blacksmith_8">
+        빌어먹을 부지깽이!
+    </Item>
+  <Item id="swearing_blacksmith_9">
+        지옥불에나 타버려라!
+    </Item>
+  <Item id="swearing_hunter_1">
+        제길!
+    </Item>
+  <Item id="swearing_hunter_2">
+        빌어먹을 구멍!
+    </Item>
+  <Item id="swearing_hunter_3">
+        엉망진창이군!
+    </Item>
+  <Item id="swearing_hunter_5">
+        곰 똥 같으니!
+    </Item>
+  <Item id="swearing_hunter_6">
+        이런 똥덩어리!
+    </Item>
+  <Item id="swearing_hunter_7">
+        진흙탕 잉어 녀석!
+    </Item>
+  <Item id="swearing_thief_1">
+        제길!
+    </Item>
+  <Item id="swearing_thief_2">
+        제길!
+    </Item>
+  <Item id="swearing_thief_3">
+        엉망진창이군!
+    </Item>
+  <Item id="swearing_thief_4">
+        빌어먹을 구멍!
+    </Item>
+  <Item id="swearing_thief_5">
+        빌어먹을 똥!
+    </Item>
+  <Item id="swearing_thief_6">
+        빌어먹을 쓰레기!
+    </Item>
+  <Item id="swearing_thief_7">
+        개 같은 경우로군!
+    </Item>
+  <Item id="swearing_warrior_1">
+        제길!
+    </Item>
+  <Item id="swearing_warrior_10">
+        개자식!
+    </Item>
+  <Item id="swearing_warrior_11">
+        이 망할 놈!
+    </Item>
+  <Item id="swearing_warrior_2">
+        엉망진창이군!
+    </Item>
+  <Item id="swearing_warrior_3">
+        빌어먹을 구멍!
+    </Item>
+  <Item id="swearing_warrior_4">
+        빌어먹을 똥덩어리!
+    </Item>
+  <Item id="swearing_warrior_5">
+        빌어먹을 쓰레기!
+    </Item>
+  <Item id="swearing_warrior_6">
+        이게 대체 뭐야!
+    </Item>
+  <Item id="swearing_warrior_7">
+        개 같은 경우로군!
+    </Item>
+  <Item id="swearing_warrior_8">
+        빌어먹을 똥덩어리!
+    </Item>
+  <Item id="swearing_warrior_9">
+        제길!
+    </Item>
+  <Item id="total_oiler_usages">
+        기름통 사용 횟수: {0}
+    </Item>
+  <Item id="weapon_dropped">
+        {0} 버림
+    </Item>
+  <Item id="weapon_returned_owned_1">
+        오, 내 {0}.
+    </Item>
+  <Item id="weapon_returned_owned_2">
+        여기 있었구나, 내 {0}.
+    </Item>
+  <Item id="weapon_returned_owned_3">
+        다시 내 손에 돌아왔군, {0}.
+    </Item>
+  <Item id="weapon_found_bad_1">
+        몇 번 휘둘렀다고 이 {0}이(가) 산산조각 나지 않길 바랄 뿐이야.
+    </Item>
+  <Item id="weapon_found_bad_2">
+        허름한 {0}이지만, 없는 것보단 낫지.
+    </Item>
+  <Item id="weapon_found_bad_3">
+        이 녹슨 {0}도 분명 좋은 시절이 있었겠지.
+    </Item>
+  <Item id="weapon_found_excellent_1">
+        훌륭한 {0}이군!
+    </Item>
+  <Item id="weapon_found_excellent_2">
+        대단한 {0}이야! 강력한 짐승들도 벨 수 있겠어!
+    </Item>
+  <Item id="weapon_found_excellent_3">
+        장엄한 {0}이군! 치명적인 무기야!
+    </Item>
+  <Item id="weapon_found_normal_1">
+        튼튼한 {0}, 전투에서 제 몫을 하겠어!
+    </Item>
+  <Item id="weapon_found_normal_2">
+        믿음직한 {0}, 전투에 도움이 될 거야!
+    </Item>
+  <Item id="weapon_found_normal_3">
+        좋은 {0}이군, 훌륭한 무기야!
+    </Item>
+  <Item id="work_with_armor">
+        갑옷 강화
+    </Item>
+  <Item id="hero_phase_must_run_away">
+        도망쳐야 해!
+    </Item>
+  <Item id="hero_phrase_dead_comrades_founded_1">
+        모두 끝나버렸군... 이 친구들이 죽다니 참으로 안타까워.
+    </Item>
+  <Item id="hero_phrase_dead_comrades_founded_2">
+        결국 살아남지 못했군... 이 저주받은 돌무더기가 그들의 무덤이 되고 말았어.
+    </Item>
+  <Item id="hero_phrase_dead_comrades_founded_3">
+        이들이 떠난 것을 보니 씁쓸하군. 편히 잠들기를...
+    </Item>
+  <Item id="hero_phrase_dead_comrades_founded_4">
+        이제 그들은 없군... 이곳에서 잔혹한 운명을 맞이하고 말았어.
+    </Item>
+  <Item id="hero_phrase_dead_comrades_founded_5">
+        이 저주받은 돌 밑에서 죽었군. 편히 잠들기를...
+    </Item>
+  <Item id="powerful_corpse">
+        거인
+    </Item>
+  <Item id="ach_avallor_seal">
+        전사의 인장
+    </Item>
+  <Item id="ach_avallor_seal_completed">
+        위대한 고대 전사의 기념비를 복구했습니다.
+    </Item>
+  <Item id="ach_heavy_armor_total_level">
+        살아있는 요새
+    </Item>
+  <Item id="ach_heavy_armor_total_level_completed">
+        중갑을 입은 채 던전의 한 층을 완료했습니다.
+    </Item>
+  <Item id="ach_heavy_armor_total_level_goal">
+        중갑을 입은 채 던전의 한 층 완료하기
+    </Item>
+  <Item id="ach_light_armor_total_level">
+        침묵의 살인마
+    </Item>
+  <Item id="ach_light_armor_total_level_completed">
+        경갑을 입은 채 던전의 한 층을 완료했습니다.
+    </Item>
+  <Item id="ach_light_armor_total_level_goal">
+        경갑을 입은 채 던전의 한 층 완료하기
+    </Item>
+  <Item id="ach_mid_armor_total_level">
+        균형의 전사
+    </Item>
+  <Item id="ach_mid_armor_total_level_completed">
+        평갑을 입은 채 던전의 한 층을 완료했습니다.
+    </Item>
+  <Item id="ach_mid_armor_total_level_goal">
+        평갑을 입은 채 던전의 한 층 완료하기
+    </Item>
+  <Item id="ach_MightyCleaver">
+        도살자
+    </Item>
+  <Item id="ach_MightyCleaver_completed">
+        모르로크의 강력한 식칼로 적 셋을 처치했습니다.
+    </Item>
+  <Item id="ach_wall_plate_secrets">
+        잊혀진 석판
+    </Item>
+  <Item id="ach_wall_plate_secrets_completed">
+        해당 층의 벽면 석판에 적힌 글을 모두 읽었습니다.
+    </Item>
+  <Item id="ach_wall_plate_secrets_goal">
+        해당 층의 벽면 석판에 적힌 글 모두 읽기
+    </Item>
+  <Item id="ancient_heavy_armor_desc">
+        극도로 단단한 검은 금속 때문에 이 판금은 무겁지만 믿음직하다. 판들이 서로 잘 맞물려 가장 취약한 곳을 보호한다.
+    </Item>
+  <Item id="ancient_heavy_armor_old_desc">
+        판금이 검게 변하고 고대의 타격 자국이 남은 낡은 판금 갑옷. 닳았지만 고대의 금속은 여전히 믿음직한 보호가 된다.
+    </Item>
+  <Item id="ancient_heavy_armor_oldest_desc">
+        세월과 오래된 손상에 좀먹은 녹슨 판금 갑옷. 판금은 더 이상 그리 튼튼하지 않지만, 살과 칼날 사이의 마지막 장벽이 될 수 있다.
+    </Item>
+  <Item id="ancient_medium_armor_desc">
+        가늘고 튼튼한 고리들이 타격의 힘을 잘 분산시키며, 긴 싸움에도 충분할 만큼 유연하다.
+    </Item>
+  <Item id="ancient_medium_armor_old_desc">
+        튼튼한 고대 금속으로 만든 낡은 사슬 갑옷. 고리에는 타격과 마모의 흔적이 있지만, 보호력은 거의 믿음을 잃지 않았다.
+    </Item>
+  <Item id="ancient_medium_armor_oldest_desc">
+        구멍이 나고 고리가 무뎌진 녹슨 고대 사슬 갑옷. 예전보다 훨씬 못하지만, 아직 타격의 일부는 받아 낼 수 있다.
+    </Item>
+  <Item id="weapon_powerful_morroch_cleaver_desc">
+        이 기괴하고 섬뜩한 살상 도구는 던전의 치명적인 피조물들의 것이다.
+    </Item>
+  <Item id="CustomCrossbowReloading">
+        석궁을 장전하려면 [R] 키를 누르십시오
+    </Item>
+  <Item id="ancient_tablet_story_collected">
+        고대의 이야기 "{0}"을(를) 읽었습니다.
+    </Item>
+  <Item id="Aygred_curse">
+        아이그레드의 저주
+    </Item>
+  <Item id="bandage_usage_hint">
+        출혈을 멈춥니다
+    </Item>
+  <Item id="bleeding_stopped">
+        출혈이 멈췄습니다!
+    </Item>
+  <Item id="cannot_move_it">
+        이건 움직일 수 없어!
+    </Item>
+  <Item id="combat_skills">
+        전투 기술
+    </Item>
+  <Item id="distillery_machine_review">
+        이 장치를 작동시키려면 특별한 아이템이 필요한 것 같다.
+    </Item>
+  <Item id="environment_altar_level1">
+        고대의 먼지로 뒤덮인 신비한 구조물. 용도는 알 수 없지만, 장치는 여전히 작동하는 것 같다.
+    </Item>
+  <Item id="extract">
+        * 적출하기 *
+    </Item>
+  <Item id="game_mode_difficulty_hint">
+        난이도는 괴물들의 능력치에 영향을 주지 않지만, 던전에 등장하는 괴물들의 수와 종류를 변화시킵니다.
+    </Item>
+  <Item id="get_new_knowledge">
+        새로운 지식 습득
+    </Item>
+  <Item id="hero_speech_mad_scientist_room_1">
+        오랫동안 아무도 다녀간 흔적이 없군. 주위를 둘러봐야겠다.
+    </Item>
+  <Item id="hero_speech_mad_scientist_room_2">
+        고요하군... 무언가 도사리고 있을지도 몰라.
+    </Item>
+  <Item id="hero_speech_mad_scientist_room_3">
+        버려졌지만 수상쩍어. 한번 살펴보자.
+    </Item>
+  <Item id="knowledge_improved">
+        지식 향상됨!
+    </Item>
+  <Item id="knowledge_level">
+        레벨
+    </Item>
+  <Item id="leave_dialogue">
+        * 떠나기 *
+    </Item>
+  <Item id="perks">
+        능력
+    </Item>
+  <Item id="pumpkin_head">
+        호박 머리
+    </Item>
+  <Item id="quick_access">
+        빠른 사용
+    </Item>
+  <Item id="show_combat_skills">
+        전투 기술 보기
+    </Item>
+  <Item id="show_perks">
+        능력 보기
+    </Item>
+  <Item id="skill_unarmed_combat">
+        맨손 전투
+    </Item>
+  <Item id="ui_tablets">
+        석판
+    </Item>
+  <Item id="new_skill">
+        새로운 능력
+    </Item>
+  <Item id="ach_BrotherInArms">
+        전우
+    </Item>
+  <Item id="ach_BrotherInArms_desc">
+        동료 전사를 구했습니다.
+    </Item>
+  <Item id="ach_deep_tower">
+        심연의 탑
+    </Item>
+  <Item id="ach_deep_tower_desc">
+        심연의 탑에 진입했습니다.
+    </Item>
+  <Item id="ach_deep_tower_goal">
+        심연의 탑 진입하기
+    </Item>
+  <Item id="BrotherInArms_line_1">
+        고맙네, 형제여! 자네가 아니었으면 난 죽었을 거야.
+    </Item>
+  <Item id="BrotherInArms_line_2">
+        내 목숨을 구했군, 친구. 이 은혜는 꼭 갚지!
+    </Item>
+  <Item id="BrotherInArms_line_3">
+        고맙네, 형제여! 어둠이 우릴 모두 삼키지 않기를.
+    </Item>
+  <Item id="BrotherInArms_line_4">
+        고맙네, 친구! 이 어둠 속에서는 도움의 손길이 황금보다 귀하지.
+    </Item>
+  <Item id="BrotherInArms_line_5">
+        우리가 살아서 여길 빠져나간다면 에일 맥주 한 잔 사지.
+    </Item>
+  <Item id="BrotherInArms_giving_gift">
+        여기서 뭘 좀 찾았네. 받아, 나보단 자네한테 더 필요할 거야.
+    </Item>
+  <Item id="BrotherInArms_damaged_hero_line_1">
+        정신 나갔어?!
+    </Item>
+  <Item id="BrotherInArms_damaged_hero_line_2">
+        미쳤어?!
+    </Item>
+  <Item id="BrotherInArms_damaged_hero_line_3">
+        무기 집어넣어, 이 멍청아!
+    </Item>
+  <Item id="BrotherInArms_damaged_hero_line_4">
+        대체 무슨 짓이야?!
+    </Item>
+  <Item id="BrotherInArms_damaged_hero_line_5">
+        네가 지금 누굴 때리는지나 알아?!
+    </Item>
+  <Item id="control_type_auto">
+        자동
+    </Item>
+  <Item id="control_type_keyboard">
+        키보드
+    </Item>
+  <Item id="control_type_gamepad">
+        게임패드
+    </Item>
+  <Item id="hero_survived_title">
+        의식 회복
+    </Item>
+  <Item id="hero_survived_1">
+        칠흑 같은 어둠 속에서 정신이 든다. 온몸이 쑤시고 머리는 안개가 낀 듯 흐릿하다.
+        무언가 움직이는 소리가 들린다... 근처에 누군가 있다.
+        되돌아갈 길은 없다. 오직 두려움을 뚫고 앞으로 나아갈 뿐.
+    </Item>
+  <Item id="hero_survived_2">
+        눈을 떴지만, 사방은 온통 캄캄하다.
+        적막... 오직 어둠 속에서 무언가 씹어 먹는 소리만이 그 적막을 깬다.
+        살아남긴 했지만, 여기가 어디인지는 알 수 없다. 빠져나가야 한다.
+    </Item>
+  <Item id="hero_survived_3">
+        쇠약함이 당신을 바닥에 짓누른다. 썩은 내와 피비린내가 끈적한 수의처럼 몸에 들러붙는다.
+        근처에서 무언가가 느껴진다... 그리고 그것은 당신을 지켜보고 있다.
+        당신은 살아남았다 — 하지만 어쩌면 살아남지 말았어야 했는지도 모른다.
+    </Item>
+  <Item id="press_key_to_continue">
+        * 계속하려면 {0} 키를 누르십시오 *
+    </Item>
+  <Item id="PerkGasTraps_desc">
+        독가스를 뿜는 바닥 함정을 해제할 수 있습니다.
+    </Item>
+  <Item id="PerkHiddenTraps_desc">
+        상자에 숨겨진 독 함정을 해제할 수 있습니다.
+    </Item>
+  <Item id="PerkShadowArcher_desc">
+        숨은 상태에서 쏜 석궁 사격의 피해량이 증가합니다.
+    </Item>
+  <Item id="crossbow_load_unload">
+        석궁 장전
+    </Item>
+  <Item id="crossbow_loaded_with">
+        석궁에 장전됨:
+    </Item>
+  <Item id="empty">
+        비어 있음
+    </Item>
+  <Item id="quick_items">
+        빠른 사용 아이템
+    </Item>
+  <Item id="menu">
+        메뉴
+    </Item>
+  <Item id="swearing_blacksmith_10">
+        개자식!
+    </Item>
+  <Item id="unload_crossbow_question">
+        석궁 장전을 해제하시겠습니까?
+    </Item>
+  <Item id="control_type_keyboard_mouse">
+        키보드 &amp; 마우스
+    </Item>
+  <Item id="hero_movement_button">
+        이동
+    </Item>
+  <Item id="camera_button">
+        카메라
+    </Item>
+  <Item id="press_key_to_go_dungeon">
+        * 던전으로 뛰어들려면 {0} 키를 누르십시오 *
+    </Item>
+  <Item id="danger">
+        위험
+    </Item>
+  <Item id="sleeping_nightmare_1">
+        어둠이 내 마음속으로 스며든다. 잠조차 안식을 주지 못한다.
+    </Item>
+  <Item id="sleeping_nightmare_2">
+        눈을 감아도 저것들로부터 숨을 수 없다.
+    </Item>
+  <Item id="sleeping_nightmare_3">
+        어둠이 속삭인다. 그 목소리를 들었다.
+    </Item>
+  <Item id="sleeping_normal_1">
+        그저 꿈일 뿐이다. 계속 움직이자...
+    </Item>
+  <Item id="sleeping_normal_2">
+        무슨 뜻일까..?
+    </Item>
+  <Item id="sleeping_normal_3">
+        왜 그런 꿈을 꾸었을까?
+    </Item>
+  <Item id="swearing_hunter_4">
+        빌어먹을 짐승!
+    </Item>
+  <Item id="Yargee_curse">
+        야르지의 저주
+    </Item>
+  <Item id="dagger_throwing_book">
+        단검 투척의 기술
+    </Item>
+  <Item id="dagger_throwing_book_desc">
+        짧은 칼날을 치명적인 정확도로 던지는 기법을 설명한 오래된 논고.
+    </Item>
+  <Item id="dagger_throwing_book_result">
+        단검의 균형, 투척 자세, 그리고 던지는 동작에 대한 장을 연구했습니다.
+
+        *이제 단검을 던지는 기술을 터득하여 먼 거리에서도 치명적인 정확도로 적을 공격할 수 있습니다.*
+    </Item>
+  <Item id="key_binding_prompt">
+        이 행동에 사용할 새 키를 누르십시오.
+        취소하려면 ESC를 누르십시오.
+    </Item>
+  <Item id="keys">
+        키
+    </Item>
+  <Item id="perk_throwing_dagger">
+        단검 투척
+    </Item>
+  <Item id="perk_throwing_dagger_desc">
+        단검을 던질 수 있습니다.
+    </Item>
+  <Item id="total_usages">
+        총 사용 횟수
+    </Item>
+  <Item id="crossbow">
+        석궁
+    </Item>
+  <Item id="crossbow_repair_completed">
+        석궁 수리 완료
+    </Item>
+  <Item id="crossbow_repair_completed_partly">
+        석궁 부분 수리됨
+    </Item>
+  <Item id="lamp_repair_completed">
+        랜턴 수리 완료
+    </Item>
+  <Item id="lamp_repair_completed_partly">
+        랜턴 부분 수리됨
+    </Item>
+  <Item id="ancient_heavy_armor">
+        고대의 판금 갑옷
+    </Item>
+  <Item id="ancient_light_armor">
+        고대의 가죽 갑옷
+    </Item>
+  <Item id="ancient_medium_armor">
+        고대의 사슬 갑옷
+    </Item>
+  <Item id="KnowShieldEnhancements_skill">
+        방패 강화
+    </Item>
+  <Item id="KnowShieldEnhancements_skill_desc">
+        방패를 강화할 수 있습니다.
+    </Item>
+  <Item id="shield_Defense">
+        방어력
+    </Item>
+  <Item id="shield_GripStability">
+        밀쳐짐 저항력
+    </Item>
+  <Item id="shield_LeatherPadding">
+        가죽 덧댐
+    </Item>
+  <Item id="shield_StaminaReduction">
+        스태미나 소모량 감소
+    </Item>
+  <Item id="shield_SteelReinforcement">
+        보강된 뼈대
+    </Item>
+  <Item id="shield_StrongStraps">
+        튼튼한 가죽 끈
+    </Item>
+  <Item id="survived_warrior_about_injured_comrade_1">
+        꼴이 말이 아니군...
+    </Item>
+  <Item id="survived_warrior_about_injured_comrade_2">
+        생지옥을 겪었군...
+    </Item>
+  <Item id="ancient_shield_oldest">
+        닳은 고대의 방패
+    </Item>
+  <Item id="Door">
+        문
+    </Item>
+  <Item id="hero_speech_deep_tower_found">
+        심연의 탑이다!
+    </Item>
+  <Item id="key_additional_name_10">
+        먼지 쌓인
+    </Item>
+  <Item id="key_additional_name_11">
+        이름 없는
+    </Item>
+  <Item id="key_additional_name_9">
+        흐릿한
+    </Item>
+  <Item id="key_bronze">
+        청동 열쇠
+    </Item>
+  <Item id="key_bronze_desc">
+        군데군데 푸른 녹이 슨 오래된 열쇠.
+    </Item>
+  <Item id="key_gold">
+        귀중한 열쇠
+    </Item>
+  <Item id="key_gold_desc">
+        찌든 때 아래에서 희미하게 빛난다. 금과 희귀한 합금으로 만들어졌다.
+    </Item>
+  <Item id="key_mechanics">
+        기계식 열쇠
+    </Item>
+  <Item id="key_mechanics_desc">
+        움직이는 톱니바퀴가 있는 복잡한 열쇠. 제대로 사용하려면 섬세한 조작이 필요하다.
+    </Item>
+  <Item id="key_metal">
+        금속 열쇠
+    </Item>
+  <Item id="key_metal_desc">
+        세월에 검게 변한 표면과 구부러진 모서리를 가진 무거운 열쇠.
+    </Item>
+  <Item id="key_steel">
+        철 열쇠
+    </Item>
+  <Item id="key_steel_desc">
+        검은 철로 투박하게 만들어진 열쇠. 가장자리에 녹과 말라붙은 피가 묻어 있다.
+    </Item>
+  <Item id="key_unknown_purpose_1">
+        이 열쇠가 어떤 비밀을 잠그고 있을지는 오직 짐작만 할 뿐이다.
+    </Item>
+  <Item id="key_unknown_purpose_2">
+        어둠 속 어딘가에 이 열쇠에 맞는 자물쇠가 분명 있을 것이다.
+    </Item>
+  <Item id="key_unknown_purpose_3">
+        이제 이 열쇠가 무엇을 여는지만 찾으면 된다.
+    </Item>
+  <Item id="key_unknown_purpose_4">
+        가치 있는 무언가로 이끌어 줄지도 모른다.
+    </Item>
+  <Item id="key_unknown_purpose_5">
+        이 열쇠의 용도는 과거의 어둠 속에서 잊혀졌다.
+    </Item>
+  <Item id="key_usual">
+        황동 열쇠
+    </Item>
+  <Item id="key_usual_desc">
+        황동과 강철로 만들어진 투박한 열쇠. 묵직하고 튼튼하며, 어둠 속에서 희미하게 빛난다.
+    </Item>
+  <Item id="put_to_storage">
+        보관함에 넣기
+    </Item>
+  <Item id="shield_spike">
+        가시
+    </Item>
+  <Item id="shield_spike_desc">
+        적에게 피해를 입힌다.
+    </Item>
+  <Item id="sith_heavy_shield_desc_old">
+        흠집과 파인 자국으로 뒤덮인 대형 방패. 오래되었지만 여전히 믿음직한 방어력을 제공한다.
+    </Item>
+  <Item id="sith_heavy_shield_desc_oldest">
+        이 대형 방패는 어떤 갑옷이 견딜 수 있는 것보다 더 많은 전투를 겪었다. 부서진 표면에는 마지막 숨까지 싸운 이들의 기억이 남아 있다.
+    </Item>
+  <Item id="sith_heavy_shield_thorn_desc">
+        부서지지 않는 성벽과도 같은, 가시가 달린 강력한 방패. 맹렬한 타격을 견뎌내고 날카로운 가시로 공격하는 적에게 상처를 입힌다.
+    </Item>
+  <Item id="sith_heavy_shield_thorn_wood_desc">
+        커다란 가시가 박힌 무거운 나무 방패. 금속 방패보다는 가볍지만, 강력한 일격을 막아내고 가시로 반격할 수 있다.
+    </Item>
+  <Item id="sith_heavy_shield_wood_desc">
+        단순하지만 튼튼한 대형 나무 방패. 투박해 보이지만 가장 격렬한 공격도 견뎌낼 수 있다.
+    </Item>
+  <Item id="sith_light_shield_desc_old">
+        표면이 마모되고 곳곳이 깨진 소형 방패. 무게와 형태가 전투에서 사용하기에 여전히 편리하다.
+    </Item>
+  <Item id="sith_light_shield_desc_oldest">
+        내구성이 거의 남지 않은 고대의 소형 방패. 녹과 깊게 파인 균열은 이 방패의 수명이 거의 다했음을 분명하게 보여준다.
+    </Item>
+  <Item id="sith_light_shield_thorn_desc">
+        빠른 공격과 회피 동작을 위해 만든 튼튼한 가시 달린 소형 방패. 숙련된 손에서는 방어와 공격이 어우러진 춤이 된다.
+    </Item>
+  <Item id="sith_light_shield_thorn_wood_desc">
+        신속한 공격과 회피에 적합한 가시가 달린 소형 방패. 다른 가시 방패들보다 가벼우며, 노련한 전사가 다루면 무서운 무기가 된다.
+    </Item>
+  <Item id="sith_light_shield_wood_desc">
+        정찰과 빠른 타격에 적합한 가벼운 나무 소형 방패. 민첩한 전투를 가능하게 한다.
+    </Item>
+  <Item id="sith_medium_shield_desc_old">
+        세월에 눈에 띄게 닳아버린 중형 방패. 예전만큼의 튼튼함은 잃었지만 여전히 견고하다.
+    </Item>
+  <Item id="sith_medium_shield_desc_oldest">
+        녹과 균열로 뒤덮여버린 고대의 중형 방패. 예전만큼 튼튼하진 않지만, 아직 몇 번의 일격 정도는 버텨낼 수 있다.
+    </Item>
+  <Item id="sith_medium_shield_thorn_desc">
+        방어와 기동성의 균형이 잘 잡힌 방패. 방어 시 믿음직하고 반격 시 위험한 무기로, 적의 압박을 견디고 되돌려 상처를 입힌다.
+    </Item>
+  <Item id="sith_medium_shield_thorn_wood_desc">
+        강화된 나무로 만든 가시가 달린 중형 방패. 묵직한 가시 방패보다 가볍고, 다루기 쉬우며 근접 방어에 충분히 튼튼하다.
+    </Item>
+  <Item id="sith_medium_shield_wood_desc">
+        무게와 방어력의 균형이 좋은 단단한 나무 방패. 전투에서 다루기 편하고 장기전에서도 믿음직하다.
+    </Item>
+  <Item id="altar_burial_hint">
+        제단을 만져보았지만, 아무 일도 일어나지 않았다.
+    </Item>
+  <Item id="debaff_hangover">
+        숙취
+    </Item>
+  <Item id="event_Avallor_tomb_repaired">
+        고대의 지도자 아발로르의 석관을 복구했습니다.
+    </Item>
+  <Item id="event_WarriorAltarOath">
+        고대 전사들의 영원한 기사단에 맹세했습니다.
+    </Item>
+  <Item id="event_Yargee_buried">
+        야르지의 유해를 매장했습니다.
+    </Item>
+  <Item id="hero_speech_astral_collider_activated">
+        아스트랄 콜라이더가 작동한다!
+    </Item>
+  <Item id="hero_speech_astral_collider_activated_unknown">
+        이 장치가 작동하잖아!
+    </Item>
+  <Item id="info_activate_switch_small">
+        * 스위치 *
+    </Item>
+  <Item id="spider_depth">
+        심층 거미
+    </Item>
+  <Item id="spider_depth_desc">
+        몸통과 다리가 점액으로 뒤덮인 거대한 크기의 기괴한 피조물.
+    </Item>
+  <Item id="stone_coffin_hint">
+        이곳에 고인의 유해가 안치되었던 것 같다.
+    </Item>
+  <Item id="workbench_no_need_to_repair_armor">
+        이 갑옷은 수리할 필요가 없다.
+    </Item>
+  <Item id="workbench_put_armor_question">
+        수리를 위해 작업대에 갑옷을 올려놓으시겠습니까?
+    </Item>
+  <Item id="workbench_repair_armor_desc">
+        갑옷 수리용 작업대.
+    </Item>
+  <Item id="workbench_repair_armor_question">
+        갑옷을 수리하시겠습니까?
+    </Item>
+  <Item id="workbench_repair_kit_required">
+        작업대에서 갑옷을 수리하려면 도구가 필요합니다.
+    </Item>
+  <Item id="game_is_saved">
+        게임이 저장되었습니다.
+    </Item>
+  <Item id="continue_game">
+        계속하기
+    </Item>
+  <Item id="game_leave_question">
+        정말로 던전을 떠나시겠습니까?
+    </Item>
+  <Item id="game_leave_question_desc">
+        마지막 모닥불에서부터 계속 플레이하게 됩니다.
+    </Item>
+  <Item id="swearing_spider_web_1">
+        빌어먹을 거미줄!
+    </Item>
+  <Item id="swearing_spider_web_2">
+        더러운 거미줄 같으니!
+    </Item>
+  <Item id="swearing_spider_web_3">
+        제길, 또 이 거미줄이군!
+    </Item>
+  <Item id="swearing_spider_web_4">
+        끈적거리는 쓰레기!
+    </Item>
+  <Item id="throw_dagger">
+        단검 투척
+    </Item>
+  <Item id="camp_drunk_line_1">
+        하... 마실 게 있다면 나쁘지 않은 밤이군!
+    </Item>
+  <Item id="camp_drunk_line_2">
+        오늘 밤은 다르그로스가 덜 무섭군. 아니, 그런 것 같아.
+    </Item>
+  <Item id="camp_drunk_line_3">
+        음... 모닥불은 몸을 데우고, 술은 속을 덥혀주는군.
+    </Item>
+  <Item id="camp_drunk_line_4">
+        괴물들도 오늘은 쉴 테지... 여긴 그리 나쁘지 않아!
+    </Item>
+  <Item id="camp_drunk_line_5">
+        한 모금 더 마시니 어둠도 그리 시커멓게 보이지 않는군.
+    </Item>
+  <Item id="camp_neutral_line_1">
+        또 하루가 지났군.
+    </Item>
+  <Item id="camp_neutral_line_2">
+        오늘은 나쁘지 않았어.
+    </Item>
+  <Item id="camp_neutral_line_3">
+        모닥불이 따뜻해... 그거면 충분하지.
+    </Item>
+  <Item id="camp_neutral_line_4">
+        다르그로스는 오늘 나를 꺾지 못했어.
+    </Item>
+  <Item id="camp_neutral_line_5">
+        다시 깊은 곳으로 내려가기 전의 휴식이다.
+    </Item>
+  <Item id="camp_nightmare_line_1">
+        오늘 어둠의 숨결이 얼굴에 닿는 걸 느꼈다...
+    </Item>
+  <Item id="camp_nightmare_line_2">
+        어둠이 날 심연으로 끌고 가는 걸 느꼈어.
+    </Item>
+  <Item id="camp_nightmare_line_3">
+        모닥불 옆에 있어도... 속삭임이 멈추질 않아.
+    </Item>
+  <Item id="camp_nightmare_line_4">
+        어둠이 잠결에 날 기다리고 있는 것만 같아.
+    </Item>
+  <Item id="camp_nightmare_line_5">
+        심연을 들여다봤다... 그리고 심연도 나를 마주 보았다.
+    </Item>
+  <Item id="camp_optimistic_line_1">
+        힘든 하루였지만 해냈어!
+    </Item>
+  <Item id="camp_optimistic_line_2">
+        이번엔 놈들의 먹잇감이 되지 않았지!
+    </Item>
+  <Item id="camp_optimistic_line_3">
+        살아남았다. 이 정도면 절반의 승리야!
+    </Item>
+  <Item id="camp_optimistic_line_4">
+        나는 매일 더 강해지고 있어!
+    </Item>
+  <Item id="camp_optimistic_line_5">
+        오늘은 어둠이 물러났군!
+    </Item>
+  <Item id="camp_pessimistic_line_1">
+        끔찍한 하루였어...
+    </Item>
+  <Item id="camp_pessimistic_line_2">
+        괴물들이 날 가만두지 않을 거야...
+    </Item>
+  <Item id="camp_pessimistic_line_3">
+        여기서 얼마나 더 버틸 수 있을지 모르겠군...
+    </Item>
+  <Item id="camp_pessimistic_line_4">
+        이 던전에선 죽음의 악취가 나. 사방에 진동하는군...
+    </Item>
+  <Item id="camp_pessimistic_line_5">
+        이 저주받은 구덩이에서 또 하루가 가는군...
+    </Item>
+  <Item id="slow_motion_option">
+        치명타 적중 시 슬로우 모션
+    </Item>
+  <Item id="Altar_burialStone_desc">
+        기묘한 자국이 남은 차가운 석판. 과거에 여기서 고대의 의식이 치러진 듯하다.
+    </Item>
+  <Item id="Altar_warrior_desc">
+        오래된 핏자국으로 덮인 제단 그릇. 고대의 의식에 쓰였던 것 같다.
+    </Item>
+  <Item id="Avallor_Tomb_desc">
+        훼손된 고대 전사의 석관. 덮개를 제자리에 되돌려 놓으려면 엄청난 힘이 필요할 것이다.
+    </Item>
+  <Item id="inactive_warrior_statue_desc">
+        받침대에서 희미한 온기가 뿜어져 나온다.
+    </Item>
+  <Item id="damaged_items">
+        손상됨:
+    </Item>
+  <Item id="mode_explorer">
+        탐구자의 길
+    </Item>
+  <Item id="mode_explorer_desc">
+        죽으면 영웅은 마지막 모닥불에서 다시 태어납니다.
+        하지만 돌아올 때마다 약해집니다: 장비의 일부가 부서지거나 사라집니다.
+    </Item>
+  <Item id="mode_survivor">
+        생존자의 길
+    </Item>
+  <Item id="mode_survivor_desc">
+        다르그로스의 세계는 실수를 용납하지 않습니다. 죽음은 곧 여정의 끝입니다.
+        오직 희귀한 유물만이 영웅을 다시 삶으로 인도할 수 있습니다.
+    </Item>
+  <Item id="ui_choose_path">
+        당신의 길을 선택하십시오
+    </Item>
+  <Item id="ui_hero_trial">
+        시련을 선택하십시오
+    </Item>
+  <Item id="jammed_object_needed_crowbar">
+        꽉 끼었다! 쇠지렛대가 필요하다.
+    </Item>
+  <Item id="perk_shadow_child_v2_desc">
+        어둠의 영향에 대한 저항력.
+    </Item>
+  <Item id="ring">
+        반지
+    </Item>
+  <Item id="artifact_yargee_skull_desc">
+        검은 얼룩으로 뒤덮인 오래된 해골.
+        다르그로스의 두 번째 층에서 발견되었다. 누구의 것인지는 알 수 없으나, 왠지 모르게 불길한 기운이 감돈다.
+    </Item>
+  <Item id="bottle_buff_damage">
+        격노의 비약
+    </Item>
+  <Item id="bottle_buff_power_desc">
+        일시적으로 근력을 높여 근접 공격 피해량과 상호작용 시 근력 판정 성공률을 올려 준다.
+    </Item>
+  <Item id="continue_adventure">
+        모험 계속하기
+    </Item>
+  <Item id="exit_denied">
+        지나갈 수 없다. 밖에서 잠겨 있다.
+    </Item>
+  <Item id="Laiviel_statue_desc">
+        라이비엘. 생명의 수호자.
+    </Item>
+  <Item id="ach_ancient_secrets">
+        고대인의 비밀
+    </Item>
+  <Item id="ach_ancient_secrets_completed">
+        이 층의 고유한 책을 모두 수집했습니다
+    </Item>
+  <Item id="ach_ancient_secrets_goal">
+        한 층의 고유한 책 모두 수집하기
+    </Item>
+  <Item id="ach_cracker">
+        자물쇠 파괴자
+    </Item>
+  <Item id="ach_cracker_completed">
+        이 층의 잠긴 보관함을 모두 열었습니다
+    </Item>
+  <Item id="ach_cracker_goal">
+        이 층의 잠긴 보관함 모두 열기
+    </Item>
+  <Item id="ach_level2">
+        경비대의 보루
+    </Item>
+  <Item id="ach_level2_completed">
+        던전의 두 번째 층을 완료했습니다.
+    </Item>
+  <Item id="ach_level2_goal">
+        던전의 두 번째 층 완료하기
+    </Item>
+  <Item id="ach_level3">
+        깊은 곳의 대장간
+    </Item>
+  <Item id="ach_level3_completed">
+        던전의 세 번째 층을 완료했습니다.
+    </Item>
+  <Item id="ach_level3_goal">
+        던전의 세 번째 층 완료하기
+    </Item>
+  <Item id="ach_nightmareDungeon_tier">
+        악몽의 층
+    </Item>
+  <Item id="ach_nightmareDungeon_tier_completed">
+        악몽의 던전의 한 층을 완료했습니다
+    </Item>
+  <Item id="ach_nightmareDungeon_tier_goal">
+        악몽의 던전의 한 층 완료하기
+    </Item>
+  <Item id="ach_RingCollector">
+        반지 수집가
+    </Item>
+  <Item id="ach_RingCollector_completed">
+        이 층의 반지를 모두 찾았습니다
+    </Item>
+  <Item id="ach_RingCollector_goal">
+        이 층의 반지 모두 찾기
+    </Item>
+  <Item id="ach_Scout">
+        정찰병
+    </Item>
+  <Item id="ach_Scout_completed">
+        이 층의 비밀 장소를 모두 발견했습니다
+    </Item>
+  <Item id="ach_Scout_goal">
+        이 층의 비밀 장소 모두 발견하기
+    </Item>
+  <Item id="Bistior_statue_name">
+        비스티오르. 어둠에 맞선 전쟁에서 분노의 도끼를 휘두른 자.
+    </Item>
+  <Item id="bottle_buff_dexterity">
+        민첩성의 비약
+    </Item>
+  <Item id="bottle_buff_dexterity_desc">
+        일시적으로 민첩성을 높여 회피, 은신, 상호작용 시 민첩성 판정 성공률을 올려 준다.
+    </Item>
+  <Item id="bottle_buff_perception">
+        통찰력의 비약
+    </Item>
+  <Item id="bottle_buff_perception_desc">
+        일시적으로 통찰력을 높여 시야, 공격 명중률, 상호작용 시 통찰력 판정 성공률을 올려 준다.
+    </Item>
+  <Item id="close_manhole">
+        해치 닫기
+    </Item>
+  <Item id="door_locked_externally">
+        유물을 써 보았지만, 이 거대한 문은 묵묵부답이다. 문을 열 수 있는 무언가를 찾아야 한다.
+    </Item>
+  <Item id="ea_game_completed_congrats">
+        축하합니다!
+        게임의 얼리 액세스 버전을 완료하셨습니다.
+    </Item>
+  <Item id="ea_game_completed_congrats_desc">
+        저희는 '스파크 인 더 다크'를 계속해서 활발히 개발하며 정기적으로 업데이트, 새로운 콘텐츠, 개선 사항, 수정 사항을 선보이고 있습니다. 앞으로도 함께해 주세요.
+    </Item>
+  <Item id="event_GreatBellActivated">
+        거대한 종을 울렸습니다.
+    </Item>
+  <Item id="get_bolts_from_monster">
+        볼트 회수됨
+    </Item>
+  <Item id="Kerlor_statue_name">
+        케를로르. 원거리 전투의 대가.
+    </Item>
+  <Item id="krovoglot">
+        피의 탐식자
+    </Item>
+  <Item id="krovoglot_bestiary_desc">
+        타락과 다르그로스의 썩어 가는 살덩이에서 태어난 피조물. 피의 탐식자들은 살아 있는 피의 온기를 감지하고 거부할 수 없이 이끌리며, 두려움도 고통도 모른다.
+        그들의 일격은 살점을 찢어발기고, 그들이 남긴 상처는 더디게 아문다.
+    </Item>
+  <Item id="krovoglot_exploration_desc">
+        이 부풀어 오른 피조물의 몸은 고동치는 혹과 뼈 가시로 뒤덮여 있고, 찢어진 아가리에서는 검은 피가 배어 나온다.
+    </Item>
+  <Item id="ladder_use_down">
+        사다리를 타고 내려가기
+    </Item>
+  <Item id="ladder_use_up">
+        사다리를 타고 올라가기
+    </Item>
+  <Item id="level3_desc">
+        깊은 곳의 대장간
+    </Item>
+  <Item id="open_manhole">
+        해치 열기
+    </Item>
+  <Item id="perk_counter_attack_master">
+        반격의 대가
+    </Item>
+  <Item id="perk_counter_attack_master_desc">
+        반격의 위력과 속도를 높여 줍니다.
+    </Item>
+  <Item id="perk_traps_master">
+        함정의 대가
+    </Item>
+  <Item id="perk_traps_master_desc">
+        적에게 더 큰 피해를 주는 강화 함정을 만들 수 있게 됩니다.
+    </Item>
+  <Item id="quit_items">
+        남겨둔 아이템:
+    </Item>
+  <Item id="rope_broke">
+        밧줄이 끊어졌다!
+    </Item>
+  <Item id="Ruylor_statue_name">
+        루일로르. 밤의 칼날의 그림자.
+    </Item>
+  <Item id="Silsor_statue_name">
+        실소르. 불굴의 전쟁 군주.
+    </Item>
+  <Item id="skill_book_counter_attack">
+        반격
+    </Item>
+  <Item id="skill_book_counter_attack_desc">
+        이 책은 한때 고대의 전투 달인의 것이었다. 적의 힘을 역이용하는 기법이 설명되어 있다.
+    </Item>
+  <Item id="skill_book_counter_attack_desc_result">
+        이 낡은 책에는 다르그로스의 수많은 전투에서 기술을 갈고닦은 노련한 전사의 글이 담겨 있다.
+        저자는 적의 공세를 견디는 법뿐만 아니라, 적의 모든 실수를 치명적인 일격으로 바꾸는 법을 가르친다.
+
+        *이 책을 연구하면 "반격" 기술을 얻어, 막기에 성공한 뒤 강력한 반격을 가할 수 있습니다.*
+    </Item>
+  <Item id="skill_book_counter_master">
+        반격의 대가
+    </Item>
+  <Item id="skill_book_counter_master_desc">
+        이름난 전사의 희귀한 필사본으로, 막은 뒤 반격하는 최고의 원리가 자세히 적혀 있다.
+    </Item>
+  <Item id="skill_book_counter_master_desc_result">
+        이 필사본은 막기를 방어가 아니라 결정적인 일격의 시작으로 보았던 대가가 걸어온 긴 여정의 결실이다.
+
+        그는 이 책에서 방패나 무기로 완벽한 각도에서 타격을 받아 적의 힘을 흘려 보내고 빈틈을 드러나게 하는 기술을 밝힌다.
+        특히 상대 자세의 약점을 파악하고 최대의 힘으로 반격하는 데 큰 비중을 둔다.
+
+        *이 책을 연구하면 "반격의 대가" 기술을 얻어, 반격의 위력과 속도가 높아집니다.*
+    </Item>
+  <Item id="skill_book_pairDaggers">
+        쌍단검
+    </Item>
+  <Item id="skill_book_pairDaggers_desc">
+        그림자보다 빠르게 움직였던 대가가 쓴, 두 칼날로 싸우는 법에 관한 고대의 논고.
+    </Item>
+  <Item id="skill_book_pairDaggers_desc_result">
+        이 책장들은 단검 한 쌍을 자기 손의 연장으로 만든 전사의 흔들림 없고 자신감 넘치는 필체로 가득하다.
+        저자는 칼날을 휘두를 때마다 하나의 죽음의 춤이 되는, 재빠른 찌르기와 가로막기 기법을 설명한다.
+
+        *이 책을 연구하면 "쌍단검" 기술을 얻어, 두 칼날로 동시에 효과적으로 싸울 수 있습니다.*
+    </Item>
+  <Item id="skill_book_traps_basic">
+        함정: 기초
+    </Item>
+  <Item id="skill_book_traps_basic_desc">
+        단순한 함정을 제작하는 기본 원리가 담긴 작은 공학 설명서.
+    </Item>
+  <Item id="skill_book_traps_basic_desc_result">
+        이 소박한 필사본은 다르그로스의 한 견습 공학자가 가장 단순하고 확실한 함정 제작 규칙을 모으려 애쓰며 엮은 것이다.
+
+        저자는 뼈대에 알맞은 금속, 이빨을 제대로 구부리는 법, 스프링을 고정하는 법, 그리고 확실히 작동하도록 격발 장치를 조정하는 법을 설명한다.
+        여백에는 초기 실험 중에 남긴 것이 분명한 메모와 스케치가 있다 — 단순하지만 쓸모 있다.
+
+        *이 책을 연구하면 기초적인 함정 제작 기술을 얻습니다.*
+    </Item>
+  <Item id="skill_book_traps_master">
+        함정의 대가
+    </Item>
+  <Item id="skill_book_traps_master_desc">
+        사냥과 방어를 위한 강화된 함정 제작법이 기술된 오래된 공학 필사본.
+    </Item>
+  <Item id="skill_book_traps_master_desc_result">
+        이 필사본은 독창적인 장치와 냉철하고 계산적인 머리로 이름난 다르그로스의 한 공학자의 것이었다.
+        그는 처음으로 구조 보강재로 함정을 강화하고, 숨겨진 지렛대 체계로 하중을 분산시키고, 거대한 짐승의 몸부림도 견디는 특수 합금을 썼다.
+
+        기록에서 대가는 정밀한 이빨 연마, 경첩 보강, 섬세한 격발 조정의 비결을 나누며, 함정이 가장 사나운 피조물도 견디고 조금의 지체도 없이 닫히도록 한다.
+
+        *이 책을 연구하면 적에게 더 큰 피해를 주는 강화 함정을 만들 수 있게 됩니다.*
+    </Item>
+  <Item id="skill_improved">
+        {0} 기술 향상됨
+    </Item>
+  <Item id="sleeping_place_beetween_tiers_desc">
+        던전의 층과 층 사이에서 안전한 장소를 찾았다. 이곳에서는 아무도 방해하지 않을 것이다.
+        편히 쉴 수 있다.
+    </Item>
+  <Item id="switch">
+        스위치
+    </Item>
+  <Item id="Tarrior_statue_name">
+        타리오르. 전투 해머의 군주.
+    </Item>
+  <Item id="Tier_statistics">
+        층 통계
+    </Item>
+  <Item id="Total_statistics">
+        전체 통계
+    </Item>
+  <Item id="Bistior_Blessing">
+        피의 노래
+    </Item>
+  <Item id="Bistior_Blessing_desc">
+        비스티오르의 축복. 도끼 공격이 적에게 출혈을 일으킬 수 있다. 영웅은 둔화 효과에 대한 저항력을 얻는다.
+    </Item>
+  <Item id="fps_limit">
+        FPS 제한
+    </Item>
+  <Item id="hero_speech_forge_heart_found">
+        대장간의 심장이다!
+    </Item>
+  <Item id="Kerlor_Blessing">
+        바람의 눈
+    </Item>
+  <Item id="Kerlor_Blessing_desc">
+        케를로르의 축복. 석궁 사격이 더 정확해지고 적에게 출혈을 일으킬 수 있다.
+    </Item>
+  <Item id="perk_narmed_mastery">
+        강철 주먹
+    </Item>
+  <Item id="perk_unarmed_mastery_desc">
+        맨손 전투 시 공격력과 효율이 증가한다.
+    </Item>
+  <Item id="Ruylor_Blessing">
+        강철의 속삭임
+    </Item>
+  <Item id="Ruylor_Blessing_desc">
+        루일로르의 축복. 단검 공격이 추가 피해를 주고 적의 눈을 멀게 할 수 있다.
+    </Item>
+  <Item id="Silsor_Blessing">
+        명예의 빛
+    </Item>
+  <Item id="Silsor_Blessing_desc">
+        실소르의 축복. 검 공격력이 증가하고 검 막기 능력이 향상된다.
+    </Item>
+  <Item id="skill_book_unarmed_mastery">
+        강철 주먹
+    </Item>
+  <Item id="skill_book_unarmed_mastery_desc">
+        무기 없이 싸우는 기술을 다룬 전투 필사본.
+    </Item>
+  <Item id="skill_book_unarmed_mastery_desc_result">
+        이 책은 한때 주먹을 칼이나 해머 못지않은 진정한 무기로 여긴 전사의 것이었다.
+        이 책장에는 잔혹한 결투와 목숨을 건 싸움에서 갈고닦은 주먹 싸움의 원리가 담겨 있다.
+
+        저자는 올바른 자세, 어깨와 몸통의 움직임, 체중 배분, 호흡 조절 등 빠르고 묵직한 일격에 필요한 모든 것을 자세히 설명한다.
+
+        이 기록은 무기를 잃고 승패가 오직 자기 두 손의 힘에 달렸을 때, 고통을 견디며 계속 주먹을 날리는 법을 가르친다.
+
+        *이 책을 연구하면 맨손 전투 기술이 향상되어, 무기 없이 하는 공격의 피해량과 효율이 증가합니다.*
+    </Item>
+  <Item id="speech_cannot_break_me">
+        날 꺾진 못할 거다!
+    </Item>
+  <Item id="speech_cannot_stop_me">
+        날 막을 순 없다!
+    </Item>
+  <Item id="Tarrior_Blessing">
+        천둥의 메아리
+    </Item>
+  <Item id="Tarrior_Blessing_desc">
+        타리오르의 축복. 해머 공격력이 증가한다. 영웅은 쓰러짐 효과에 대한 저항력을 얻는다.
+    </Item>
+  <Item id="Armor_Light_RedSwords_oldest">
+        닳은 진홍의 검 갑옷
+    </Item>
+  <Item id="bolt_barbed">
+        가시 볼트
+    </Item>
+  <Item id="bolt_barbed_desc">
+        가시 돋친 금속 촉을 단 석궁 볼트. 이런 볼트에 입은 상처는 출혈을 일으킨다.
+    </Item>
+  <Item id="bottle_buff_layviel">
+        라이비엘의 비약
+    </Item>
+  <Item id="bottle_buff_layviel_desc">
+        이 비약은 체력과 생명력의 회복을 크게 빠르게 해 준다.
+    </Item>
+  <Item id="canbe_open_with_key">
+        이 문은 특별한 열쇠로 열 수 있는 것 같다. 물론 자물쇠를 따 볼 수도 있다.
+    </Item>
+  <Item id="fill_the_flask">
+        물통을 채우시겠습니까?
+    </Item>
+  <Item id="interesting_item">
+        흥미로운 장신구로군!
+    </Item>
+  <Item id="known_item">
+        이걸 쓸 수 있는 곳을 본 적이 있어.
+    </Item>
+  <Item id="level1_desc_long">
+        *다르그로스의 관문.* 고대의 돌문은 시간이 의미를 잃은 심연으로 이어진다. 던전의 어둠에 감히 도전한 자들의 길이 여기서 시작된다.
+    </Item>
+  <Item id="level2_desc_long">
+        *경비대의 보루.* 감시와 방어를 위해 세운 전당들이 고대 맹세의 고요한 기억을 간직하고 있다. 돌 자체가 불청객의 모든 걸음을 지켜보는 듯하다.
+    </Item>
+  <Item id="level3_desc_long">
+        *깊은 곳의 대장간.* 불은 오래전에 꺼졌지만 그 분노는 남아 있다. 이 깊은 곳에서 금속과 피는 하나로 녹아들었고, 모든 소리는 불안한 공포의 메아리가 되어 어둠 속을 울린다.
+    </Item>
+  <Item id="stellar_anvil_known_desc">
+        별의 모루는 다르그로스의 고대 유물이다.
+        별가루의 힘으로 벼린 무기들이 이 위에서 태어났다.
+        이것에 닿은 금속은 기억을 얻는다고 전해진다.
+
+        표면에 어떤 물건을 끼우는 홈이 있다.
+        그것 없이는 모루를 깨울 수 없을 것 같다.
+    </Item>
+  <Item id="stellar_anvil_unknown_desc">
+        검은 돌로 된 기이하고 거대한 모루.
+        차가운 푸른 반점들이 표면 위에서
+        머나먼 별의 얼어붙은 빛처럼 아른거린다.
+
+        표면에 어떤 물건을 끼우는 홈이 있다.
+        그것 없이는 모루를 깨울 수 없을 것 같다.
+    </Item>
+  <Item id="tap_investigation">
+        이 밸브를 작동하려면 특별한 손잡이가 필요하다.
+    </Item>
+  <Item id="tap_water_known">
+        여기서 물을 뜰 수 있다.
+    </Item>
+  <Item id="crossbow_damaged">
+        석궁 손상됨. 공격력 감소.
+    </Item>
+  <Item id="hero_speech_astral_collider_activated_known_note">
+        이게 뭔지는 모르겠지만... 이제 랜턴이 덜 터지겠군.
+    </Item>
+  <Item id="lets_move_these_creatures">
+        이 피조물들을 한번 움직여 볼까!
+    </Item>
+  <Item id="speech_take_debuff">
+        받아라, {0}!
+    </Item>
+  <Item id="weapon_damage_decreased">
+        무기 손상됨. 공격력 감소.
+    </Item>
+  <Item id="ancient_mechanism_disabled">
+        고대의 장치는 침묵을 지키고 있다.
+    </Item>
+  <Item id="larger_ui">
+        인터페이스 확대
+    </Item>
+  <Item id="push_stone_button">
+        누르기
+    </Item>
+  <Item id="ring_sedrick">
+        세드릭의 반지
+    </Item>
+  <Item id="ring_sedrick_desc">
+        그림자 수호자 세드릭이 던전 깊은 곳으로 내려가기 전에 남긴 작별 편지 옆에서 발견되었다.
+
+        이 반지는 의지력을 높여 생명력 회복을 돕는다.
+    </Item>
+  <Item id="teralixor_gates_key">
+        성문의 열쇠
+    </Item>
+  <Item id="teralixor_gates_key_desc">
+        테랄릭소르가 직접 만든 고대 쉬족의 장치.
+        이 열쇠는 테랄릭소르의 성문을 깨운다 — 다르그로스 깊은 곳으로 가는 길을 감춘 거대한 문을.
+    </Item>
+  <Item id="trap_disabled">
+        함정이 해제되었다.
+    </Item>
+  <Item id="scroll_rack">
+        두루마리 보관대
+    </Item>
+  <Item id="ach_AvallorTomb">
+        마지막 예우
+    </Item>
+  <Item id="ach_AvallorTomb_completed">
+        전설적인 아발로르의 무덤을 복구했습니다.
+    </Item>
+  <Item id="ach_ForgeHeart">
+        대장간의 심장
+    </Item>
+  <Item id="ach_ForgeHeart_completed">
+        깊은 곳의 대장간에 있는 고대의 동력원을 깨웠습니다.
+    </Item>
+  <Item id="ach_HeroesSun">
+        영웅들의 태양
+    </Item>
+  <Item id="ach_HeroesSun_completed">
+        고대 영웅들의 인장을 복구했습니다.
+    </Item>
+  <Item id="ach_YargeeSkull">
+        영원한 안식
+    </Item>
+  <Item id="ach_YargeeSkull_completed">
+        야르지의 유해를 안식에 들게 했습니다
+    </Item>
+  <Item id="battery_box_review">
+        이 장치를 깨우려면 특별한 아이템이 필요한 것 같다.
+    </Item>
+  <Item id="exclamation_commander">
+        사령관님!
+    </Item>
+  <Item id="ironflank">
+        아이언플랭크
+    </Item>
+  <Item id="ironflank_sword">
+        아이언플랭크의 검
+    </Item>
+  <Item id="ironflank_sword_desc">
+        저주받은 자들의 사령관이 쓰던 튼튼한 칼날. 수많은 괴물을 베었고, 주인의 마지막 숨이 다할 때까지 그에게 충실했다.
+    </Item>
+  <Item id="old_axe_desc">
+        닳고 망가졌지만 아직 찍고 쪼갤 수 있는 이 고대의 도끼는 마지막 전투를 기다리고 있다.
+    </Item>
+  <Item id="locked_totally">
+        완전히 잠김
+    </Item>
+  <Item id="artifact_grallion_book_desc">
+        고대의 지식이 담긴 전설의 책. 그 진정한 용도는 여전히 알려지지 않았다.
+    </Item>
+  <Item id="sledgehammer">
+        낡은 대형 해머
+    </Item>
+  <Item id="sledgehammer_desc">
+        낡았지만 여전히 강력한 대장장이의 대형 망치. 한때는 쇠를 벼리는 데 쓰였지만 — 이제는 뼈와 갑옷을 박살 낼 수 있다.
+    </Item>
+  <Item id="spider_Bile_Matriarch">
+        독액의 여왕거미
+    </Item>
+  <Item id="spider_Bile_Matriarch_bestiary">
+        거미 소굴 깊은 곳에 사는 희귀하고 극도로 위험한 피조물.
+        이 거대한 괴물들은 부식성 독을 뿜어내며, 살아남는 자가 거의 없을 만큼 사납게 둥지를 지킨다.
+    </Item>
+  <Item id="spider_Bile_Matriarch_desc">
+        몸통과 다리가 점액으로 뒤덮인 거대한 크기의 기괴한 피조물.
+    </Item>
+  <Item id="spider_depth_bestiary">
+        던전의 가장 어두운 틈새에 사는 크고 치명적인 거미.
+        돌과 거미줄 사이에서 끈기 있게 먹잇감을 기다리다가 무시무시한 속도로 덮쳐, 물어뜯어 약하게 만든 뒤 소굴 깊은 곳으로 끌고 간다.
+    </Item>
+  <Item id="warrior_plate_silsor">
+        실소르 — 어둠의 맹공에 맞서 불굴의 의지로 전선을 지켜낸 사령관.
+    </Item>
+  <Item id="warrior_plate_tarrior">
+        타리오르 — 첫 번째 전쟁의 노장으로, 그의 해머는 어둠의 종족의 대열을 박살 냈다.
+    </Item>
+  <Item id="warrior_plate_bistior">
+        비스티오르 — 도끼로 적들에게 신속하고 무자비한 죽음을 선사한 다르그로스의 복수자.
+    </Item>
+  <Item id="warrior_plate_kerlor">
+        케를로르 — 원거리 전투의 대가로, 그의 볼트는 전투가 시작되기도 전에 적을 꿰뚫었다.
+    </Item>
+  <Item id="warrior_plate_ruylor">
+        루일로르 — 경보가 울리기도 전에 칼날로 죽음을 전한 전쟁의 그림자.
+    </Item>
+  <Item id="event_ForgeHeartActivated">
+        대장간의 심장을 깨웠습니다.
+    </Item>
+  <Item id="back">
+        뒤로
+    </Item>
+  <Item id="forward">
+        앞으로
+    </Item>
+  <Item id="left">
+        왼쪽
+    </Item>
+  <Item id="right">
+        오른쪽
+    </Item>
+  <Item id="talisman">
+        부적
+    </Item>
+  <Item id="delete_savegame">
+        삭제
+    </Item>
+  <Item id="load_savegame">
+        불러오기
+    </Item>
+  <Item id="save_deletion_question">
+        정말로 {0} 저장 데이터를 삭제하시겠습니까?
+    </Item>
+  <Item id="legendary_crossbow">
+        침묵의 집행자
+    </Item>
+  <Item id="legendary_crossbow_desc">
+        검은 개머리와 팽팽한 강철 활대를 지닌 케를로르의 고대 석궁. 그 볼트는 빗나감 없이 날아가, 가장 강한 방어에서도 약점을 찾아낸다.
+    </Item>
+  <Item id="legendary_crossbow_plate_desc">
+        케를로르의 전설적인 석궁은 소름 끼칠 만큼 정밀하게 조립되어 있다. 검은 개머리, 강한 활대, 팽팽한 방아쇠가 모든 사격을 냉혹한 선고로 만든다.
+    </Item>
+  <Item id="gamepad_light">
+        조명
+    </Item>
+  <Item id="gamepad_vibration">
+        진동
+    </Item>
+  <Item id="surgical_kit">
+        수술 도구
+    </Item>
+  <Item id="surgical_kit_desc">
+        심각한 부상을 치료하기 위한 날카로운 도구, 바늘, 봉합실 세트. *깊은 상처*와 *찍힌 상처*를 제거할 수 있다.
+    </Item>
+  <Item id="surgical_kit_desc_short">
+        상처 제거
+    </Item>
+  <Item id="equipment_repair_phrase_1">
+        아직 한동안은 쓸 만하겠군!
+    </Item>
+  <Item id="equipment_repair_phrase_2">
+        이제 좀 낫군!
+    </Item>
+  <Item id="equipment_repair_phrase_3">
+        전보다 더 나아졌어!
+    </Item>
+  <Item id="hero_phrase_teralixor_hidden_device_stasis_note">
+        그 낡은 쪽지에 적혀 있던 것 같은데...
+    </Item>
+  <Item id="hero_phrase_teralixor_hidden_device_unknown">
+        이게 대체 뭐지...
+    </Item>
+  <Item id="bestiary_immunity">
+        면역
+    </Item>
+  <Item id="bestiary_immunity_bleeding">
+        출혈 면역
+    </Item>
+  <Item id="bestiary_immunity_poison">
+        독 면역
+    </Item>
+  <Item id="cort_library_statue_desc">
+        코르트의 고대 조각상. 차갑고 미동도 없다.
+    </Item>
+  <Item id="hero_speech_debuff_immune_format">
+        {0}이(가) 녀석에게 통하지 않는다!
+    </Item>
+  <Item id="hero_trait_acquired">
+        특성 획득: {0}
+    </Item>
+  <Item id="hero_trait_bad_blood">
+        나쁜 피
+    </Item>
+  <Item id="hero_trait_bad_blood_desc">
+        독 피해가 {0}% 감소하지만, 치유 물약의 효과가 {1}% 떨어집니다.
+    </Item>
+  <Item id="hero_trait_hardy">
+        강인함
+    </Item>
+  <Item id="hero_trait_hardy_desc">
+        최대 체력이 {0}% 증가합니다.
+    </Item>
+  <Item id="hero_trait_heavy_hand">
+        묵직한 손
+    </Item>
+  <Item id="hero_trait_heavy_hand_desc">
+        도끼와 해머의 피해량이 {0}% 증가합니다.
+    </Item>
+  <Item id="hero_trait_lame">
+        절름발이
+    </Item>
+  <Item id="hero_trait_lame_desc">
+        이동 속도가 {0}% 감소하지만, 함정 피해가 {1}% 감소합니다.
+    </Item>
+  <Item id="hero_trait_last_effort">
+        최후의 발악
+    </Item>
+  <Item id="hero_trait_last_effort_desc">
+        체력이 {0}% 이하일 때 회피율이 {1}% 증가합니다.
+    </Item>
+  <Item id="hero_trait_light_step">
+        가벼운 발걸음
+    </Item>
+  <Item id="hero_trait_light_step_desc">
+        은신이 {0}% 증가합니다.
+    </Item>
+  <Item id="hero_trait_marked_by_darkness">
+        어둠의 낙인
+    </Item>
+  <Item id="hero_trait_marked_by_darkness_desc">
+        빛 없이 볼 수 있는 시야 반경이 {0}% 증가하지만, 어둠 노출 한계가 {1}% 감소합니다.
+    </Item>
+  <Item id="hero_trait_scarred">
+        흉터투성이
+    </Item>
+  <Item id="hero_trait_scarred_desc">
+        출혈 피해가 {0}% 감소하지만, 체력 재생이 {1}% 느려집니다.
+    </Item>
+  <Item id="hero_trait_sharp_eye">
+        매의 눈
+    </Item>
+  <Item id="hero_trait_sharp_eye_desc">
+        석궁 명중률이 {0}% 증가합니다.
+    </Item>
+  <Item id="hero_trait_shield_bearer">
+        방패잡이
+    </Item>
+  <Item id="hero_trait_shield_bearer_desc">
+        방패로 막을 때 스태미나 소모량이 {0}% 감소합니다.
+    </Item>
+  <Item id="hero_trait_steel_nerves">
+        강철 신경
+    </Item>
+  <Item id="hero_trait_steel_nerves_desc">
+        공포에 저항할 확률이 {0}% 증가합니다.
+    </Item>
+  <Item id="hero_trait_thief_habit">
+        도둑의 습관
+    </Item>
+  <Item id="hero_trait_thief_habit_desc">
+        자물쇠 따기에 실패했을 때 {0}% 확률로 락픽이 부러지지 않습니다.
+    </Item>
+  <Item id="hero_trait_thief_habit_saved_picklock">
+        아직 멀쩡하군. 다시 쓸 수 있겠어.
+    </Item>
+  <Item id="hero_traits">
+        특성
+    </Item>
+  <Item id="armor_scheme_unarmed_heavy_desc">
+        *맨손 피해량을 높여 주는 강철 타격판*을 덧대는 갑옷 강화 도면.
+    </Item>
+  <Item id="armor_scheme_unarmed_light_desc">
+        *손을 보강하고 맨손 피해량을 높여 주는 전투용 감개*를 덧대는 갑옷 강화 도면.
+    </Item>
+  <Item id="armor_scheme_unarmed_medium_desc">
+        *맨손 공격을 강화하는 사슬 건틀릿*을 덧대는 갑옷 강화 도면.
+    </Item>
+  <Item id="Buff_Armor_Unarmed_Heavy">
+        타격판
+    </Item>
+  <Item id="Buff_Armor_Unarmed_Light">
+        전투용 감개
+    </Item>
+  <Item id="Buff_Armor_Unarmed_Medium">
+        사슬 건틀릿
+    </Item>
+  <Item id="damage_unarmed">
+        맨손 피해량
+    </Item>
+  <Item id="hero_speech_krovoglot_caves_1">
+        벽이 죽은 살덩이로 뒤덮여 있어... 피의 탐식자의 소굴이다.
+    </Item>
+  <Item id="hero_speech_krovoglot_caves_2">
+        썩은 내와 묵은 피 냄새... 피의 탐식자들이 근처에 있다.
+    </Item>
+  <Item id="hero_speech_krovoglot_caves_3">
+        피의 탐식자들... 깊은 곳에서 기어 다니는 소리가 들린다.
+    </Item>
+  <Item id="hero_trait_alien_sight">
+        이질적인 시야
+    </Item>
+  <Item id="hero_trait_alien_sight_desc">
+        시야 반경이 {0}% 증가하지만, 최대 스태미나가 {1}% 감소합니다.
+    </Item>
+  <Item id="hero_trait_beyond_gaze">
+        장막 너머의 시선
+    </Item>
+  <Item id="hero_trait_beyond_gaze_desc">
+        시야 반경이 {0}% 증가하지만, 최대 스태미나가 {1}% 감소합니다.
+    </Item>
+  <Item id="hero_trait_call_of_lower_doors">
+        아래 문들의 부름
+    </Item>
+  <Item id="hero_trait_call_of_lower_doors_desc">
+        자물쇠 따기 확률이 {0}% 증가하지만, 함정 피해가 {1}% 증가합니다.
+    </Item>
+  <Item id="hero_trait_door_knower">
+        문을 아는 자
+    </Item>
+  <Item id="hero_trait_door_knower_desc">
+        자물쇠 따기 확률이 {0}% 증가하지만, 함정 피해가 {1}% 증가합니다.
+    </Item>
+  <Item id="hero_trait_light_sleeper">
+        선잠
+    </Item>
+  <Item id="hero_trait_light_sleeper_desc">
+        위험한 곳에서 휴식할 때 {0}% 확률로 습격을 피하지만, 휴식으로는 체력을 최대 {1}%까지만 회복할 수 있습니다.
+    </Item>
+  <Item id="hero_trait_living_root">
+        살아 있는 뿌리
+    </Item>
+  <Item id="hero_trait_living_root_desc">
+        자연 체력 재생이 {0}% 증가하지만, 치유 물약의 효과가 {1}% 떨어집니다.
+    </Item>
+  <Item id="hero_trait_parasitic_root">
+        기생하는 뿌리
+    </Item>
+  <Item id="hero_trait_parasitic_root_desc">
+        자연 체력 재생이 {0}% 증가하지만, 치유 물약의 효과가 {1}% 떨어집니다.
+    </Item>
+  <Item id="hero_trait_silent_chant">
+        소리 없는 영창
+    </Item>
+  <Item id="hero_trait_silent_chant_desc">
+        은신 공격이 최대 스태미나의 {0}%를 회복시킵니다. 어둠 속에서 영웅이 이따금 속삭여 근처의 피조물을 끌어들입니다.
+    </Item>
+  <Item id="hero_trait_stolen_sleep">
+        훔친 잠
+    </Item>
+  <Item id="hero_trait_stolen_sleep_desc">
+        위험한 곳에서 휴식할 때 {0}% 확률로 습격을 피하지만, 휴식으로는 체력을 최대 {1}%까지만 회복할 수 있습니다.
+    </Item>
+  <Item id="hero_trait_stone_listener">
+        돌의 소리를 듣는 자
+    </Item>
+  <Item id="hero_trait_stone_listener_desc">
+        의지력 판정 통과 확률이 {0}% 증가하지만, 어둠이 {1}% 더 빨리 쌓입니다.
+    </Item>
+  <Item id="hero_trait_voiceless_singer">
+        목소리 없는 가수
+    </Item>
+  <Item id="hero_trait_voiceless_singer_desc">
+        은신 공격이 최대 스태미나의 {0}%를 회복시킵니다. 어둠 속에서 영웅이 자주 속삭여 멀리 있는 피조물까지 끌어들입니다.
+    </Item>
+  <Item id="hero_trait_whisper_possessed">
+        속삭임에 사로잡힌 자
+    </Item>
+  <Item id="hero_trait_whisper_possessed_desc">
+        의지력 판정 통과 확률이 {0}% 증가하지만, 어둠이 {1}% 더 빨리 쌓입니다.
+    </Item>
+  <Item id="antipoison_not_required">
+        중독되지 않았다. 해독제는 필요 없다.
+    </Item>
+  <Item id="bandage_not_required">
+        피를 흘리고 있지 않다. 붕대는 필요 없다.
+    </Item>
+  <Item id="book_series_read">
+        책 시리즈를 읽음: “{0}”
+    </Item>
+  <Item id="bottle_buff_enlightenment">
+        깨달음의 비약
+    </Item>
+  <Item id="bottle_buff_enlightenment_desc">
+        비약이 정신을 맑게 하여 어둠의 영향을 약화시키고 쌓인 어둠을 걷어 낸다.
+    </Item>
+  <Item id="cort_library_keeper_oath_name">
+        맹세의 수호자
+    </Item>
+  <Item id="cort_library_keeper_seal_name">
+        봉인의 수호자
+    </Item>
+  <Item id="cort_library_keeper_shackles_name">
+        족쇄의 수호자
+    </Item>
+  <Item id="cort_library_keeper_silence_name">
+        침묵의 수호자
+    </Item>
+  <Item id="darkness_cleanse_not_required">
+        어둠은 아직 나를 건드리지 않았다.
+    </Item>
+  <Item id="darkness_cleanse_result">
+        어둠의 영향이 약해졌습니다.
+    </Item>
+  <Item id="darkness_cleanse_short_desc">
+        어둠 약화
+    </Item>
+  <Item id="hero_speech_bottle_taste_agility">
+        몸이 가벼워진 느낌이다.
+    </Item>
+  <Item id="hero_speech_bottle_taste_antipoison">
+        쓰군... 해독제인 것 같다.
+    </Item>
+  <Item id="hero_speech_bottle_taste_cider_neutral">
+        독하지는 않군. 이 정도면 됐어.
+    </Item>
+  <Item id="hero_speech_bottle_taste_cider_sour">
+        시큼하군... 그래도 마실 만해.
+    </Item>
+  <Item id="hero_speech_bottle_taste_damage">
+        피가 끓어오른다...
+    </Item>
+  <Item id="hero_speech_bottle_taste_enlightenment">
+        어둠이 물러간다...
+    </Item>
+  <Item id="hero_speech_bottle_taste_health">
+        온몸에 온기가 퍼진다.
+    </Item>
+  <Item id="hero_speech_bottle_taste_miruvor">
+        속이 타는군... 하지만 힘이 돌아온다.
+    </Item>
+  <Item id="hero_speech_bottle_taste_noiseless">
+        훨씬 조용해졌다...
+    </Item>
+  <Item id="hero_speech_bottle_taste_perception">
+        생각이 맑아진다.
+    </Item>
+  <Item id="hero_speech_bottle_taste_power">
+        힘이 넘친다!
+    </Item>
+  <Item id="hero_speech_bottle_taste_recovery">
+        통증이 가라앉는다.
+    </Item>
+  <Item id="hero_speech_bottle_taste_stamina">
+        기운이 돌아온다.
+    </Item>
+  <Item id="hero_speech_bottle_taste_strong_alcohol">
+        독한데!
+    </Item>
+  <Item id="hero_speech_bottle_taste_vision">
+        더 멀리까지 보인다.
+    </Item>
+  <Item id="hero_speech_bottle_taste_wine">
+        와인이군. 오래됐지만 아직 살아 있어.
+    </Item>
+  <Item id="hero_speech_yargee_ghost_1">
+        이게 뭐야?!
+    </Item>
+  <Item id="hero_speech_yargee_ghost_2">
+        젠장... 누가 저기 서 있어.
+    </Item>
+  <Item id="hero_speech_yargee_ghost_3">
+        제길... 저게 유령인가?
+    </Item>
+  <Item id="level4_desc_long">
+        *대도서관.* 그 둥근 천장 아래에는 지식을 모은 이들보다 오래 살아남은 지식이 잠들어 있다. 썩어 가는 두루마리와 말 없는 수호자들 사이에, 감히 그것을 읽으려는 자를 파멸시킬 비밀들이 잠들어 있다.
+    </Item>
+  <Item id="surgical_kit_not_required">
+        치료할 만한 상처가 없다. 도구는 필요 없다.
+    </Item>
+  <Item id="three_headed_statue_name">
+        세 머리의 존재
+    </Item>
+  <Item id="Yargee_peace">
+        야르지의 안식
+    </Item>
+  <Item id="ancient_crossbow_double">
+        쌍발 석궁
+    </Item>
+  <Item id="ancient_crossbow_double_desc">
+        두 개의 활강과 독립된 격발 장치를 갖춘 고대인들의 쌍발 석궁. 일반 석궁보다 조금 무겁지만, 재장전 없이 두 번째 볼트를 쏠 수 있다.
+    </Item>
+  <Item id="ancient_crossbow_double_old">
+        닳은 쌍발 석궁
+    </Item>
+  <Item id="ancient_crossbow_double_old_desc">
+        개머리는 흠집투성이이고 격발 장치는 눈에 띄게 닳았다. 오래되었지만 아직 볼트 두 발을 연달아 쏠 수 있다.
+    </Item>
+  <Item id="ancient_crossbow_double_oldest">
+        낡아 빠진 쌍발 석궁
+    </Item>
+  <Item id="ancient_crossbow_double_oldest_desc">
+        개머리는 말라 버렸고, 금속은 녹에 갉아 먹혔으며, 두 격발 장치 모두 뻑뻑하게 움직인다. 아직 작동은 하지만, 사격의 위력은 예전과 거리가 멀다.
+    </Item>
+  <Item id="ancient_crossbow_heavy">
+        갑옷 관통자
+    </Item>
+  <Item id="ancient_crossbow_heavy_desc">
+        강철 활대 네 개를 지닌 고대인들의 중석궁. 복잡한 장치가 그 힘을 볼트 하나에 모아, 방패와 튼튼한 갑옷도 꿰뚫을 수 있다.
+    </Item>
+  <Item id="ancient_crossbow_heavy_old">
+        닳은 갑옷 관통자
+    </Item>
+  <Item id="ancient_crossbow_heavy_old_desc">
+        세월이 검은 개머리와 정교한 장치에 흔적을 남겼다. 네 개의 강철 활대는 아직 튼튼한 방어구를 꿰뚫을 만한 힘을 간직하고 있다.
+    </Item>
+  <Item id="ancient_crossbow_heavy_oldest">
+        낡아 빠진 갑옷 관통자
+    </Item>
+  <Item id="ancient_crossbow_heavy_oldest_desc">
+        녹이 강철 활대를 갉아먹었고, 개머리는 갈라졌으며, 장치는 뻑뻑하게 움직인다. 아직 갑옷을 꿰뚫을 수는 있지만, 옛 위력은 거의 남지 않았다.
+    </Item>
+  <Item id="surgical_kit_trauma_removed">
+        상처 제거됨
+    </Item>
+  <Item id="ancient_crossbow_guard">
+        경비병의 석궁
+    </Item>
+  <Item id="ancient_crossbow_guard_desc">
+        대도서관의 경비병들이 이런 석궁을 들고 다녔다. 튼튼한 개머리와 정성껏 맞춘 격발 장치가 놀라울 만큼 잘 남아 있다. 오래되었지만, 이 무기는 여전히 주인을 충실히 섬긴다.
+    </Item>
+  <Item id="ancient_crossbow_guard_old">
+        닳은 경비병의 석궁
+    </Item>
+  <Item id="ancient_crossbow_guard_old_desc">
+        대도서관의 경비병들이 이런 석궁을 들고 다녔다. 개머리는 검게 변해 반들반들해졌고, 활대에는 녹이 슬었다. 격발 장치는 여전히 믿음직하지만, 세월의 흔적이 남아 있다.
+    </Item>
+  <Item id="ancient_crossbow_guard_oldest">
+        낡아 빠진 경비병의 석궁
+    </Item>
+  <Item id="ancient_crossbow_guard_oldest_desc">
+        대도서관의 경비병들이 이런 석궁을 들고 다녔다. 개머리는 말라 갈라졌고, 녹이 금속을 갉아먹었으며, 격발 장치는 뻑뻑하다. 아직 쏠 수는 있지만, 더는 조심 없이 믿을 수 없다.
+    </Item>
+  <Item id="blacksmith_axes">
+        도끼 단조
+    </Item>
+  <Item id="blacksmith_axes_desc">
+        이 종류의 무기를 별의 모루에서 다시 벼릴 수 있습니다.
+    </Item>
+  <Item id="blacksmith_axes_superior">
+        상급 도끼 단조
+    </Item>
+  <Item id="blacksmith_axes_superior_desc">
+        이 종류의 무기를 별의 모루에서 다시 벼려 더 크게 강화할 수 있습니다.
+    </Item>
+  <Item id="blacksmith_daggers">
+        단검 단조
+    </Item>
+  <Item id="blacksmith_daggers_desc">
+        이 종류의 무기를 별의 모루에서 다시 벼릴 수 있습니다.
+    </Item>
+  <Item id="blacksmith_daggers_superior">
+        상급 단검 단조
+    </Item>
+  <Item id="blacksmith_daggers_superior_desc">
+        이 종류의 무기를 별의 모루에서 다시 벼려 더 크게 강화할 수 있습니다.
+    </Item>
+  <Item id="blacksmith_hammers">
+        해머 단조
+    </Item>
+  <Item id="blacksmith_hammers_desc">
+        이 종류의 무기를 별의 모루에서 다시 벼릴 수 있습니다.
+    </Item>
+  <Item id="blacksmith_hammers_superior">
+        상급 해머 단조
+    </Item>
+  <Item id="blacksmith_hammers_superior_desc">
+        이 종류의 무기를 별의 모루에서 다시 벼려 더 크게 강화할 수 있습니다.
+    </Item>
+  <Item id="blacksmith_swords">
+        검 단조
+    </Item>
+  <Item id="blacksmith_swords_desc">
+        이 종류의 무기를 별의 모루에서 다시 벼릴 수 있습니다.
+    </Item>
+  <Item id="blacksmith_swords_superior">
+        상급 검 단조
+    </Item>
+  <Item id="blacksmith_swords_superior_desc">
+        이 종류의 무기를 별의 모루에서 다시 벼려 더 크게 강화할 수 있습니다.
+    </Item>
+  <Item id="buff_stellar_dust">
+        별가루
+    </Item>
+  <Item id="buff_stellar_dust_desc">
+        별의 모루에서 다시 벼린 무기는 더 큰 피해를 입힙니다.
+    </Item>
+  <Item id="krovoglot_rotten">
+        썩어 가는 피의 탐식자
+    </Item>
+  <Item id="krovoglot_rotten_bestiary_desc">
+        이 피의 탐식자들의 살은 살아 있는 동안에도 썩어 들어가며 역겨운 악취를 풍긴다. 타락이 썩어 가는 몸에 생명을 붙들어 두고, 굶주림은 신선한 피를 찾아 이 피조물을 내몬다.
+        보통의 피의 탐식자처럼 이들도 두려움과 고통을 모른다. 그 일격은 살점을 찢어발기고, 더디게 아무는 상처를 남긴다.
+    </Item>
+  <Item id="krovoglot_rotten_exploration_desc">
+        이 피조물의 창백한 살은 썩은 반점과 부풀어 오른 혹으로 뒤덮여 있다. 뼈 가시 사이로 검은 점액이 배어 나오고, 몸에서는 부패한 악취가 진동한다.
+    </Item>
+  <Item id="ring_archive_guardian">
+        기록 보관소 수호자의 반지
+    </Item>
+  <Item id="ring_archive_guardian_desc">
+        안쪽이 닳아 매끄러워진 묵직한 청동 반지. 닫힌 전당을 지키던 도서관 수호자들이 끼던 것이다.
+
+        이 반지는 방어력을 약간 높여 준다.
+    </Item>
+  <Item id="skill_book_armor_heavy">
+        중갑의 기술
+    </Item>
+  <Item id="skill_book_armor_heavy_desc">
+        중갑을 입고 균형을 잡고 타격을 받아 내는 법에 관한 교본.
+    </Item>
+  <Item id="skill_book_armor_heavy_desc_result">
+        저자는 끈과 고정 장치부터 시작한다: 중갑이 죽은 무게처럼 어깨에 매달려서는 안 된다. 도해에는 무게를 분산하는 법, 이음매를 점검하는 법, 울퉁불퉁한 돌바닥에서 굳건히 버티는 법이 나와 있다.
+
+        이어지는 장들은 상대의 압박 속에서의 자세, 회전, 짧은 걸음을 다룬다. 타격은 발을 잃지 않고 판금 사이의 틈을 드러내지 않은 채, 갑옷 면으로 비스듬히 받아 내야 한다. 아무리 강한 강철도 쓰러진 전사를 구하지는 못한다.
+
+        *이 책을 연구하면 중갑 기술이 향상됩니다.*
+    </Item>
+  <Item id="skill_book_armor_light">
+        경갑의 기술
+    </Item>
+  <Item id="skill_book_armor_light_desc">
+        경갑을 입고 몸을 지키며 자유롭게 움직이는 법에 관한 짧은 교본.
+    </Item>
+  <Item id="skill_book_armor_light_desc_result">
+        저자는 끈이 호흡을 조이지 않고 가죽 가장자리가 회전이나 빠른 걸음을 방해하지 않도록 갑옷을 맞추는 법을 설명한다. 그림에는 자세와 움직임으로 보호해야 하는 노출된 부위가 표시되어 있다.
+
+        특히 타격 직전에 뒤로 물러서며 몸을 트는 동작에 많은 공을 들인다: 칼날이 맨살이 아닌 보강된 부분에 맞기만 한다면, 가벼운 갑옷도 목숨을 구할 수 있다.
+
+        *이 책을 연구하면 경갑 기술이 향상됩니다.*
+    </Item>
+  <Item id="skill_book_armor_medium">
+        평갑의 기술
+    </Item>
+  <Item id="skill_book_armor_medium_desc">
+        평갑을 입었을 때의 자세와 움직임에 관한 실용 교본.
+    </Item>
+  <Item id="skill_book_armor_medium_desc_result">
+        이 책장들은 사슬 갑옷과 보강된 가죽 갑옷을 맞추는 법을 설명한다. 저자는 무게를 분산하고, 어깨가 자유롭게 움직이도록 하며, 강한 타격 후에도 갑옷이 밀리지 않게 하는 법을 알려 준다.
+
+        전투 자세 스케치 옆에는 몸통 회전, 짧은 걸음, 취약한 관절을 가리는 방법이 적혀 있다. 갑옷은 전사의 움직임을 따라가야 한다: 제대로 고정하지 않은 방어구는 바로 지켜야 할 곳을 드러내고 만다.
+
+        *이 책을 연구하면 평갑 기술이 향상됩니다.*
+    </Item>
+  <Item id="skill_book_max_level">
+        {0} 기술은 이미 최고 수준입니다. 책은 그대로 보관됩니다.
+    </Item>
+  <Item id="Svaing_statue_desc">
+        크라엘의 위대한 대장장이 스바잉에게.
+        별에서 벼려 낸 무기의 창조자.
+    </Item>
+  <Item id="weapon_forging_action">
+        다시 벼리기
+    </Item>
+  <Item id="weapon_forging_basic_knowledge">
+        기초 단조:
+    </Item>
+  <Item id="weapon_forging_complete">
+        무기를 다시 벼렸습니다
+    </Item>
+  <Item id="weapon_forging_no_weapons">
+        다시 벼릴 만한 무기가 없습니다.
+    </Item>
+  <Item id="weapon_forging_recipe_unknown">
+        이 종류의 무기를 벼리는 법을 아직 익히지 못했습니다.
+    </Item>
+  <Item id="weapon_forging_result">
+        별가루: 피해량 +{0}% → +{1}%
+    </Item>
+  <Item id="weapon_forging_result_new">
+        별가루: 피해량 +{0}%
+    </Item>
+  <Item id="weapon_forging_title">
+        무기 재단조
+    </Item>
+  <Item id="info_light_forge">
+        * 화로에 불 붙이기 *
+    </Item>
+  <Item id="stellar_anvil_light_forge">
+        먼저 화로에 불을 붙여야 한다.
+    </Item>
+</LocalizedData>

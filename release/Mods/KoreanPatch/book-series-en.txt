@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<BookSeries xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" language="English" languageCode="en">
+    <Serie id="0">
+        <title>
+            위대한 강림의 연대기
+        </title>
+    </Serie>
+    <Serie id="1">
+        <title>
+            고대의 전설
+        </title>
+    </Serie>
+    <Serie id="2">
+        <title>
+            위대한 길
+        </title>
+    </Serie>
+    <Serie id="3">
+        <title>
+            전쟁의 희생자들
+        </title>
+    </Serie>
+    <Serie id="4">
+        <title>
+            분노의 전쟁
+        </title>
+    </Serie>
+    <Serie id="9">
+        <title>
+            암흑 시대
+        </title>
+    </Serie>
+    <Serie id="10">
+        <title>
+            다르그로스의 비밀
+        </title>
+    </Serie>
+    <Serie id="13">
+        <title>
+            영혼의 돌
+        </title>
+    </Serie>
+    <Serie id="14">
+        <title>
+            별에서 태어난 무기
+        </title>
+    </Serie>
+    <Serie id="15">
+        <title>
+            쉬 전사들의 전설
+        </title>
+    </Serie>
+    <Serie id="16">
+        <title>
+            다르그로스 연대기
+        </title>
+    </Serie>
+    <Serie id="17">
+        <title>
+            코르트의 고대 노래
+        </title>
+    </Serie>
+    <Serie id="18">
+        <title>
+            별 에너지
+        </title>
+    </Serie>
+    
+    <Serie id="19">
+        <title>
+            다르그로스의 건립
+        </title>
+    </Serie>
+
+    <Serie id="20">
+        <title>
+            영원한 기사단
+        </title>
+    </Serie>
+
+    <Serie id="21">
+        <title>
+            위대한 공학자
+        </title>
+    </Serie>
+
+    <Serie id="22">
+        <title>
+            심연의 피조물들
+        </title>
+    </Serie>
+
+    <Serie id="23">
+        <title>
+            치유사 라이비엘
+        </title>
+    </Serie>
+
+    <Serie id="24">
+        <title>
+            금지된 기록 보관소
+        </title>
+    </Serie>
+    <Serie id="25">
+        <title>
+            테르다의 지리
+        </title>
+    </Serie>
+    <Serie id="26">
+        <title>
+            세 머리의 존재의 예언
+        </title>
+    </Serie>
+    <Serie id="27">
+        <title>
+            각성의 전쟁
+        </title>
+    </Serie>
+</BookSeries>

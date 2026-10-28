@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<HeroNames language="English" languageCode="en">
+    <HeroName id="1" firstName="true">
+        에드릭
+    </HeroName>
+    <HeroName id="2" firstName="true">
+        레오나르드
+    </HeroName>
+    <HeroName id="3" firstName="true">
+        막시무스
+    </HeroName>
+    <HeroName id="4" firstName="true">
+        발렌틴
+    </HeroName>
+    <HeroName id="5" firstName="true">
+        가빈
+    </HeroName>
+    <HeroName id="6" firstName="true">
+        프레드릭
+    </HeroName>
+    <HeroName id="7" firstName="true">
+        카스파르
+    </HeroName>
+    <HeroName id="8" firstName="true">
+        레무스
+    </HeroName>
+    <HeroName id="9" firstName="true">
+        에른스트
+    </HeroName>
+    <HeroName id="10" firstName="true">
+        빅토리엔
+    </HeroName>
+    <HeroName id="11" firstName="true">
+        가레트
+    </HeroName>
+    <HeroName id="12" firstName="true">
+        드레이큰
+    </HeroName>
+    <HeroName id="13" firstName="true">
+        그레고르
+    </HeroName>
+    <HeroName id="14" firstName="true">
+        파비안
+    </HeroName>
+    <HeroName id="15" firstName="true">
+        카를로스
+    </HeroName>
+    <HeroName id="16" firstName="true">
+        아드리안
+    </HeroName>
+    <HeroName id="17" firstName="true">
+        루돌프
+    </HeroName>
+    <HeroName id="18" firstName="true">
+        모간
+    </HeroName>
+    <HeroName id="19" firstName="true">
+        루카스
+    </HeroName>
+    <HeroName id="20" firstName="true">
+        오스카
+    </HeroName>
+    <HeroName id="21" firstName="true">
+        발타자르
+    </HeroName>
+    <HeroName id="22" firstName="true">
+        에드먼드
+    </HeroName>
+    <HeroName id="23" firstName="true">
+        고트프리트
+    </HeroName>
+    <HeroName id="24" firstName="true">
+        호레이스
+    </HeroName>
+    <HeroName id="25" firstName="true">
+        리처드
+    </HeroName>
+    <HeroName id="26" firstName="true">
+        아카디
+    </HeroName>
+    <HeroName id="27" firstName="true">
+        세베린
+    </HeroName>
+    <HeroName id="28" firstName="true">
+        카시우스
+    </HeroName>
+    <HeroName id="29" firstName="true">
+        퍼디난드
+    </HeroName>
+    <HeroName id="30" firstName="true">
+        개리슨
+    </HeroName>
+    <HeroName id="31" firstName="true">
+        세베루스
+    </HeroName>
+    <HeroName id="32" firstName="true">
+        휴고
+    </HeroName>
+    <HeroName id="33" firstName="true">
+        알버트
+    </HeroName>
+    <HeroName id="34" firstName="true">
+        카지미르
+    </HeroName>
+    <HeroName id="35" firstName="true">
+        오스왈드
+    </HeroName>
+    <HeroName id="36" firstName="true">
+        헤르만
+    </HeroName>
+    <HeroName id="37" firstName="true">
+        펠릭스
+    </HeroName>
+    <HeroName id="38" firstName="true">
+        버나드
+    </HeroName>
+    <HeroName id="39" firstName="true">
+        리오넬
+    </HeroName>
+    <HeroName id="40" firstName="true">
+        이그나트
+    </HeroName>
+    <HeroName id="41" firstName="true">
+        롤란드
+    </HeroName>
+    <HeroName id="42" firstName="true">
+        에릭
+    </HeroName>
+    <HeroName id="43" firstName="true">
+        제럴드
+    </HeroName>
+    <HeroName id="44" firstName="true">
+        레미
+    </HeroName>
+    <HeroName id="45" firstName="true">
+        바르거스
+    </HeroName>
+    <HeroName id="46" firstName="true">
+        아르민
+    </HeroName>
+    <HeroName id="47" firstName="true">
+        페란
+    </HeroName>
+    <HeroName id="48" firstName="true">
+        야로슬라프
+    </HeroName>
+    <HeroName id="49" firstName="true">
+        에메릭
+    </HeroName>
+    <HeroName id="50" firstName="true">
+        이브라김
+    </HeroName>
+    <HeroName id="51" firstName="true">
+        엘드릭
+    </HeroName>
+    <HeroName id="52" firstName="true">
+        발데마르
+    </HeroName>
+    <HeroName id="53" firstName="true">
+        이스가르드
+    </HeroName>
+    <HeroName id="54" firstName="true">
+        라그나르
+    </HeroName>
+    <HeroName id="55" firstName="true">
+        아르투르
+    </HeroName>
+    <HeroName id="56" firstName="true">
+        카일란
+    </HeroName>
+    <HeroName id="57" firstName="true">
+        루시안
+    </HeroName>
+    <HeroName id="58" firstName="true">
+        드라고르
+    </HeroName>
+    <HeroName id="59" firstName="true">
+        해럴드
+    </HeroName>
+    <HeroName id="60" firstName="true">
+        브레너
+    </HeroName>
+    <HeroName id="61" firstName="true">
+        그림바르
+    </HeroName>
+    <HeroName id="62" firstName="true">
+        토랄드
+    </HeroName>
+    <HeroName id="63" firstName="true">
+        레드릭
+    </HeroName>
+    <HeroName id="64" firstName="true">
+        자카르
+    </HeroName>
+    <HeroName id="65" firstName="true">
+        토르발드
+    </HeroName>
+    <HeroName id="66" firstName="true">
+        트리스탄
+    </HeroName>
+    <HeroName id="67" firstName="true">
+        어윈
+    </HeroName>
+    <HeroName id="68" firstName="true">
+        아르토스
+    </HeroName>
+    <HeroName id="69" firstName="true">
+        로비크
+    </HeroName>
+    <HeroName id="70" firstName="true">
+        레인가르
+    </HeroName>
+    <HeroName id="71" firstName="true">
+        니콜라
+    </HeroName>
+    <HeroName id="72" firstName="true">
+        유스타시우스
+    </HeroName>
+    <HeroName id="73" firstName="true">
+        코난
+    </HeroName>
+    <HeroName id="74" firstName="true">
+        시도르
+    </HeroName>
+
+    <HeroName id="75" isUnique="true">
+        아이그레드
+    </HeroName>
+    <HeroName id="76" isUnique="true">
+        베레드
+    </HeroName>
+    <HeroName id="77" isUnique="true">
+        볼가르드 파에론
+    </HeroName>
+    <HeroName id="78" isUnique="true">
+        켈디그
+    </HeroName>
+    <HeroName id="79" isUnique="true">
+        올라프 브라가
+    </HeroName>
+    <HeroName id="80" isUnique="true">
+        아발로르
+    </HeroName>
+    <HeroName id="81" isUnique="true">
+        빈센트
+    </HeroName>
+    <HeroName id="82" isUnique="true">
+        코윈
+    </HeroName>
+    <HeroName id="83" isUnique="true">
+        솔그렌
+    </HeroName>
+    <HeroName id="84" isUnique="true">
+        하르단
+    </HeroName>
+    <HeroName id="85" isUnique="true">
+        테랄릭소르
+    </HeroName>
+</HeroNames>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PoemSeries language="English" languageCode="en">
+    <Serie id="1">
+        심연의 기억
+    </Serie>
+    <Serie id="2">
+        사투 끝에 쟁취한 승리의 연대기
+    </Serie>
+    <Serie id="3" isCustom="true">
+        아발로르의 맹약
+    </Serie>
+    <Serie id="4">
+        창조의 불꽃
+    </Serie>
+    <Serie id="5" isCustom="true">
+        영원한 기사단의 맹세
+    </Serie>
+    <Serie id="6" isCustom="true">
+        영원 속으로의 하강
+    </Serie>
+    <Serie id="7" isCustom="true">
+        장로회의 맹세
+    </Serie>
+</PoemSeries>
