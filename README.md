@@ -2,7 +2,7 @@
 
 Spark in the Dark 한글패치입니다. 게임 파일을 바꾸지 않고, 게임이 실행될 때 한글 번역과 한글 글꼴을 적용합니다.
 
-[SparkModLoader]((https://github.com/backchohyo/spark-in-the-dark-modloader)) 가 필요합니다.
+[SparkModLoader]([https://github.com/backchohyo/spark-in-the-dark-modloader]) 가 필요합니다.
 
 ## 설치
 
